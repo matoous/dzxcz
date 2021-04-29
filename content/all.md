@@ -1,0 +1,4 @@
+---
+title: "All"
+layout: "all"
+---
