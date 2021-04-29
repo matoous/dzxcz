@@ -1,0 +1,18 @@
+<nav>
+  <h1 style="font-size:1rem;margin:0 1.4rem 0 0;">
+    <a href="{{ .Site.BaseURL | relLangURL }}">
+        {{ .Site.Title }}
+    </a>
+  </h1>
+  <ul style="list-style:none;padding:0;margin:.6rem 0;">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        <li>
+          <a class="{{if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.RelPermalink .URL) }}active{{end}}"
+             href="{{ .URL | absLangURL }}" title="{{ .Title }}">
+              {{ .Name }}
+          </a>
+        </li>
+      {{ end }}
+  </ul>
+</nav>

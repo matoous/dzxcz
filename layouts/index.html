@@ -1,0 +1,8 @@
+{{ define "main" }}
+  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{ partial "listing.html" (first 16 $pages) }}
+
+  <div style="display:flex;justify-content:center;margin-top:1.6rem;">
+    <a href="/all">All Posts</a>
+  </div>
+{{ end }}

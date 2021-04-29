@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+      <div style="font-size: .9rem;">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          <div>
+              {{ range $i, $tag := (.GetTerms "tags") }}
+                  {{ if not (eq $i 0) }}·{{end}}
+                  {{with $tag}}
+                    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                  {{end}}
+              {{ end }}
+          </div>
+      </div>
+    </header>
+      {{ .Content }}
+  </article>
+{{ end }}

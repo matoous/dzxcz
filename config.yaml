@@ -1,0 +1,50 @@
+baseURL: "https://dzx.cz/"
+languageCode: "en-us"
+title: "Matouš Dzivjak"
+author: "Matouš Dzivjak"
+enableGitInfo: true
+enableInlineShortcodes: true
+copyright: "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+permalinks:
+  posts: /:year/:month/:day/:slug
+  books: /:year/:month/:day/:slug
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    title: Home
+    url: /
+    weight: 1
+  - identifier: writing
+    name: Writing
+    title: Writing
+    url: /posts/
+    weight: 2
+  - identifier: reading
+    name: Reading
+    title: Reading
+    url: /books/
+    weight: 3
+  - identifier: about
+    name: About
+    title: About
+    url: /about/
+    weight: 4
+  - identifier: etc
+    name: Etc.
+    title: Etc.
+    url: /etc/
+    weight: 5
+  - identifier: wiki
+    name: Wiki 🧠
+    url: https://wiki.dzx.cz
+    weight: 6
+
+params:
+  author: "Matouš Dzivjak"
+  description: "Personal website with articles, projects and other work of Matous Dzivjak"
+  images:
+    - images/og-featured.png # relative path to "static" directory
+  dateFormat: "2006-01-02"
+  mainSections: ["books", "posts"]

@@ -1,0 +1,25 @@
+<footer style="margin:4rem 0 2rem;font-size:.8rem;color:var(--light);">
+  <div>
+    © Matous Dzivjak, {{ now.Year }}
+  </div>
+  <div>
+    Backend Developer @ Kiwi.com
+  </div>
+  <div>
+    <address>Prague, Czech Republic</address>
+  </div>
+  <div>
+  </div>
+  <div>
+    <a href="mailto:matousdzivjak@gmail.com">matousdzivjak@gmail.com</a> ·
+    <a href="https://github.com/matoous">GitHub</a> ·
+    <a href="https://keybase.io/matousdz">Keybase</a> ·
+    <a href="https://www.linkedin.com/in/matous-dzivjak/">LinkedIn</a> ·
+    <a href="https://www.instagram.com/matousdz/">Instagram</a>
+  </div>
+  <div>
+      {{ with .GitInfo }}
+          {{ .Hash }}, <time datetime="{{ .AuthorDate.Format "2006-01-02" }}">{{ .AuthorDate.Format "2006-01-02" }}</time>
+      {{ end }}
+  </div>
+</footer>

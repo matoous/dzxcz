@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <header>
+    <h1 style="margin-bottom:.4rem;">
+        {{.Title}}
+    </h1>
+      {{ partial "tags.html" . }}
+  </header>
+  {{.Content}}
+  {{ partial "listing.html" .Pages }}
+{{ end }}

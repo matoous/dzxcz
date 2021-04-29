@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/matousdz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dzx.cz
+  * I am matousdz (https://keybase.io/matousdz) on keybase.
+  * I have a public key ASDbTE8pF-UKuCJv3_Zem6t9p_9ZBwOG-Wh5PgoJNT0jFgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e85f5178a63e83c6222f2ae70b0e3655043af3b0acc48ebbeceaeb0099a3d420a",
+      "host": "keybase.io",
+      "kid": "0120db4c4f2917e50ab8226fdff65e9bab7da7ff59070386f968793e0a09353d23160a",
+      "uid": "b52206927919653dcf1cd350916d5519",
+      "username": "matousdz"
+    },
+    "merkle_root": {
+      "ctime": 1591872109,
+      "hash": "fd29e5369fdf99e18ff56b7b5fec6c0282072347c02491347c9719430324bc44c7cfc05d10fd76d453979eee72553a54550a88943c6c249bde42ee53a6c51836",
+      "hash_meta": "9dda6c582b657cad17e6d1ffc2f0cb43e47c1a4d5764bf58559bc923b9380b9c",
+      "seqno": 16628998
+    },
+    "service": {
+      "entropy": "o2i4b6s+a3eJsTxuPCD8BSGL",
+      "hostname": "dzx.cz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591872121,
+  "expire_in": 504576000,
+  "prev": "2de6bd2f8cca28dcebbc16167505e087127fe7defae1ac27c0b8dba6f31b3d7d",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg20xPKRflCrgib9/2Xpurfaf/WQcDhvloeT4KCTU9IxYKp3BheWxvYWTESpcCF8QgLea9L4zKKNzrvBYWdQXghxJ/59764awnwLjbpvMbPX3EIAxYHj9rDAhXn26u6weFnXN3umSiTgl/ZyasRUmA2E01AgHCo3NpZ8RAJ325BU+2qq0CeQVlWDsC2ZhCUXtfAnHhgMRqCEb49e93wpJ75UeZN2Yzgsg8x3uXRbyZKG+XyH61TvRomPH5AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJCi+gSVpzVt1I4IkflTde4nlDGDChxiwVwy6d9Cmtsho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/matousdz
+
+==================================================================

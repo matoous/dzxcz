@@ -1,0 +1,6 @@
+<blockquote class="{{ if eq ( .Get 1 ) "noQuotes" }}noQuotes{{end}}">
+    {{ .Inner | markdownify }}
+  <cite>
+      {{ (index .Params 0) | markdownify }}
+  </cite>
+</blockquote>
