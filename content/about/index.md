@@ -47,6 +47,8 @@ a few personal projects:
 
 * [go-nanoid](https://github.com/matoous/go-nanoid) -
   Tiny golang package for generating URL friendly unique IDs.
+* [Mnemoname](https://github.com/matoous/mnemoname) -
+  tiny golang utility for generating [mnemonic names](https://web.archive.org/web/20090918202746/http://tothink.com/mnemonic/wordlist.html).
 * [ezmail](https://github.com/matoous/ezmail) -
   easy CLI utility for sending emails from terminal useful for scripts and people
   that don't want to set up the default `mail` command that saves credentials
