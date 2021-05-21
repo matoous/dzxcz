@@ -32,12 +32,12 @@ and stability demand.
 {{</details>}}
 
 {{<details "**DevOps and Technical Support for Ads Systems @ [FTV Prima](https://www.iprima.cz/)**, _9/2018 - 1/2019_">}}
-Technical support for online platform advertisement team helping with everything that’s needed. Data transformations and pipelines. Advertisement systems. API endpoints. Working mainly in Node.js, Python and SQL.
+Technical support for online platform advertisement team. Helping with every possible task at hand, so mostly scripting and data pipelines.
 {{</details>}}
 
 
 {{<details "**Full-Stack Developer @ [Techambition Ltd.](https://en.techambition.com/)**, _9/2017 - 5/2018_">}}
-Full-stack developer (Node.js and React) of online interactive tool for high school mathematics in small startup team.
+Full-stack developer (Node.js and React) of an online interactive tool for high school mathematics in a small startup.
 {{</details>}}
 
 ## Projects
