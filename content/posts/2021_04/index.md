@@ -58,5 +58,5 @@ services I can't wait to try.
 
 ## Coffee
 
-Nothing new this month. Will order something good this month.
+Nothing new in April. Will order something good this month.
 
