@@ -4,7 +4,7 @@
   --background: #fff;
   --light: #555;
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  --page-width: 680px;
+  --page-width: 840px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -79,13 +79,6 @@ footer {
   }
 }
 
-main {
-  margin-top: 2rem;
-  @media only screen and (max-width: 1080px) {
-    margin-top: 0;
-  }
-}
-
 .wrap {
   padding: 0 20px;
   display: grid;
@@ -95,10 +88,6 @@ main {
   margin: 0 auto;
   max-width: var(--page-width);
   grid-template-columns: 100%;
-  @media only screen and (min-width: 1080px) {
-    max-width: calc(2 * 220px + var(--page-width));
-    grid-template-columns: 1fr var(--page-width) 1fr;
-  }
 }
 
 ul {
@@ -136,16 +125,6 @@ nav {
       &.active {
         font-weight: 700;
       }
-    }
-  }
-
-  @media only screen and (min-width: 1080px) {
-    align-items: start;
-    flex-direction: column;
-    justify-content: flex-start;
-    margin-top: 2rem;
-    li {
-      display: block;
     }
   }
 }
