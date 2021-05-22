@@ -6,6 +6,11 @@ draft: false
 tags: ["journal","writing"]
 ---
 
+This was my last month at [Kiwi.com](https://kiwi.com). After almost 2.5 years I am bidding farewell
+and starting a new journey at [SumUp](https://sumup.com). While I don't feel particularly moved
+by leaving I am incredibly grateful for the time I spent at Kiwi.com.
+
+I write less than I would like to. Not because I don't have things to write about
 
 {{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5173474635/embed/3f1ccfa1e7b96fdae87113254f1c9ee974477aac'></iframe>

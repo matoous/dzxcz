@@ -1,8 +1,13 @@
+{{ $pages := . }}
 <section class="listing">
-    {{ range . }}
+    {{ range ($pages.GroupByDate "2006") }}
+      <div class="year">{{ .Key  }}</div>
+      {{ range .Pages }}
       <a href="{{.Permalink}}">
           {{.Title}}{{ with .Params.author }} <span>by {{.}}</span>{{end}}
       </a>
       <time datetime="{{ .Date.Format "2006-01-02" }}" class="📅">{{.Date.Format "2006-01-02"}}</time>
+      {{ end }}
     {{ end }}
 </section>
+
