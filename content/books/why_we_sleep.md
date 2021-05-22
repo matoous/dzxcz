@@ -83,6 +83,20 @@ knowing how important sleep really is. I think we all should learn more about sl
 almost one-third of our lives at and yet know so little about. That being said, the books has its flaws and
 factual errors, you can read more about these for example in this article: [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/).
 
+### Critics
+
+[Alexey Guzey](https://guzey.com) wrote lengthy article titled _[Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)_
+that debunks and disputes many claims in the book, to name a few:
+
+- No, shorter sleep does not imply shorter life span
+- No, a good night’s sleep is not always beneficial
+- No, lack of sleep will not outright kill you
+- No, two-thirds of adults in developed nations do not fail to obtain the recommended amount of sleep
+- and many more...
+
+I definitely recommend reading the blog post as well as the discussions
+linked in the first paragraph.
+
 ### Learn more about sleep
 
 * [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
