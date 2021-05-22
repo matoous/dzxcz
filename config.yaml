@@ -37,7 +37,7 @@ menu:
     url: /etc/
     weight: 5
   - identifier: wiki
-    name: Wiki 🧠
+    name: Wiki
     url: https://wiki.dzx.cz
     weight: 6
 

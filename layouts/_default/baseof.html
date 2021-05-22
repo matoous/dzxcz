@@ -6,18 +6,14 @@
     {{ end }}
 </head>
 <body>
-<div class="wrap">
-    {{ block "nav" . }}
-        {{ partial "nav.html" . }}
-    {{ end }}
-  <div>
-    <main>
-        {{ block "main" . }}{{ end }}
-    </main>
-      {{ block "footer" . }}
-          {{ partial "footer.html" . }}
-      {{ end }}
-  </div>
-</div>
+  {{ block "nav" . }}
+    {{ partial "nav.html" . }}
+  {{ end }}
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+  {{ end }}
 </body>
 </html>
