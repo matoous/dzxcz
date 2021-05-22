@@ -1,4 +1,7 @@
 {{ define "main" }}
-  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{ partial "listing.html" $pages }}
+    <div class="welcome">
+        Hi! I'm <a href="/about">Matous</a>, software engineer, hybrid athlete and passionate cook. Sometimes I also write. ↓
+    </div>
+    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ partial "listing.html" $pages }}
 {{ end }}
