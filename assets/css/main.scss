@@ -241,14 +241,6 @@ img {
     font-weight: 200;
   }
 
-  @media only screen and (max-width: 600px) {
-    grid-template-columns: 1fr;
-    grid-gap: .2rem;
-    .📅 {
-      margin-bottom: .5rem;
-    }
-  }
-
   .year {
     grid-column-start: span 2;
     margin-top: 1rem;
@@ -257,6 +249,17 @@ img {
 
     &:first-of-type {
         margin-top: 0;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    grid-template-columns: 1fr;
+    grid-gap: .2rem;
+    .📅 {
+      margin-bottom: .5rem;
+    }
+    .year {
+        grid-column-start: span 1;
     }
   }
 }
@@ -275,3 +278,8 @@ sup a {
     margin: 0;
 }
 
+.welcome {
+    font-size: .9rem;
+    margin-bottom: 2rem;
+    font-weight: 300;
+}
