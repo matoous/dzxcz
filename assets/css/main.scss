@@ -24,6 +24,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
   margin: 0;
+  padding: 0 20px;
+  display: grid;
+  grid-gap: 20px;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  max-width: var(--page-width);
 }
 
 ::selection, ::-moz-selection {
@@ -37,15 +44,21 @@ body {
 
 a {
   color: var(--foreground);
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 h1, h2, h3, h4, h5 {
-  font-weight: 800;
-  letter-spacing: -0.0425rem;
+  font-weight: 700;
+  letter-spacing: -0.03rem;
 }
 
 h1 {
-  font-size: 1.875rem;
+  font-size: 2.4rem;
+  font-weight: 800;
 }
 
 .🏷 {
@@ -70,6 +83,9 @@ pre {
 }
 
 footer {
+  margin: 4rem 0 2rem;
+  font-size: .8rem;
+  color: var(--light);
   a {
     color: var(--light);
 
@@ -77,17 +93,6 @@ footer {
       color: var(--foreground);
     }
   }
-}
-
-.wrap {
-  padding: 0 20px;
-  display: grid;
-  grid-gap: 20px;
-  position: relative;
-  width: 100%;
-  margin: 0 auto;
-  max-width: var(--page-width);
-  grid-template-columns: 100%;
 }
 
 ul {
@@ -99,6 +104,10 @@ header {
   h1:first-of-type {
     margin-top: 0;
   }
+}
+
+main h1:first-of-type {
+  margin-top: 0;
 }
 
 nav {
@@ -131,10 +140,6 @@ nav {
 
 article {
   header {
-    h1 {
-      font-size: 2.4rem;
-      line-height: 1.2;
-    }
     a {
       color: var(--light);
     }
