@@ -248,6 +248,17 @@ img {
       margin-bottom: .5rem;
     }
   }
+
+  .year {
+    grid-column-start: span 2;
+    margin-top: 1rem;
+    font-weight: 200;
+    font-size: .9rem;
+
+    &:first-of-type {
+        margin-top: 0;
+    }
+  }
 }
 
 abbr {
