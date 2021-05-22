@@ -6,7 +6,7 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-I started building my personal knowladge base/wiki - [wiki.dzx.cz](https://wiki.dzx.cz/).
+I started building my personal knowledge base/wiki - [wiki.dzx.cz](https://wiki.dzx.cz/).
 The wiki is heavily inspired by [_Everything I know_](https://wiki.nikitavoloboev.xyz/) by Nikita Voloboev,
 although I initially planned to use [Notion](https://www.notion.so/) for the purpose
 it was missing sidebar for easy navigation.

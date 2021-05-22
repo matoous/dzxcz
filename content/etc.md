@@ -37,19 +37,20 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [The ABC’S of Guiding the Child](http://web.archive.org/web/20110725071610/http://www.carterandevans.com:80/portal/images/pdf/article70.pdf) - Rudolf Dreikurs, M.D.
 - [Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness](https://www.nber.org/papers/w22487.pdf) - by Steven D. Levitt
 
-## Websites
+## Other blogs
 
-- [100 rabbits](https://100r.co/site/home.html) - Blog of a pair living on a boat by Rekka and Devine
-- [Paul Graham](http://paulgraham.com/articles.html) - Essays
-- [JL Collins](https://jlcollinsnh.com/stock-series/) - Stock series
-- [Tom MacWright](https://macwright.com/) - Blog
-- [Paul Stamatiou](https://paulstamatiou.com/) - Blog and Photo Album
-- [Alexey Guzey](https://guzey.com/) - Blog
-- [Gwern Branwen](https://www.gwern.net/index) - Blog, interesting articles,
-  interesting topics, I just hate how cluttered the website is.
-- [Alex Danco](https://alexdanco.com/) - Weekly newslatter in newspaper-like style
-- [Nikita Voloboev](https://nikitavoloboev.xyz/) - Projects and personal wiki/knowladge base.
-- [Mike Winkelmann](https://www.beeple-crap.com/) - Digital art.
+- [Paul Graham](http://paulgraham.com/articles.html)
+- [Tom MacWright](https://macwright.com/)
+- [Paul Stamatiou](https://paulstamatiou.com/)
+- [Alexey Guzey](https://guzey.com/)
+- [Gwern Branwen](https://www.gwern.net/index)
+- [Alex Danco](https://alexdanco.com/)
+- [Nikita Voloboev](https://nikitavoloboev.xyz/)
+- [Dan Abramov](https://overreacted.io)
+- [Sandy Maguire](https://reasonablypolymorphic.com/blog/archives/) and the [other blog](https://sandymaguire.me/blog/archives/)
+- [Nicholas Nethercote](https://nnethercote.github.io)
+- [100 rabbits](https://100r.co/site/home.html)
+
 
 ## Movies
 

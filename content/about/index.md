@@ -81,7 +81,3 @@ setInterval(() => {counter.innerHTML = parseInt(counter.innerHTML) + 1}, 1000);
 </script>
 {{</rawhtml>}}
 
-## Coding
-
-* My vim config: [init.vim]({{< ref "/other/vim" >}})
-
