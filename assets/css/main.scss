@@ -86,6 +86,9 @@ footer {
   margin: 4rem 0 2rem;
   font-size: .8rem;
   color: var(--light);
+  address {
+      display: inline-block;
+  }
   a {
     color: var(--light);
 
@@ -260,6 +263,7 @@ img {
     }
     .year {
         grid-column-start: span 1;
+        text-align: center;
     }
   }
 }
