@@ -2,7 +2,7 @@
 title: "Preventing path traversal in Golang"
 date: 2021-04-02
 slug: go_path_traversal
-draft: true
+draft: false
 tags: ["code", "security", "golang", "writing"]
 ---
 
