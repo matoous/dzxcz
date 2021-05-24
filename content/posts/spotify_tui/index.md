@@ -36,13 +36,13 @@ There are some additional tweaks that need to be done on MacOS before
 the deamon can run. First, make sure that you have directory for
 the `spotifyd` config file:
 
-```
-mkdir -p ~/.config/spotifyd`
+```bash
+mkdir -p ~/.config/spotifyd
 ```
 
 Next, create following config file modifying your username as needed:
 
-```
+```bash
 echo "[global]
 username = "your_username@example.com"
 use_keyring = true
@@ -56,14 +56,14 @@ If you want to learn more about the configuration options see the full
 The configuration above takes advantage of the MacOS Keychain to store the password.
 To add the password to the kaychain, run:
 
-```
+```bash
 security add-generic-password -s spotifyd -D rust-keyring -a your_username@example.com -w
 ```
 
 This will prompt you for the password for you spotify account. After this step
 you are all set and ready. Just start up the deamon:
 
-```
+```bash
 brew services start spotifyd
 ```
 
@@ -71,7 +71,7 @@ brew services start spotifyd
 
 Next step is to install and configure the Spotify TUI. First install it using:
 
-```
+```bash
 brew install spotify-tui
 ```
 
@@ -100,7 +100,7 @@ and watch your colleagues gaze in envy.
 
 By the way, if you don't want to keep the `spotifyd` running in background you can alias `spt` to this:
 
-```
+```bash
 alias spt="brew services start spotifyd && spt && brew services stop spotifyd"
 ```
 
