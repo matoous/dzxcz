@@ -52,7 +52,7 @@ a:hover {
 
 h1, h2, h3, h4, h5 {
   font-weight: 700;
-  letter-spacing: -0.03rem;
+  letter-spacing: -0.0425rem;
 }
 
 h1 {
@@ -141,17 +141,31 @@ nav {
 
 article {
   header {
-    a {
-      color: var(--light);
-    }
-  }
-
-  .tags:not(:last-of-type)::after {
-    content: "·";
+      h1 {
+          line-height: 1em;
+          margin-bottom: .4rem;
+      }
   }
 
   iframe {
       max-width: 100%;
+  }
+
+  .meta {
+      color: var(--light);
+      font-size: .9rem;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      > * {
+          margin-right: .4rem;
+      }
+      a {
+          color: var(--light);
+      }
+      time {
+          font-style: italic;
+      }
   }
 }
 
@@ -216,7 +230,7 @@ img {
 }
 
 .etc li {
-  color: var(--dark);
+    color: var(--dark);
 }
 
 .listing {
