@@ -9,7 +9,7 @@ tags: ["journal","writing"]
 I started building my personal knowledge base/wiki - [wiki.dzx.cz](https://wiki.dzx.cz/).
 The wiki is heavily inspired by [_Everything I know_](https://wiki.nikitavoloboev.xyz/) by Nikita Voloboev,
 although I initially planned to use [Notion](https://www.notion.so/) for the purpose
-it was missing sidebar for easy navigation.
+it is missing sidebar for easy navigation.
 
 April was in the name of sports. I finished with 27 active days for the total
 of 67 hours, keeping the bar high after Mallorca. My Achilles tendon is soar
@@ -18,8 +18,9 @@ On the other hand, my cycling performance is better by the day.
 
 Oh, and we did this crazy thing.
 Except my stomach protesting half the ride it wasn't as brutal as I expected, only long, very long.
-I left Litomerice before 8:00 and we arrived at Doubravka at 19:30 in the evening with
-short lunch break in Plzen to fuel up with large bowl of pasta with tuna and sauce.
+I left Litomerice before 8:00, met with Vojta around 3 hours in, we had a quick stop for
+a large bowl of pasta with tune and sauce and a coffee at Plzen at around 13:00
+and we arrived at Doubravka at 19:30.
 
 {{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5173474635/embed/3f1ccfa1e7b96fdae87113254f1c9ee974477aac'></iframe>

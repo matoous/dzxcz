@@ -21,7 +21,7 @@ state of documentation for APIs.
 
 I have seen multiple times the [Stripe API docs](https://stripe.com/docs/api)
 mentioned as an example of how API docs should be done. Other popular
-produts with great documentation include [Twitter](https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/overview),
+products with great documentation include [Twitter](https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/overview),
 [Twillio](https://www.twilio.com/docs/usage/api), and [GitHub](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)
 to name a few. On the other hand, articles talking about bad api documentation
 often mention [Facebook](https://developers.facebook.com/docs/),

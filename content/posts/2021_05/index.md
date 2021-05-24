@@ -11,7 +11,11 @@ and starting a new journey at [SumUp](https://sumup.com). While I don't feel par
 by leaving I am incredibly grateful for the time I spent at Kiwi.com. I learned a lot,
 gained a lot of experience and most importantly, bootstrapped my career.
 
-
+Returning old laptop and migrating to new one left me with a few precious files less.
+I'm considering backing up the whole laptop to one place or the other, so far,
+[Backblaze](https://www.backblaze.com/cloud-backup.html) seems like an optimal solution for me.
+I wrote a short [post]({{< ref "/posts/back_up_your_macos" >}}) summarising current options
+for periodical MacOS backups.
 
 I write less than I would like to. Not because I don't have things to write about
 
