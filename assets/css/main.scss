@@ -210,8 +210,9 @@ img {
 }
 
 .📅 {
-  display: block;
-  font-weight: 300;
+    display: block;
+    font-weight: 300;
+    color: var(--light);
 }
 
 .etc li {
@@ -223,19 +224,13 @@ img {
   grid-template-columns: 1fr auto;
   line-height: 1.4;
   grid-gap: .6rem;
-  align-items: center;
 
   a {
     letter-spacing: -.014rem;
-    text-decoration: none;
     font-weight: 600;
 
     &:visited {
       color: var(--dark);
-    }
-
-    &:hover {
-      text-decoration: underline;
     }
   }
 
@@ -245,9 +240,10 @@ img {
 
   .year {
     grid-column-start: span 2;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     font-weight: 200;
     font-size: .9rem;
+    color: var(--light);
 
     &:first-of-type {
         margin-top: 0;
@@ -255,14 +251,12 @@ img {
   }
 
   @media only screen and (max-width: 600px) {
-    grid-template-columns: 1fr;
-    grid-gap: .2rem;
+      grid-template-columns: 1fr;
     .📅 {
-      margin-bottom: .5rem;
+        display: none;
     }
     .year {
-        grid-column-start: span 1;
-        text-align: center;
+        grid-column-start: 1;
     }
   }
 }
