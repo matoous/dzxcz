@@ -21,11 +21,13 @@ I write less than I would like to. Not because I don't have things to write abou
 
 The wiki is slowly growing...
 
-
 {{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5173474635/embed/3f1ccfa1e7b96fdae87113254f1c9ee974477aac'></iframe>
 {{</rawhtml>}}
 
+This month I started learning [rust](https://www.rust-lang.org/) to extend my portfolio
+of languages at hand. I will write more about rust when I have something to show but so far
+I enjoy the language, it plays well into my weakness for clean, concise, compiled languages.
 
 ## Reading
 

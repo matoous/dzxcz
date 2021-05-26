@@ -5,7 +5,7 @@ layout: "etc"
 
 Hi, I'm **Matouš**!
 
-I work as a golang backend engineer at [Kiwi.com](https://kiwi.com) and study cybersecurity
+I work as a software engineer at [SumUp](https://sumup.com/) and study cybersecurity
 at [CTU](https://www.cvut.cz/en/) in Prague. Throughout my career I have fulfilled various programming
 and engineering roles. Currently, I am passionate about the clean, effective, and concise golang code
 that saved our company a lot of headaches and money.
@@ -19,10 +19,10 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 
 ## Career
 
-{{<details "**Backend Developer @ [SumUp](https://sumup.com/)**, _coming soon_">}}
+{{<details "**Backend Developer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
 {{</details>}}
 
-{{<details "**Golang Backend Developer @ [Kiwi.com](https://www.kiwi.com/)**, _2/2019 - now_">}}
+{{<details "**Golang Backend Developer @ [Kiwi.com](https://www.kiwi.com/)**, _2/2019 - 5/2021_">}}
 Developing core infrastructure and services with speed and maintainability as the primary goal.
 Growing my experience and knowledge thanks to awesome team and mentorship from other
 skilled people in the company. Slowly taking more responsibility and bigger tasks such
