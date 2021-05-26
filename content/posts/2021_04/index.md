@@ -65,7 +65,7 @@ Nothing new in April. Will order something good this month.
 
 {{<rawhtml>}}
 <div>
-<b>Net Worth</b>: €11,633.77 (<span class="green">+ €1,873.14</span>)
+<b>Net Worth</b>: €9,898.33 (<span class="green">+ €1,873.14</span>)
 </div>
 <div>
 <b>Running</b>: 6.40 hours, 71.42 km, 7 runs

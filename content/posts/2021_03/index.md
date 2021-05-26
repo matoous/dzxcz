@@ -127,3 +127,20 @@ so maybe another time.
 * Columbia Doris María by [Zoban](https://prazirnazoban.cz/)
 * Honduras Caballeros [Zoban](https://prazirnazoban.cz/)
 
+## Stats
+
+{{<rawhtml>}}
+<div>
+<b>Net Worth</b>: €8,025.19 (<span class="green">+ €297.83</span>)
+</div>
+<div>
+<b>Running</b>: 14.93 hours, 201.09 km, 14 runs
+</div>
+<div>
+<b>Cycling</b>: 46.98 hours, 1374.48 km, 17 rides
+</div>
+<div>
+<b>Activity Totals</b>: 67.42 hours (<span class="green">+27.12</span>), 37 activities (<span class="green">+10</span>)
+<div>
+{{</rawhtml>}}
+
