@@ -18,7 +18,7 @@ regional peculiarities and technical requirements of a target locale.
 This is a tiny script that I initially used on [this blog](https://dzx.cz) to localize dates.
 Shortly after I realized that it is really unnecessary as there's only a
 [single correct date format](https://en.wikipedia.org/wiki/ISO_8601).
-Anyway, your idea of the perfect day might be _wrong_ so here's the code:
+Anyway, your idea of the perfect date might be _wrong_ so here's the code:
 
 ```js
 const lang =(navigator.languages && navigator.languages.length && navigator.languages[0]) || navigator.language || 'en';
