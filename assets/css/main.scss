@@ -130,6 +130,13 @@ nav {
 
   a {
     text-decoration: none;
+    padding: .2rem;
+    margin: -.2rem;
+
+    &:hover {
+      background-color: var(--foreground);
+      color: var(--background);
+    }
   }
 
   ul {
@@ -150,25 +157,12 @@ nav {
       &.active {
         font-weight: 700;
       }
-      &:hover {
-        text-decoration: underline;
-      }
     }
   }
 
   h1 {
     font-size: 1rem;
     white-space: nowrap;
-
-    a {
-        padding: .2rem;
-        margin: -.2rem;
-
-        &:hover {
-          background-color: var(--foreground);
-          color: var(--background);
-        }
-    }
   }
 
   @media only screen and (max-width: 1200px) {

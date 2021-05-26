@@ -1,16 +1,10 @@
 ---
-title: "Prague Review: Malá Strana"
-date: 2020-06-09
-slug: mala_strana
+title: "Learning Go"
+date: 2020-07-09
+slug: learning_go
 draft: true
-tags: ["prague", "travel", "review", "writing"]
+tags: ["code", "writing"]
 ---
 
 🚧 Work in progress 🚧
-
-## Walks
-
-## Coffees
-
-## Bakeries
 
