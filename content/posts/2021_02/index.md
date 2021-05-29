@@ -73,3 +73,20 @@ I found a couple of interesting articles. Here are the ones that I enjoyed:
 
 Based on recent experience, Ethiophia is not quite my _cup of coffee_ (all puns intended).
 
+## Stats
+
+{{<rawhtml>}}
+<div><b>Net Worth</b>: €7727.36 (<span class="green">+€1441.02</span>)</div>
+<div><b>Running</b>:
+  17.16 hours, 220.81 km, 17 runs
+</div>
+<div><b>Cycling</b>:
+  4.06 hours, 115.91 km, 1231 m ↑, 2 rides
+</div>
+<div><b>Swimming</b>:
+  0 hours, 0 km, 0 swims
+</div>
+<div><b>Activity Totals</b>:
+  40.3 hours, 444.76 km, 27 activities
+</div>
+{{</rawhtml>}}

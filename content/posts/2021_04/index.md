@@ -64,17 +64,18 @@ Nothing new in April. Will order something good this month.
 ## Stats
 
 {{<rawhtml>}}
-<div>
-<b>Net Worth</b>: €9,898.33 (<span class="green">+ €1,873.14</span>)
+<div><b>Net Worth</b>: €9898.33 (<span class="green">+€1873.14</span>)</div>
+<div><b>Running</b>:
+  5.4 hours, 71.42 km, 7 runs
 </div>
-<div>
-<b>Running</b>: 6.40 hours, 71.42 km, 7 runs
+<div><b>Cycling</b>:
+  48.82 hours, 1275.32 km, 16804 m ↑, 17 rides
 </div>
-<div>
-<b>Cycling</b>: 48.82 hours, 1275.32 km, 17 rides
+<div><b>Swimming</b>:
+  0 hours, 0 km, 0 swims
 </div>
-<div>
-<b>Activity Totals</b>: 66.20 hours (<span class="red">-1.2</span>), 35 activities (<span class="red">-2</span>)
-<div>
+<div><b>Activity Totals</b>:
+  66.2 hours, 1528.94 km, 35 activities
+</div>
 {{</rawhtml>}}
 

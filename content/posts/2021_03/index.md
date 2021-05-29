@@ -130,17 +130,18 @@ so maybe another time.
 ## Stats
 
 {{<rawhtml>}}
-<div>
-<b>Net Worth</b>: €8,025.19 (<span class="green">+ €297.83</span>)
+<div><b>Net Worth</b>: €8025.19 (<span class="green">+€297.83</span>)</div>
+<div><b>Running</b>:
+  14.93 hours, 201.09 km, 14 runs
 </div>
-<div>
-<b>Running</b>: 14.93 hours, 201.09 km, 14 runs
+<div><b>Cycling</b>:
+  46.98 hours, 1374.48 km, 15474 m ↑, 17 rides
 </div>
-<div>
-<b>Cycling</b>: 46.98 hours, 1374.48 km, 17 rides
+<div><b>Swimming</b>:
+  0 hours, 0 km, 0 swims
 </div>
-<div>
-<b>Activity Totals</b>: 67.42 hours (<span class="green">+27.12</span>), 37 activities (<span class="green">+10</span>)
-<div>
+<div><b>Activity Totals</b>:
+  67.42 hours, 1594.03 km, 37 activities
+</div>
 {{</rawhtml>}}
 
