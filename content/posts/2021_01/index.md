@@ -64,3 +64,20 @@ are currently my favorites and I have them on repeat every run.
   nevertheless. Best coffee in a very long time, acidic and rich in flavor.
 * Nikaragua Salomón Chavarría by [mamacoffee](https://mamacoffee.cz/). Another Christmas gift.
 
+## Stats
+
+{{<rawhtml>}}
+<div><b>Net Worth</b>: €6286.35 (<span class="green">+€1500.13</span>)</div>
+<div><b>Running</b>:
+  25.59 hours, 329.3 km, 22 runs
+</div>
+<div><b>Cycling</b>:
+  0 hours, 0 km, 0 m ↑, 0 rides
+</div>
+<div><b>Swimming</b>:
+  0.1 hours, 73 km, 2 swims
+</div>
+<div><b>Activity Totals</b>:
+  44.03 hours, 498.46 km, 33 activities
+</div>
+{{</rawhtml>}}

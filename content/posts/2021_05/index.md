@@ -26,8 +26,14 @@ The wiki is slowly growing...
 {{</rawhtml>}}
 
 This month I started learning [rust](https://www.rust-lang.org/) to extend my portfolio
-of languages at hand. I will write more about rust when I have something to show but so far
-I enjoy the language, it plays well into my weakness for clean, concise, compiled languages.
+of languages at hand. So far I enjoy rust greatly, it plays well into my weakness for
+fast, clean, concise, compiled languages. I started by implementing the
+[Tiny Renderer](https://github.com/ssloy/tinyrenderer) which serves as a nice tiny intro into
+how OpenGL and software rendering works. I wanted to try this project myself for a long long time
+and by writing the solution in rust instead of C++ I can kill two birds with one stone.
+I made my solution public on GitHub: [matoous/runderer](https://github.com/matoous/runderer)
+and will come back to it later to fix all the issues and bad practices when I have more experience
+with rust.
 
 ## Reading
 
@@ -35,7 +41,11 @@ I enjoy the language, it plays well into my weakness for clean, concise, compile
 
 ## Watching
 
-
+- [Love, Death & Robots volume 2](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots), sadly underwhelming
+  after the bar set by the first season. I mostly miss the deeper stories of the volume 1 such as
+  _Beyond the Aquila Rift_ or _Zima Blue_, volume 2 had only a few memorable episodes,
+  specifically: _Pop Squad_, _Snow in the Desert_, _All Through the House_, and _The Drowned Giant_.
+  Anyway, not all hopes are lost as volume 3 is already confirmed and in making.
 
 ## Listening
 
