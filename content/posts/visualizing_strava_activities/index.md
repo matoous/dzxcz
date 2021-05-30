@@ -6,9 +6,7 @@ draft: true
 tags: ["code", "design", "sports", "writing"]
 ---
 
-## Visualizing Strava activities
-
-
+{{< picture src="images/all.png" alt="Tbilisi" >}}
 
 ---
 

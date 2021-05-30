@@ -50,7 +50,13 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Sandy Maguire](https://reasonablypolymorphic.com/blog/archives/) and the [other blog](https://sandymaguire.me/blog/archives/)
 - [Nicholas Nethercote](https://nnethercote.github.io)
 - [100 rabbits](https://100r.co/site/home.html)
-
+- [A Collection of Unmitigated Pedantry](https://acoup.blog) by _Dr. Bret C. Devereaux_
+- [Amos](https://fasterthanli.me)
+- [Julia Evans](https://jvns.ca)
+- [Josh W Comeau](https://www.joshwcomeau.com)
+- [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
+- [Wait But Why](https://waitbutwhy.com)
+- [Arun Venkatesan](https://www.arun.is)
 
 ## Movies
 

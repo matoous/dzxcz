@@ -17,10 +17,6 @@ I'm considering backing up the whole laptop to one place or the other, so far,
 I wrote a short [post]({{< ref "/posts/back_up_your_macos" >}}) summarising current options
 for periodical MacOS backups.
 
-I write less than I would like to. Not because I don't have things to write about
-
-The wiki is slowly growing...
-
 {{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5173474635/embed/3f1ccfa1e7b96fdae87113254f1c9ee974477aac'></iframe>
 {{</rawhtml>}}
@@ -37,7 +33,7 @@ with rust.
 
 ## Reading
 
-
+- [Mailbag #2](https://waitbutwhy.com/2021/04/mailbag-2.html), AMA by _Tim Urban_.
 
 ## Watching
 
