@@ -54,3 +54,21 @@ with rust.
 - [Don Cayito (Costa Rica)](https://www.doubleshot.cz/cs/products/kostarika-don-cayito) by [Doubleshot](https://www.doubleshot.cz/en)
 - [Mikuba (Burundi)](https://www.doubleshot.cz/cs/products/burundi-mikuba-natural) by [Doubleshot](https://www.doubleshot.cz/en)
 
+## Stats
+
+{{<rawhtml>}}
+<div><b>Net Worth</b>: €11182.14 (<span class="green">+€1486.04</span>)</div>
+<div><b>Running</b>:
+  15.55 hours, 200.5 km, 16 runs
+</div>
+<div><b>Cycling</b>:
+  37.31 hours, 1039.57 km, 12762 m ↑, 13 rides
+</div>
+<div><b>Swimming</b>:
+  1.14 hours, 2.96 km, 3 swims
+</div>
+<div><b>Activity Totals</b>:
+  69.21 hours, 1510.14 km, 46 activities
+</div>
+{{</rawhtml>}}
+
