@@ -57,6 +57,7 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 - [Wait But Why](https://waitbutwhy.com)
 - [Arun Venkatesan](https://www.arun.is)
+- [Fabien Sanglard](https://fabiensanglard.net/)
 
 ## Movies
 
