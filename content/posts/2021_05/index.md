@@ -18,7 +18,7 @@ I wrote a short [post]({{< ref "/posts/back_up_your_macos" >}}) summarising curr
 for periodical MacOS backups.
 
 {{<rawhtml>}}
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5173474635/embed/3f1ccfa1e7b96fdae87113254f1c9ee974477aac'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5224522242/embed/81835954f2c932c1c6663ef955fca84a7cef904b'></iframe>
 {{</rawhtml>}}
 
 This month I started learning [rust](https://www.rust-lang.org/) to extend my portfolio
