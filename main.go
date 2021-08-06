@@ -1,14 +1,14 @@
 package main
 
 import (
-  "fmt"
-  "math"
-  "os"
-  "os/exec"
-  "strconv"
-  "strings"
-  "text/template"
-  "time"
+	"fmt"
+	"math"
+	"os"
+	"os/exec"
+	"strconv"
+	"strings"
+	"text/template"
+	"time"
 )
 
 const tmpl = `
@@ -112,6 +112,7 @@ func parseSportStatsString(s string) (*SportStat, error) {
   if err != nil {
     return nil, fmt.Errorf("invalid distnace '%q' in s: %w", parts[1], err)
   }
+  distance = distance / 1000
   elevation, err := strconv.ParseFloat(parts[2], 64)
   if err != nil {
     return nil, fmt.Errorf("invalid elevation '%q' in s: %w", parts[2], err)
@@ -138,7 +139,7 @@ func buildSportStats(thisMonth string) (*SportStat, error) {
 
 func sportStats(t time.Time, optSportType ...string) (*SportStat, error) {
   dateQuery := t.Format("Jan%%2006%%")
-  query := fmt.Sprintf(`SELECT SUM(ALL moving_time)/3600.0 AS total_time, SUM(ALL distance) AS total_distance,
+  query := fmt.Sprintf(`SELECT SUM(ALL moving_time)/3600.0 AS total_time, SUM(ALL distance2) AS total_distance,
 SUM(ALL elevation_gain) AS total_elevation, COUNT() AS total_activities
 FROM activities.csv WHERE activity_date LIKE '%s'`, dateQuery)
   if len(optSportType) > 0 {
@@ -154,7 +155,7 @@ FROM activities.csv WHERE activity_date LIKE '%s'`, dateQuery)
 
 func main() {
   // TODO: configurable
-  asOf := time.Date(2020, 12, 01, 0, 0, 0, 0, time.UTC)
+  asOf := time.Date(2021, 07, 01, 0, 0, 0, 0, time.UTC)
 
   netWorth, err := assetsTotal(asOf)
   if err != nil {
