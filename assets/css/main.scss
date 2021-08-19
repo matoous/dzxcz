@@ -164,11 +164,9 @@ nav {
 
 article {
   header {
-    margin-bottom: 2rem;
-    text-align: center;
     h1 {
       line-height: 1em;
-      margin-bottom: 0.4rem;
+      margin-bottom: 0.8rem;
 
       &:first-of-type {
         margin-top: 0;
@@ -181,23 +179,26 @@ article {
   }
 
   .meta {
-    color: var(--light);
     font-size: 0.9rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
 
     > * {
       margin-right: 0.4rem;
     }
 
-    a {
-      color: var(--light);
-    }
-
     time {
       font-style: italic;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    h1 {
+      text-align: center;
+    }
+    .meta {
+      justify-content: center;
     }
   }
 }
