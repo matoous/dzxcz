@@ -9,14 +9,21 @@ tags: ["journal","writing"]
 Berlin is a wonderful city, yet far from feeling like _home_.
 Moving was hard, after 1.5 year of daily routine optimized to perfection
 I feel like the day is suddenly half as long and every chore takes twice
-the time it used to. Yet, I don't want to judge before everything settles in.
+the time it used to. Yet, I don't want to judge before the dust settles in.
 So except to see more in following months, and hopefully before the Christmas,
 I will have some coherent opinion formed.
 
+{{<rawhtml>}}
+<center>＊</center>
+{{</rawhtml>}}
+
 This month was mostly work-focused. Compared to the last months at Kiwi.com
-at SumUp there's more things to do than what can be done in a reasonable
-time frame. Sometimes it is hard to not feel split between too many tasks and
-keep the focus.
+at SumUp there's more things to do than what can be done.
+Sometimes it is hard to not feel split between too many tasks and
+keep the focus. On the other hand, the problems at hand are fun and challenging.
+We are building identity system, authentication, and authorization system
+to replace the existing one. And while at it, we push for better practices
+and sense of responsibility, both lacking behind as of now.
 
 I enjoy the _solve things by talking with the people_ culture. It feels easier
 to establish a common ground and focus on things that need to be done when
@@ -42,12 +49,9 @@ about SumUp that I enjoy in future posts. To preface it though: I'm proud to par
 of our team and I hope I will be able to soak in as much experience and skill
 from the guys as I possibly can.
 
----
-
 {{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5679535501/embed/00c289a776b2bfb7510d9988f5dcb23c4e4737b8'></iframe>
 {{</rawhtml>}}
-
 
 On a different note, I did a solo 275 km ride from Berlin to Litomerice (almost).
 It wasn't as hard as I expected. I took off at 5 am.
@@ -65,7 +69,7 @@ for set of strong legs and one butt soaked in chemonix cream.
 It all went downhill when I came to Dresden. The wind started blowing into my
 face with force that slowed me down to 20 km/h which felt like a snail speed.
 The weather was scorching and last drop of isotonic drink went down my throat
-before I even left the Berlin sub-urbs.
+before I even left the Berlin suburbs.
 
 I managed to climb the two climbs parting me from the German-Czech border before I puked.
 From there, long descent followed into Usti nad Labem, our frequent stop for short
@@ -74,7 +78,7 @@ But the energy was depleted and I couldn't even thing of consuming anything else
 20 km was parting me from Litomerice, my hometown and the finish of this crazy ride,
 when I decided to call parents to pick me up.
 
-There I laid, next to the road, two empty bidons, 275 km in the legs, contemplating the meaning of life and everything
+There I laid, next to the road, two empty bottles, 275 km in the legs, contemplating the meaning of life and everything
 and telling myself what a terrible and painful experience it was, and how I can't wait to do it again.
 
 ## Reading
@@ -93,6 +97,7 @@ and telling myself what a terrible and painful experience it was, and how I can'
 ## Listening
 
 {{<rawhtml>}}
+<iframe src="https://open.spotify.com/embed/track/3fAYbQhbrj8w34ycDoRChZ?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{</rawhtml>}}
 
 ## Coffee
