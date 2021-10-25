@@ -56,7 +56,7 @@ pictures or the publication's direction.
 ## Stats
 
 {{<rawhtml>}}
-<div><b>Net Worth</b>: €20098.55 (<span class="green">+€990.9</span>)</div>
+<div><b>Net Worth</b>: €19729.43 (<span class="green">+€497.7</span>)</div>
 <div><b>Running</b>:
   15.69 hours, 196.42 km, 16 runs
 </div>
