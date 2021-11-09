@@ -1,0 +1,50 @@
+{
+    "id": 5079666478,
+    "athlete": {
+        "id": 36515485
+    },
+    "athlete_count": 1,
+    "elapsed_time": 4191,
+    "external_id": "garmin_push_6560308407",
+    "kudos_count": 4,
+    "map": {
+        "id": "a5079666478"
+    },
+    "moving_time": 4191,
+    "name": "Yoga s Karolínou",
+    "start_date": "2021-04-06T13:13:47.000Z",
+    "start_date_local": "2021-04-06T15:13:47.000Z",
+    "timezone": "(GMT+01:00) Europe/Prague",
+    "trainer": true,
+    "type": "Yoga",
+    "upload_id": 5415640604,
+    "upload_id_str": "5415640604",
+    "best_efforts": null,
+    "calories": 163,
+    "description": "Aktivní rehabilitace achylovek",
+    "device_name": "Garmin fēnix 6 Pro",
+    "embed_token": "0f2159f550a7faafae957b1150f8023859032eca",
+    "laps": [
+        {
+            "activity": {
+                "id": 5079666478
+            },
+            "athlete": {
+                "id": 36515485
+            },
+            "elapsed_time": 4191,
+            "end_index": 1703,
+            "id": 16575806665,
+            "lap_index": 1,
+            "moving_time": 4191,
+            "name": "Lap 1",
+            "split": 1,
+            "start_date": "2021-04-06T13:13:47.000Z",
+            "start_date_local": "2021-04-06T15:13:47.000Z"
+        }
+    ],
+    "photos": {},
+    "segment_efforts": [],
+    "splits_metric": null,
+    "splits_standard": null
+}

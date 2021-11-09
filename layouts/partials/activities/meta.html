@@ -1,0 +1,20 @@
+<div class="activityMeta">
+    <time datetime="{{ (time .start_date ).Format "2006-01-02" }}">
+      {{ (time .start_date ).Format "2006-01-02" }}
+    </time>,
+{{ with .device_name }}
+  recorded on: {{.}},
+{{ end }}
+{{ if .gear }}
+  {{ if eq .type "Ride" }}
+    bike: {{ if .gear }}{{.gear.name}}{{end}},
+  {{ end }}
+  {{ if eq .type "Run" }}
+    shoes: {{ if .gear }}{{.gear.name}}{{end}},
+  {{ end }}
+{{ end }}
+  <a href="https://www.strava.com/activities/{{ .upload_id_str }}">
+    view on strava
+  </a>
+</div>
+

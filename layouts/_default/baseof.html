@@ -4,6 +4,8 @@
     {{ block "head" . }}
         {{ partial "head.html" . }}
     {{ end }}
+    {{block "addscripts" . }}
+    {{end}}
 </head>
 <body>
   {{ block "nav" . }}
