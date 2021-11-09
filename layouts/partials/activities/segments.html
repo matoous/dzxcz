@@ -1,0 +1,57 @@
+<div class="segments">
+  <h2>Segments</h2>
+  <div class="table">
+    <div class="columnName">
+      Name
+    </div>
+    <div class="columnName">
+      Distance</br>
+      Elev Diff
+    </div>
+    <div class="columnName">
+      Grade
+    </div>
+    <div class="columnName">
+      Heart Rate
+    </div>
+    <div class="columnName">
+      Watts
+    </div>
+    <div class="columnName">
+      Cadence
+    </div>
+    <div class="columnName">
+      VAM
+    </div>
+    {{ range . }}
+    <div>
+      {{ .name }}
+    </div>
+    <div>
+      {{ lang.NumFmt 2 (div .distance 1000) }}km</br>
+      {{ if .segment.elevation_high }}
+      {{ math.Floor (sub .segment.elevation_high .segment.elevation_low) }}m
+      {{ end }}
+    </div>
+    <div>
+      {{ .segment.average_grade }}% avg</br>
+      ({{ .segment.maximum_grade }}% max)
+    </div>
+    <div>
+      {{ .average_heartrate }}</br>
+      ({{ .max_heartrate }} max)
+    </div>
+    <div>
+      {{ .average_watts }}w
+    </div>
+    <div>
+      {{ .average_cadence }}
+    </div>
+    <div>
+      {{ if .segment.elevation_high }}
+      {{ lang.NumFmt 2 (div (sub .segment.elevation_high .segment.elevation_low) (div .elapsed_time 3600)) }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,124 @@
+{{ define "main" }}
+<h1>Stats</h1>
+<h2>Activities</h2>
+{{ with $.Site.Data.stats }}
+<div>
+  <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;text-align:center;">
+    <div>
+      <div>Running</div>
+    </div>
+    <div>
+      <div>
+        <b>{{ .all_run_totals.count }}</b>
+      </div>
+      <div>
+        runs
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ lang.NumFmt 2 (div .all_run_totals.distance 1000) }}</b>
+      </div>
+      <div>
+        km
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ lang.NumFmt 2 (div .all_run_totals.moving_time 3600) }}</b>
+      </div>
+      <div>
+        hours
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ .all_run_totals.elevation_gain }}</b>
+      </div>
+      <div>
+        m ↑
+      </div>
+    </div>
+  </div>
+    <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;text-align:center;">
+    <div>
+      <div>Cycling</div>
+    </div>
+    <div>
+      <div>
+        <b>{{ .all_ride_totals.count }}</b>
+      </div>
+      <div>
+        rides
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ lang.NumFmt 2 (div .all_ride_totals.distance 1000) }}</b>
+      </div>
+      <div>
+        km
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ lang.NumFmt 2 (div .all_ride_totals.moving_time 3600) }}</b>
+      </div>
+      <div>
+        hours
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ .all_ride_totals.elevation_gain }}</b>
+      </div>
+      <div>
+        m ↑
+      </div>
+    </div>
+  </div>
+  <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;text-align:center;">
+    <div>
+      <div>Swim</div>
+    </div>
+    <div>
+      <div>
+        <b>{{ .all_swim_totals.count }}</b>
+      </div>
+      <div>
+        runs
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ lang.NumFmt 2 (div .all_swim_totals.distance 1000) }}</b>
+      </div>
+      <div>
+        km
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>{{ lang.NumFmt 2 (div .all_swim_totals.elapsed_time 3600) }}</b>
+      </div>
+      <div>
+        hours
+      </div>
+    </div>
+    <div>
+      <div>
+        <b>∅</b>
+      </div>
+      <div>
+        m ↑
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<h2>Latest Activities</h2>
+{{ $sorted := (sort $.Site.Data.activities "start_date" "desc") }}
+{{ partial "activities/listing.html" (first 30 ( where $sorted ".map.summary_polyline" "ne" nil )) }}
+
+{{ end }}

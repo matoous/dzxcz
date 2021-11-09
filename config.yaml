@@ -26,20 +26,25 @@ menu:
     title: Reading
     url: /books/
     weight: 3
+  - identifier: stats
+    name: Stats
+    title: Stats
+    url: /stats
+    weight: 4
   - identifier: about
     name: About
     title: About
     url: /about/
-    weight: 4
+    weight: 5
   - identifier: etc
     name: Etc.
     title: Etc.
     url: /etc/
-    weight: 5
+    weight: 6
   - identifier: wiki
     name: Wiki
     url: https://wiki.dzx.cz
-    weight: 6
+    weight: 7
 
 params:
   author: "Matouš Dzivjak"

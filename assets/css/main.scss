@@ -352,3 +352,54 @@ sup a {
 .red {
   color: #FF4136;
 }
+
+.activityStats {
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:space-between;
+  text-align:center;
+  margin-bottom:16px;
+
+  > div {
+    flex: 1 1 0px;
+    box-sizing: border-box;
+  }
+
+  .stat {
+    > div:last-child {
+      font-size: .9rem;
+      color: var(--light);
+    }
+  }
+}
+
+.segments {
+  .table {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+
+    .columnName {
+      font-weight: bold;
+      border-top: none;
+    }
+
+    > div {
+      padding:.2rem;
+      border-top: 1px solid black;
+      text-align: center;
+      box-sizing: border-box;
+
+      &:nth-of-type(7n+1) {
+        text-align: left;
+      }
+    }
+  }
+}
+
+.activityMeta {
+  text-align: center;
+  font-size: .9rem;
+  margin: 8px 0;
+  color: var(--light);
+}
