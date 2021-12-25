@@ -3,109 +3,142 @@
 <h2>Activities</h2>
 {{ with $.Site.Data.stats }}
 <div>
-  <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;text-align:center;">
+  <div class="activityStats">
     <div>
       <div>Running</div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ .all_run_totals.count }}</b>
+      </div>
+      <div>
+        {{ .ytd_run_totals.count }}
       </div>
       <div>
         runs
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ lang.NumFmt 2 (div .all_run_totals.distance 1000) }}</b>
+      </div>
+      <div>
+        {{ lang.NumFmt 2 (div .ytd_run_totals.distance 1000) }}
       </div>
       <div>
         km
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ lang.NumFmt 2 (div .all_run_totals.moving_time 3600) }}</b>
+      </div>
+      <div>
+        {{ lang.NumFmt 2 (div .ytd_run_totals.moving_time 3600) }}
       </div>
       <div>
         hours
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ .all_run_totals.elevation_gain }}</b>
+      </div>
+      <div>
+        {{ .ytd_run_totals.elevation_gain }}
       </div>
       <div>
         m ↑
       </div>
     </div>
   </div>
-    <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;text-align:center;">
+    <div class="activityStats">
     <div>
       <div>Cycling</div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ .all_ride_totals.count }}</b>
+      </div>
+      <div>
+        {{ .ytd_ride_totals.count }}
       </div>
       <div>
         rides
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ lang.NumFmt 2 (div .all_ride_totals.distance 1000) }}</b>
+      </div>
+      <div>
+        {{ lang.NumFmt 2 (div .ytd_ride_totals.distance 1000) }}
       </div>
       <div>
         km
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ lang.NumFmt 2 (div .all_ride_totals.moving_time 3600) }}</b>
+      </div>
+      <div>
+        {{ lang.NumFmt 2 (div .ytd_ride_totals.moving_time 3600) }}
       </div>
       <div>
         hours
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ .all_ride_totals.elevation_gain }}</b>
+      </div>
+      <div>
+        {{ .ytd_ride_totals.elevation_gain }}
       </div>
       <div>
         m ↑
       </div>
     </div>
   </div>
-  <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;text-align:center;">
+  <div class="activityStats">
     <div>
       <div>Swim</div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ .all_swim_totals.count }}</b>
       </div>
       <div>
-        runs
+        {{ .ytd_swim_totals.count }}
+      </div>
+      <div>
+        swims
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ lang.NumFmt 2 (div .all_swim_totals.distance 1000) }}</b>
+      </div>
+      <div>
+        {{ lang.NumFmt 2 (div .ytd_swim_totals.distance 1000) }}
       </div>
       <div>
         km
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>{{ lang.NumFmt 2 (div .all_swim_totals.elapsed_time 3600) }}</b>
+      </div>
+      <div>
+        {{ lang.NumFmt 2 (div .all_swim_totals.elapsed_time 3600) }}
       </div>
       <div>
         hours
       </div>
     </div>
-    <div>
+    <div class="stat">
       <div>
         <b>∅</b>
       </div>
@@ -115,6 +148,7 @@
     </div>
   </div>
 </div>
+  
 {{ end }}
 
 <h2>Latest Activities</h2>

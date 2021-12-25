@@ -58,6 +58,7 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Wait But Why](https://waitbutwhy.com)
 - [Arun Venkatesan](https://www.arun.is)
 - [Fabien Sanglard](https://fabiensanglard.net/)
+- [Paged Out!](https://pagedout.institute) - not a blog _per se_ but great source of reading nevertheless
 
 ## Movies
 
