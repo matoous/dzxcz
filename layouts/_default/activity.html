@@ -20,8 +20,10 @@
 
 {{ partial "activities/meta.html" . }}
 
-{{ with .segment_efforts }}
-  {{ partial "activities/segments.html" . }}
+{{ if eq .type "Ride" }}
+  {{ with .segment_efforts }}
+    {{ partial "activities/ride_segments.html" . }}
+  {{ end }}
 {{ end }}
 
 {{ with .best_efforts }}
