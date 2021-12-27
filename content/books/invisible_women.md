@@ -7,6 +7,8 @@ author: "Caroline Criado Pérez"
 tags: ["life", "reading"]
 ---
 
+Working on it...
+
 ### Info
 
 Title: [Invisible Women: Data Bias in a World Designed for Menj](https://www.goodreads.com/book/show/41104077-invisible-women) \

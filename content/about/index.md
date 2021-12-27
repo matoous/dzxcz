@@ -19,7 +19,10 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 
 ## Career
 
-{{<details "**Backend Developer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
+{{<details "**Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
+Working on authentication and authorization systems implementing standards such as
+[OIDC](https://openid.net/connect/) or [OAuth2](https://oauth.net/2/). Currently spending most of the time building second factor
+authentication and request signing. Also fixing a lot of legacy code along the way.
 {{</details>}}
 
 {{<details "**Golang Backend Developer @ [Kiwi.com](https://www.kiwi.com/)**, _2/2019 - 5/2021_">}}
@@ -72,12 +75,5 @@ a few personal projects:
 * Number of siblings: 3
 * Half marathon best time: **1:27:36**
 * Myers-Briggs personality: **[ISTJ-A](https://www.16personalities.com/istj-personality)**
-* {{<rawhtml>}}Times I forgot something: <b id="🧠">42131</b>{{</rawhtml>}}
 
-{{<rawhtml>}}
-<script type="application/javascript">
-const counter = document.getElementById("🧠");
-setInterval(() => {counter.innerHTML = parseInt(counter.innerHTML) + 1}, 1000);
-</script>
-{{</rawhtml>}}
 

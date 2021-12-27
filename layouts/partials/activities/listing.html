@@ -1,54 +1,13 @@
-<div style="display:flex; flex-direction:row;justify-content:space-between;align-items:center;flex-wrap:wrap;">
-{{ range . }}
-  <div style="width:32%;min-width:200px;flex-grow:1;">
-    <div><a href="/activities/{{ printf "%.0f" .id }}">{{ .name }}</a></div>
-    <div>
-      {{ if .map.summary_polyline }}
-      {{ $encodedPolyline := strings.TrimPrefix "=" (querify "" .map.summary_polyline ) }}
-      <img style="width:100%;margin:0;padding:0;" loading=lazy
-        src="https://api.mapbox.com/styles/v1/mapbox/light-v10/static/path-3+000({{ $encodedPolyline }})/auto/220x180?padding=32&access_token=pk.eyJ1IjoibWF0b3VzZHppdmphayIsImEiOiJja3ZwYmRoajQxbjlsMm5vNWxuNnF1dTZzIn0.iHb7WVhp_dCDlN3lZMYYEQ"
-      ></img>
-      {{ end }}
-    </div>
-    <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;font-size:.9rem;">
-      <div>
-        <div>
-          {{ .type }}
-        </div>
-        <div>
-          {{ if .distance }}
-            <b>{{ lang.NumFmt 2 (div .distance 1000) }} km</b>
-          {{ end }}
-        </div>
-      </div>
-      <div>
-        <div>
-          Elev gain
-        </div>
-        <div>
-          {{ if .total_elevation_gain  }}
-            <b>{{ .total_elevation_gain }} m</b>
-          {{ end }}
-        </div>
-      </div>
-      <div>
-        <div>
-          Time
-        </div>
-        <div>
-          {{ if .elapsed_time }}
-            <b>
-            {{ $hours := math.Floor ( div .moving_time 3600 )}}
-            {{ if gt $hours 0 }}
-              {{ $hours }}h
-            {{ end }}
-            {{ math.Floor (div ( mod .moving_time 3600 ) 60 ) }}m
-            </b>
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </div>
-{{ end }}
-</div>
+<section class="listing">
+  {{ range . }}
+    <a href="/activities/{{ printf "%.0f" .id }}">
+      {{ .name }}
+      <span>
+      - {{ .type }}{{ if .distance }}, {{ lang.NumFmt 2 (div .distance 1000) }} km{{ end }}
+      </span>
+    </a>
+    {{ $date := .start_date | time }}
+    <time datetime="{{ $date.Format "2006-01-02" }}" class="📅">{{ $date.Format "2006-01-02"}}</time>
+  {{ end }}
+</section>
 

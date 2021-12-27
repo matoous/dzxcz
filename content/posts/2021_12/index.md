@@ -47,6 +47,7 @@ Starship is intended to reach numbers as low as $1m/T and 1000 T/year for cargo 
   Why we need _Outer Space Treaty_ and why sattelites are the current Achilles' heel of technologically advanced nations.
 - [Moo Card Player](https://hicks.design/journal/moo-card-player) - NFC physical medium for music
 - [100 years of whatever this will be](https://apenwarr.ca/log/20211201) - "in any system, if you don't have an explicit hierarchy, then you have an implicit one"
+- [Lesswrong](https://www.lesswrong.com)
 
 ## Watching
 
