@@ -4,6 +4,7 @@
   --background: #fff;
   --light: #555;
   --font-sans: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-serif: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   --page-width: 680px;
 }
 
@@ -163,6 +164,7 @@ nav {
 }
 
 article {
+  font-family: var(--font-serif);
   header {
     h1 {
       line-height: 1em;
@@ -340,7 +342,6 @@ sup a {
 }
 
 .welcome {
-  font-size: 0.9rem;
   margin-bottom: 2rem;
   font-weight: 300;
 }
@@ -402,4 +403,27 @@ sup a {
   font-size: .9rem;
   margin: 8px 0;
   color: var(--light);
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
 }

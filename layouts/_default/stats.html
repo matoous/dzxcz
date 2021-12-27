@@ -153,6 +153,6 @@
 
 <h2>Latest Activities</h2>
 {{ $sorted := (sort $.Site.Data.activities "start_date" "desc") }}
-{{ partial "activities/listing.html" (first 30 ( where $sorted ".map.summary_polyline" "ne" nil )) }}
+{{ partial "activities/listing.html" (first 64 $sorted) }}
 
 {{ end }}
