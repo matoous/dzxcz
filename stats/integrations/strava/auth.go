@@ -73,8 +73,10 @@ func DownloadActivities(ctx context.Context, tok *oauth2.Token) {
 	ctx, cancel := signal.NotifyContext(ctx, os.Interrupt)
 	defer cancel()
 
+	cnt := 0
 	pageSize := int64(90)
 	for page := int64(1); ; page++ {
+		cnt++
 		acs, err := client.Default.Activities.GetLoggedInAthleteActivities(&activities.GetLoggedInAthleteActivitiesParams{
 			PerPage: &pageSize,
 			Page:    &page,
@@ -89,6 +91,7 @@ func DownloadActivities(ctx context.Context, tok *oauth2.Token) {
 			if _, err := os.Stat(fName); !errors.Is(err, os.ErrNotExist) {
 				continue
 			}
+			cnt++
 			ac, err := client.Default.Activities.GetActivityByID(&activities.GetActivityByIDParams{
 				ID:      acs.Payload[i].ID,
 				Context: ctx,
@@ -103,9 +106,12 @@ func DownloadActivities(ctx context.Context, tok *oauth2.Token) {
 			if err := os.WriteFile(fName, data, 0666); err != nil {
 				panic(err)
 			}
+			if cnt >= 95 {
+				cnt = 0
+				log.Println("Sleeping for 15 minutes")
+				time.Sleep(15 * time.Minute)
+			}
 		}
-		log.Println("Sleeping for 15 minutes")
-		time.Sleep(15 * time.Minute)
 	}
 }
 

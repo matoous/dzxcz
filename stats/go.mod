@@ -26,9 +26,12 @@ require (
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.6 // indirect
+	github.com/howeyc/ledger v0.3.5 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
+	github.com/joyt/godate v0.0.0-20150226210126-7151572574a7 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
+	github.com/marcmak/calc v0.0.0-20150509200512-5bbbfc3b3149 // indirect
 	github.com/mattn/go-colorable v0.1.9 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mitchellh/mapstructure v1.4.2 // indirect
