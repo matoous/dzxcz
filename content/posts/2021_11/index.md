@@ -9,6 +9,7 @@ tags: ["journal","writing"]
 ## Reading
 
 - [Going mouseless](https://felipecortez.net/blog/mouseless.html) - tiny guide to going fully mouseless
+- [Against Individual IQ Worries](https://slatestarcodex.com/2017/09/27/against-individual-iq-worries/)
 
 ## Watching
 

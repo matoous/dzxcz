@@ -12,15 +12,21 @@ import (
 	"time"
 
 	"github.com/matoous/sportstats/integrations/strava"
+	"github.com/matoous/sportstats/ledger"
+	"github.com/matoous/sportstats/sync"
 )
 
 func getActivities() {
+	ledger.X()
+	panic("by")
+	sync.Activities()
 	token, err := strava.Auth()
 	if err != nil {
 		panic(err)
 	}
 	strava.SaveProfile(context.Background(), token)
 	strava.DownloadActivities(context.Background(), token)
+	sync.Activities()
 }
 
 const tmpl = `
