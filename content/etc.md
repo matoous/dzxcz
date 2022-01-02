@@ -59,4 +59,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Fabien Sanglard](https://fabiensanglard.net/)
 - [Paged Out!](https://pagedout.institute) - not a blog _per se_ but great source of reading nevertheless
 - [Lesswrong](https://www.lesswrong.com)
+- [Tynan](https://tynan.com/)
 
