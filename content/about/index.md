@@ -5,17 +5,32 @@ layout: "etc"
 
 Hi, I'm **Matouš**!
 
-I work as a software engineer at [SumUp](https://sumup.com/) and study cybersecurity
-at [CTU](https://www.cvut.cz/en/) in Prague. Throughout my career I have fulfilled various programming
-and engineering roles. Currently, I am passionate about the clean, effective, and concise golang code
-that saved our company a lot of headaches and money.
+I work as a software engineer at [SumUp](https://sumup.com/) and do a lot of sports.
+I am currently training for my first [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon),
+running and cycling a lot and neglecting the swimming. I do plenty of other sports too,
+like backcountry skiing, climbing, and anything else that I find enjoyable.
 
-I enjoy plenty of things including but not limited to [reading](/books), cooking, 
-[sports](https://www.strava.com/athletes/36515485), and working.
+The rest of my free time is spent on [reading](/books), cooking, and less enjoyable tasks.
 In 2019 I also started this blog to force myself into writing more and to have a place where I could share my
 thoughts and knowledge. Please take this whole site with grain of salt as my english is far from perfect,
 and I feel like creating a coherent piece of writing is still impossible task for me
 ([I am working on it though]({{< ref "/books/sense_of_style" >}})).
+
+Other than that, I enjoy quantifying my life. I keep track of my finances (using [ledger]({{< ref "/posts/ledger" >}})),
+activites (on [strava](https://www.strava.com/athletes/36515485), newly also on [this blog]({{< ref "/stats" >}})),
+and other metrics that I don't currently publish here. I do this because I enjoy statistics and data even though
+I am mediocre at best at both. Sharing the stats publicly holds me accountable and helps me spend less and workout more.
+
+## Philosophy
+
+I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/istj-personality)
+personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
+[ISTJ] can be split into 4 individual traits, [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted),
+[Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Observant](https://www.16personalities.com/articles/nature-thinking-vs-feeling),
+and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting). The `-A` suffix at the end
+stands for [Assertive](https://www.16personalities.com/articles/assertive-logistician-istj-a-vs-turbulent-logistician-istj-t).
+I highly recommend trying the 16 personalities test youtself, while not tentative I find the insights helpful
+in learning more about yourself.
 
 ## Career
 
@@ -70,10 +85,16 @@ a few personal projects:
 * [gosmtp](https://github.com/matoous/gosmtp) -
   golang implementation of full-featured, lightweight and RFC compliant SMTP server.
 
+And when I find it worthwhile I contribute to open source projects, specifically:
+
+* [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
 ## Fun facts
 
 * Number of siblings: 3
 * Half marathon best time: **1:27:36**
 * Myers-Briggs personality: **[ISTJ-A](https://www.16personalities.com/istj-personality)**
 
+---
 
+[^1]: Based on the brief definition at [merriam-webster](https://www.merriam-webster.com/dictionary/introvert).
