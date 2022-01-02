@@ -7,6 +7,8 @@ tags: ["journal","writing"]
 ---
 
 I was neglecting this blog a lot lately, contrary to what I promised myself at the beginning of the year.
+But, I will try and catchup now, most importantly with 2021 review and stats and with a few book reviews
+missing, hold on tight.
 
 {{<rawhtml>}}
 <center>＊</center>
@@ -43,6 +45,7 @@ performance measures completely neglectic the most important part - my body.
 Starship is intended to reach numbers as low as $1m/T and 1000 T/year for cargo soft landed on the Moon. Apollo achieved about $2b/T and 2 T/year for cargo soft landed on the Moon.
 {{</cite>}}
 
+- [_Death Note_: L, Anonymity & Eluding Entropy](https://www.gwern.net/Death-Note-Anonymity) by [Gwern](https://www.gwern.net/Death-Note-Anonymity) - analysis of the deathnote using [Informatioin theory](https://en.wikipedia.org/wiki/Information_theory).
 - [Ad Astra](https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/) - The coming battle over space by _Rachel Riederer_ (_report_).
   Why we need _Outer Space Treaty_ and why sattelites are the current Achilles' heel of technologically advanced nations.
 - [Moo Card Player](https://hicks.design/journal/moo-card-player) - NFC physical medium for music
@@ -58,6 +61,9 @@ one more chance but lets leave that for when I have someone to watch it with.
 [14 Peaks: Nothing Is Impossible](https://www.imdb.com/title/tt14079374/) is finally giving the Nepali mountaineers and sherpas the recognition that they deserve
 in a movie about probably the greatest mountaineering feat of 21st century so far. I loved the movie, it's heartfelt tone, and the beautiful imagery of the most
 impregnable parts of the Earth.
+
+[Don't Look Up](https://www.imdb.com/title/tt11286314/) had a great concept but I wasn't fond of the
+pacing of the movie.
 
 ## Listening
 
