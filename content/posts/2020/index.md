@@ -1,7 +1,7 @@
 ---
-title: "Year 2020 review"
+title: "2020 Review"
 date: 2020-12-28
-slug: year_2020_review
+slug: 2020_review
 draft: false
 tags: ["journal", "writing"]
 ---
