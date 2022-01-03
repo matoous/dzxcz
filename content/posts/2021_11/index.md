@@ -39,7 +39,10 @@ and I can't wait to explore more of what Dénia has to offer.
 
 ## Listening
 
+{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/0J3SIAOndpL1MS2Vq2RMQ9?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0ucdnfv1uvBcvmlFZbP94y?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{{</rawhtml>}}
 
 ## Stats
 
