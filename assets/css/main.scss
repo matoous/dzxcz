@@ -31,9 +31,8 @@ body {
   grid-row-gap: 20px;
 }
 
-::selection,
-::-moz-selection {
-  background: var(--foreground);
+::selection {
+  background-color: var(--foreground);
   color: var(--background);
 }
 
