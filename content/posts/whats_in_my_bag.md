@@ -6,5 +6,12 @@ draft: true
 tags: ["writing", "meta"]
 ---
 
+## The Bag
+
+
+## Electronics
+
+
+## Miscellaneous
 
 
