@@ -23,12 +23,16 @@ body {
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 1000px;
   padding: 1rem 20px;
-  display: grid;
-  grid-template-columns: minmax(0, var(--page-width));
-  justify-content: center;
-  grid-row-gap: 20px;
+
+  display: flex;
+  flex-direction: row;
+
+  @media only screen and (max-width: 840px) {
+    flex-direction: column;
+  }
 }
 
 ::selection {
@@ -88,6 +92,7 @@ footer {
   margin-top: 4rem;
   font-size: 0.8rem;
   color: var(--light);
+  grid-area: footer;
 
   address {
     display: inline-block;
@@ -111,17 +116,19 @@ header {
 }
 
 main {
+  flex: 1;
   & h1:first-of-type {
     margin-top: 0;
   }
 }
 
 nav {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
+    padding-right: 4vw;
+
     flex-wrap: wrap;
+    flex-direction: column;
 
     h1 {
       margin: 0 1.4rem 0 0;
@@ -147,8 +154,8 @@ nav {
   }
 
   li {
-    display: inline-block;
     margin-right: 0.6rem;
+    display: block;
     a {
       text-transform: uppercase;
       font-size: 0.8rem;
@@ -157,6 +164,14 @@ nav {
       &.active {
         font-weight: 700;
       }
+    }
+  }
+  @media only screen and (max-width: 840px) {
+    display: flex;
+    flex-direction: row;
+    padding-right: 0;
+    li {
+      display: inline-block;
     }
   }
 }
