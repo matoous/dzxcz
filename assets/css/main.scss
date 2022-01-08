@@ -1,7 +1,7 @@
 :root {
-  --foreground: #000;
+  --foreground: #1E1919;
   --dark: #222;
-  --background: #fff;
+  --background: #F5F5F0;
   --light: #555;
   --font-sans: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   --page-width: 820px;
@@ -9,9 +9,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground: #fafafa;
+    --foreground: #F5F5F0;
     --dark: #ddd;
-    --background: #000;
+    --background: #1E1919;
     --light: #aaa;
   }
 }
@@ -44,13 +44,28 @@ body {
   box-sizing: border-box;
 }
 
+a.icon {
+  display: inline-flex;
+  stify-content: center;
+  align-items: center;
+}
+
 a {
   color: var(--foreground);
   text-decoration: underline;
-}
 
-a:hover {
-  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+    svg {
+      fill: var(--background);
+    }
+  }
+
+  svg {
+    height: 1rem;
+    width: 1rem;
+    fill: var(--foreground);
+  }
 }
 
 h1,
@@ -172,6 +187,12 @@ nav {
     padding-right: 0;
     li {
       display: inline-block;
+    }
+  }
+
+  .socials {
+    @media only screen and (max-width: 840px) {
+      display: none;
     }
   }
 }
