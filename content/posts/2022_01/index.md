@@ -1,8 +1,8 @@
 ---
 title: "December"
-date: 2022-01-01
+date: 2022-02-01
 slug: december_2021
-draft: false
+draft: true
 tags: ["journal","writing"]
 ---
 
