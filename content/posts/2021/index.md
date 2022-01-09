@@ -90,8 +90,7 @@ to 0.5 of my income.
 There's not much I expect from 2022 and if it goes as well as this year I will be satisfied. 
 Given the recent experience with over a month in Spain I would like to visit [Girona](https://en.wikipedia.org/wiki/Girona),
 come back to [Dénia](https://en.wikipedia.org/wiki/D%C3%A9nia), and spent a few weeks running and cycling in
-[Austria](https://en.wikipedia.org/wiki/Austria). Last but not least, I still have a room for significant other
-but am doing nothing in this regards, should I be worried or do I still have anought time?
+[Austria](https://en.wikipedia.org/wiki/Austria).
 
 If you endured up to this point - thanks you, I wish you a lovely year.
 
