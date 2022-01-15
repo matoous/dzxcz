@@ -4,7 +4,7 @@
   --background: #F5F5F0;
   --light: #555;
   --font-sans: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  --page-width: 820px;
+  --page-width: 640px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -24,7 +24,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 840px;
   padding: 1rem 20px;
 
   display: flex;
