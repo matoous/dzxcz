@@ -7,10 +7,6 @@ tags: ["journal","writing"]
 ---
 
 
-{{<rawhtml>}}
-
-{{</rawhtml>}}
-
 {{<cite "[Wikipedia](https://en.wikipedia.org/wiki/Long-form_journalism)">}}
 Long-form journalism is a branch of journalism dedicated to longer articles with larger amounts of content.
 Typically, this will be between 1,000 and 20,000 words.
@@ -45,9 +41,7 @@ pictures or the publication's direction.
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/2X5zWAt3augONkfuyVMaSG?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ## Coffee
 
@@ -55,7 +49,6 @@ pictures or the publication's direction.
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €19729.43 (<span class="green">+€497.7</span>)</div>
 <div><b>Running</b>:
   15.69 hours, 196.42 km, 16 runs
@@ -69,5 +62,4 @@ pictures or the publication's direction.
 <div><b>Activity Totals</b>:
   44.37 hours, 729.64 km, 35 activities
 </div>
-{{</rawhtml>}}
 

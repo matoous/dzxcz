@@ -34,13 +34,9 @@ We enjoyed our 5 minutes of fame before the gradient evened out and we had to wa
 bit more. The rest of the downhill was zigzagging between stones deep hidden under the powder cover.
 The skis suffered a couple of hits but nothing horrific.
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4520751009/embed/6a28db5f122de4c827eff13d7fb767fa14a32dff'></iframe>
-{{</rawhtml>}}
 
 ## St. Antönien
-
-
 
 {{< picture src="images/st_antonien.jpg" alt="..." >}}
 {{< picture src="images/st_antonien_00.jpg" alt="..." >}}
@@ -48,15 +44,11 @@ The skis suffered a couple of hits but nothing horrific.
 {{< picture src="images/st_antonien_02.jpg" alt="..." >}}
 {{< picture src="images/st_antonien_03.jpg" alt="..." >}}
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4524700110/embed/fb72514a259b6eb27551c9d2c554da505e4a6d0a'></iframe>
-{{</rawhtml>}}
 
 ## Fadeuer
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4528880478/embed/1e38d23a81ba17f6f7d133c23004b5539c0c6e80'></iframe>
-{{</rawhtml>}}
 
 ## Büelenhorn
 
@@ -64,27 +56,19 @@ The skis suffered a couple of hits but nothing horrific.
 {{< picture src="images/buelenhorn_00.jpg" alt="..." >}}
 {{< picture src="images/buelenhorn_01.jpg" alt="..." >}}
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4534457997/embed/dcf224093e2c2d61c07f95083321e83681ae2bfb'></iframe>
-{{</rawhtml>}}
 
 ## Sulzfluh
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4539783488/embed/ac5d2c3aa4fe66518f13ce0920b786d9406f1a77'></iframe>
-{{</rawhtml>}}
 
 ## Piz Dal Sasc
 
 {{< picture src="images/piz_dal_sasc.jpg" alt="..." >}}
 {{< picture src="images/maloja.jpg" alt="..." >}}
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4545045014/embed/b1963d942f206c1a8c28b57acd139c61981f5a98'></iframe>
-{{</rawhtml>}}
 
 ## Tschima da Flix
 
-{{<rawhtml>}}
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4549579268/embed/307ec4e968d5d0036c4a39c5e2608307f2866178'></iframe>
-{{</rawhtml>}}

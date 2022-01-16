@@ -17,9 +17,7 @@ I'm considering backing up the whole laptop to one place or the other, so far,
 I wrote a short [post]({{< ref "/posts/back_up_your_macos" >}}) summarising current options
 for periodical MacOS backups.
 
-{{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5224522242/embed/81835954f2c932c1c6663ef955fca84a7cef904b'></iframe>
-{{</rawhtml>}}
 
 This month I started learning [rust](https://www.rust-lang.org/) to extend my portfolio
 of languages at hand. So far I enjoy rust greatly, it plays well into my weakness for
@@ -45,9 +43,7 @@ with rust.
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/4TlMFjPFreMOKKoWAjHARr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ## Coffee
 
@@ -56,7 +52,6 @@ with rust.
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €11182.14 (<span class="green">+€1486.04</span>)</div>
 <div><b>Running</b>:
   15.55 hours, 200.5 km, 16 runs
@@ -70,5 +65,4 @@ with rust.
 <div><b>Activity Totals</b>:
   69.21 hours, 1510.14 km, 46 activities
 </div>
-{{</rawhtml>}}
 

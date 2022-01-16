@@ -6,7 +6,7 @@ draft: false
 tags: ["finance", "terminal", "writing"]
 ---
 
-For the last {{< rawhtml >}}<del>three months</del> <ins>year</ins>{{</ rawhtml >}}, I have been keeping track of all my expenses and income using Ledger,
+For the last <del>three months</del> <ins>year</ins>, I have been keeping track of all my expenses and income using Ledger,
 and it slowly turned into a little obsession of mine. Here's my take on what ledger is,
 how to keep one, and why you need one.
 

@@ -8,7 +8,7 @@ tags: ["writing", "meta"]
 
 ## The Bag
 
-*[]()*
+*[Db - The Backpack Pro](https://dbjourney.com/the-backpack-pro-black-out)*
 
 ## Electronics
 
@@ -57,5 +57,4 @@ which works well too.
 *[Nalgene Bottle](https://nalgene.com/product/32oz-wide-mouth-sustain/?attribute_pa_color=aubergine&attribute_pa_filter-color=gray)*
 
 *[Blistex lip balm](https://www.blistex.com/products/medicated-lip-balm/)*
-
 

@@ -13,9 +13,7 @@ the time it used to. Yet, I don't want to judge before the dust settles in.
 So except to see more in following months, and hopefully before the Christmas,
 I will have some coherent opinion formed.
 
-{{<rawhtml>}}
 <center>＊</center>
-{{</rawhtml>}}
 
 This month was mostly work-focused. Compared to the last months at Kiwi.com
 at SumUp there's more things to do than what can be done.
@@ -49,9 +47,7 @@ about SumUp that I enjoy in future posts. To preface it though: I'm proud to par
 of our team and I hope I will be able to soak in as much experience and skill
 from the guys as I possibly can.
 
-{{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5679535501/embed/00c289a776b2bfb7510d9988f5dcb23c4e4737b8'></iframe>
-{{</rawhtml>}}
 
 On a different note, I did a solo 275 km ride from Berlin to Litomerice (almost).
 It wasn't as hard as I expected. I took off at 5 am.
@@ -96,9 +92,7 @@ and telling myself what a terrible and painful experience it was, and how I can'
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/3fAYbQhbrj8w34ycDoRChZ?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ## Coffee
 
@@ -106,7 +100,6 @@ and telling myself what a terrible and painful experience it was, and how I can'
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €18891.82 (<span class="green">+€2395.04</span>)</div>
 <div><b>Running</b>: 
   13.9 hours, 178.05 km, 13 runs
@@ -120,4 +113,4 @@ and telling myself what a terrible and painful experience it was, and how I can'
 <div><b>Activity Totals</b>: 
   63.75 hours, 1534.16 km, 35 activities
 </div>
-{{</rawhtml>}}
+

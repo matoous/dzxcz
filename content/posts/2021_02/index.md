@@ -10,9 +10,7 @@ I was there, on [r/wsb](https://www.reddit.com/r/wallstreetbets/), during the $G
 boom. For two weeks my Reddit feed didn't contain anything else than GME memes, calls to arms,
 and too many posts of people betting their life saving on Robinhood.
 
-{{<rawhtml>}}
 <small>Little rant ahead...</small>
-{{</rawhtml>}}
 
 Czech Republic is breaking all records regarding Covid-19. Here we are, small,
 insignificant, middle-European country ranking top in at least something except
@@ -59,9 +57,7 @@ I found a couple of interesting articles. Here are the ones that I enjoyed:
 * [Hello 2021: Maduk](https://www.youtube.com/watch?v=i9KkBlvaBzE&ab_channel=LiquicityEvents)
   on repeat.
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/0vvS8ovyApqf1Ns51R4wKT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ### Coffee
 
@@ -75,7 +71,6 @@ Based on recent experience, Ethiophia is not quite my _cup of coffee_ (all puns 
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €7727.36 (<span class="green">+€1441.02</span>)</div>
 <div><b>Running</b>:
   17.16 hours, 220.81 km, 17 runs
@@ -89,4 +84,4 @@ Based on recent experience, Ethiophia is not quite my _cup of coffee_ (all puns 
 <div><b>Activity Totals</b>:
   40.3 hours, 444.76 km, 27 activities
 </div>
-{{</rawhtml>}}
+
