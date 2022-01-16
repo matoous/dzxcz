@@ -10,9 +10,7 @@ I was neglecting this blog a lot lately, contrary to what I promised myself at t
 But, I will try and catchup now, most importantly with 2021 review and stats and with a few book reviews
 missing, hold on tight.
 
-{{<rawhtml>}}
 <center>＊</center>
-{{</rawhtml>}}
 
 I tried to answer the life long question of _How much abuse can your body take before it starts falling apart_, the answer is _more than 34 days_.
 34 days is exactly for how long I have been in Spain and for how long I have been training with exactly 1 rest day. I felt well and strong for most
@@ -31,10 +29,6 @@ Needless to say I am going to pay much more attention to recovery from now on. F
 having yet another dick-measuring contest on uphill segments with guys that are far above my performance level. And last but not least, this makes me
 want to learn more about the physiology behind my training, because so far I focused on the big picture of optimal training splits, heart rate zones, and
 performance measures completely neglectic the most important part - my body.
-
-{{<rawhtml>}}
-<center>＊</center>
-{{</rawhtml>}}
 
 ## Reading
 
@@ -68,11 +62,7 @@ pacing of the movie.
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/2bidvM5hM1LGiEDkgp0EUz?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-{{</rawhtml>}}
 
 ## Stats
 
-{{<rawhtml>}}
-{{</rawhtml>}}

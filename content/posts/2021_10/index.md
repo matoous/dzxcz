@@ -22,13 +22,10 @@ From Prisoners and Sicario, to Arrival and Bladerunner 2049, Denis is mastermind
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/2yx33cf8wV4gCCVip2vKMo?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-{{</rawhtml>}}
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €21521.65 (<span class="green">+€1792.22</span>)</div>
 <div><b>Running</b>:
   13.56 hours, 172.07 km, 13 runs
@@ -42,12 +39,10 @@ From Prisoners and Sicario, to Arrival and Bladerunner 2049, Denis is mastermind
 <div><b>Activity Totals</b>:
   42.25 hours, 824.72 km, 38 activities
 </div>
-{{</rawhtml>}}
 
 ## Body Stats
 
-{{<rawhtml>}}
 <div><b>Body Weight</b>: 79 kg</div>
 <div><b>Body Fat %</b>: 13.2%</div>
 <div><b>VO<sub>2</sub> MAX</b>: 59 ml / min / kg</div>
-{{</rawhtml>}}
+

@@ -8,7 +8,10 @@ copyright: "This work is licensed under a Creative Commons Attribution-ShareAlik
 permalinks:
   posts: /:year/:month/:day/:slug
   books: /:year/:month/:day/:slug
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
   main:
   - identifier: home

@@ -39,9 +39,7 @@ Overall, and in simple terms, I loved it. In a company of great people the
 suffer fest turned into one of the best vacation I ever had and I hope
 there will be more in the future.
 
-{{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5020520378/embed/59e575935634d96cfc9dc781ff90b4cd5c0e13e0'></iframe>
-{{</rawhtml>}}
 
 ### The act of note taking
 
@@ -118,9 +116,7 @@ so maybe another time.
 * [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX?si=14MnN3y6SbWv2I6fmQB9gQ),
   electronic/dance music.
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/0fz8uK5GuDnpWVuay7BWKw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ### Coffee
 
@@ -129,7 +125,6 @@ so maybe another time.
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €8025.19 (<span class="green">+€297.83</span>)</div>
 <div><b>Running</b>:
   14.93 hours, 201.09 km, 14 runs
@@ -143,5 +138,4 @@ so maybe another time.
 <div><b>Activity Totals</b>:
   67.42 hours, 1594.03 km, 37 activities
 </div>
-{{</rawhtml>}}
 

@@ -36,9 +36,7 @@ the new Belgian young gun, didn't disappoint. As is the custom, liquid genre was
 and for the rest of the night one could hear mostly Neurofunk with occasional breaks into other drum and bass sub-genres
 such as Jump Up or Jungle.
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/3kzo68M2MvjbtEdYxa9EW0?utm_source=generator&amp;theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-{{</rawhtml>}}
 
 ## Reading
 
@@ -56,10 +54,8 @@ at Stripe, written by Brandon in the [nanoglyph](https://brandur.org/nanoglyphs)
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/7CiZj5S4E5FVboR0yLVLzc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <iframe src="https://open.spotify.com/embed/track/2yx33cf8wV4gCCVip2vKMo?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-{{</rawhtml>}}
 
 ## Coffee
 
@@ -67,7 +63,6 @@ at Stripe, written by Brandon in the [nanoglyph](https://brandur.org/nanoglyphs)
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €21521.65 (<span class="green">+€1792.22</span>)</div>
 <div><b>Running</b>:
   13.56 hours, 172.07 km, 13 runs
@@ -81,5 +76,4 @@ at Stripe, written by Brandon in the [nanoglyph](https://brandur.org/nanoglyphs)
 <div><b>Activity Totals</b>:
   42.25 hours, 824.72 km, 38 activities
 </div>
-{{</rawhtml>}}
 

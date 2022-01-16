@@ -22,9 +22,7 @@ I left Litomerice before 8:00, met with Vojta around 3 hours in, we had a quick 
 a large bowl of pasta with tune and sauce and a coffee at Plzen at around 13:00
 and we arrived at Doubravka at 19:30.
 
-{{<rawhtml>}}
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5173474635/embed/3f1ccfa1e7b96fdae87113254f1c9ee974477aac'></iframe>
-{{</rawhtml>}}
 
 And I migrated this website to [Cloudflare](https://www.cloudflare.com/) using their
 new [Cloudflare Pages](https://pages.cloudflare.com/) service. Netlify was fine but
@@ -52,10 +50,8 @@ services I can't wait to try.
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/track/4FJBJ8VMTnCjwyshRQNB8t" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/1fC0uGs48Sb7GLioUe0tN4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ## Coffee
 
@@ -63,7 +59,6 @@ Nothing new in April. Will order something good this month.
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €9696.09 (<span class="green">+€1721.88</span>)</div>
 <div><b>Running</b>:
   5.4 hours, 71.45 km, 7 runs
@@ -77,5 +72,4 @@ Nothing new in April. Will order something good this month.
 <div><b>Activity Totals</b>:
   66.2 hours, 1529.04 km, 35 activities
 </div>
-{{</rawhtml>}}
 

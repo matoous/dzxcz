@@ -66,7 +66,6 @@ are currently my favorites and I have them on repeat every run.
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €6286.35 (<span class="green">+€1500.13</span>)</div>
 <div><b>Running</b>:
   25.59 hours, 329.3 km, 22 runs
@@ -80,4 +79,3 @@ are currently my favorites and I have them on repeat every run.
 <div><b>Activity Totals</b>:
   44.03 hours, 498.46 km, 33 activities
 </div>
-{{</rawhtml>}}

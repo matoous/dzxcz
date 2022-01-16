@@ -6,11 +6,6 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-
-{{<rawhtml>}}
-{{</rawhtml>}}
-
-
 ## Reading
 
 - [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
@@ -22,9 +17,7 @@ _askdjaslkdjalda_
 
 ## Listening
 
-{{<rawhtml>}}
 <iframe src="https://open.spotify.com/embed/episode/2lzzL2bRp1tZjiRfcCq1f5" width="100%" height="152" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{</rawhtml>}}
 
 ## Coffee
 
@@ -33,7 +26,6 @@ _askdjaslkdjalda_
 
 ## Stats
 
-{{<rawhtml>}}
 <div><b>Net Worth</b>: €16563.31 (<span class="green">+€5283.17</span>)</div>
 <div><b>Running</b>: 
   16.83 hours, 221.16 km, 18 runs
@@ -48,4 +40,3 @@ _askdjaslkdjalda_
   58.9 hours, 1256.68 km, 44 activities
 </div>
 
-{{</rawhtml>}}
