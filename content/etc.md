@@ -60,4 +60,9 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Paged Out!](https://pagedout.institute) - not a blog _per se_ but great source of reading nevertheless
 - [Lesswrong](https://www.lesswrong.com)
 - [Tynan](https://tynan.com/)
+- [Carol Alexander](https://www.coalexander.com) - lots of awesome books on financial markets, blog posts, and more
+- [Stephen Diehl](https://www.stephendiehl.com/blog.html)
+- [Apenwarr](https://apenwarr.ca/log/)
+- [Vitalik Buterin](https://vitalik.ca/)
+- [Kris Machowski](https://www.machow.ski/)
 
