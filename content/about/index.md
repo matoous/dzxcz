@@ -10,7 +10,7 @@ I am currently training for my first [Ironman](https://en.wikipedia.org/wiki/Iro
 and an [Ultramarathon](https://www.aranbyutmb.com/en/). I run and cycle a lot but I'm neglecting the swimming.
 I do plenty of other sports too, like backcountry skiing, climbing, and anything else that I find enjoyable.
 
-The rest of my free time is spent on [reading](/books), cooking, and less enjoyable tasks.
+The rest of my free time is spent on coding, [reading](/books), cooking, and other stuff.
 In 2019 I also started this blog to force myself into writing more and to have a place where I could share my
 thoughts and knowledge. Please take this whole site with grain of salt as my english is far from perfect,
 and I feel like creating a coherent piece of writing is still impossible task for me
@@ -19,7 +19,7 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 Other than that, I enjoy quantifying my life. I keep track of my finances (using [ledger]({{< ref "/posts/ledger" >}})),
 activites (on [strava](https://www.strava.com/athletes/36515485), newly also on [this blog]({{< ref "/stats" >}})),
 and other metrics that I don't currently publish here. I do this because I enjoy statistics and data even though
-I am mediocre at best at both. Sharing the stats publicly holds me accountable and helps me spend less and workout more.
+I am mediocre at best at both. By sharing the stats publicly on this blog I hold myself more accountable.
 
 ## Philosophy
 
@@ -54,7 +54,6 @@ and stability demand.
 Technical support for online platform advertisement team. Helping with every possible task at hand, so mostly scripting and data pipelines.
 {{</details>}}
 
-
 {{<details "**Full-Stack Developer @ [Techambition Ltd.](https://en.techambition.com/)**, _9/2017 - 5/2018_">}}
 Full-stack developer (Node.js and React) of an online interactive tool for high school mathematics in a small startup.
 {{</details>}}
@@ -86,9 +85,10 @@ a few personal projects:
 * [gosmtp](https://github.com/matoous/gosmtp) -
   golang implementation of full-featured, lightweight and RFC compliant SMTP server.
 
-And when I find it worthwhile I contribute to open source projects, specifically:
+I also contribute to a few open source projects:
 
-* [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+* [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor written in Rust.
+* [hydra](https://github.com/ory/hydra/) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go.
 
 ## Fun facts
 
