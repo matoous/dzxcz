@@ -1,6 +1,6 @@
 <section class="listing">
   {{ range . }}
-    <a href="/activities/{{ printf "%.0f" .id }}">
+    <a href="https://www.strava.com/activities/{{ printf "%.0f" .id }}">
       {{ .name }}
       <span>
       - {{ .type }}{{ if .distance }}, {{ lang.NumFmt 2 (div .distance 1000) }} km{{ end }}
