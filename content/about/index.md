@@ -6,9 +6,9 @@ layout: "etc"
 Hi, I'm **Matouš**!
 
 I work as a software engineer at [SumUp](https://sumup.com/) and do a lot of sports.
-I am currently training for my first [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon),
-running and cycling a lot and neglecting the swimming. I do plenty of other sports too,
-like backcountry skiing, climbing, and anything else that I find enjoyable.
+I am currently training for my first [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon)
+and an [Ultramarathon](https://www.aranbyutmb.com/en/). I run and cycle a lot but I'm neglecting the swimming.
+I do plenty of other sports too, like backcountry skiing, climbing, and anything else that I find enjoyable.
 
 The rest of my free time is spent on [reading](/books), cooking, and less enjoyable tasks.
 In 2019 I also started this blog to force myself into writing more and to have a place where I could share my
@@ -25,7 +25,7 @@ I am mediocre at best at both. Sharing the stats publicly holds me accountable a
 
 I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/istj-personality)
 personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
-[ISTJ] can be split into 4 individual traits, [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted),
+_ISTJ_ can be split into 4 individual traits, [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted),
 [Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Observant](https://www.16personalities.com/articles/nature-thinking-vs-feeling),
 and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting). The `-A` suffix at the end
 stands for [Assertive](https://www.16personalities.com/articles/assertive-logistician-istj-a-vs-turbulent-logistician-istj-t).
@@ -36,7 +36,8 @@ in learning more about yourself.
 
 {{<details "**Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
 Working on authentication and authorization systems implementing standards such as
-[OIDC](https://openid.net/connect/) or [OAuth2](https://oauth.net/2/). Currently spending most of the time building second factor
+[OIDC](https://openid.net/connect/) or [OAuth2](https://oauth.net/2/).
+Currently spending most of the time building second factor
 authentication and request signing. Also fixing a lot of legacy code along the way.
 {{</details>}}
 
