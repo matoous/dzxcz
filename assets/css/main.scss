@@ -132,6 +132,7 @@ header {
 
 main {
   flex: 1;
+  max-width: 100%;
   & h1:first-of-type {
     margin-top: 0;
   }
