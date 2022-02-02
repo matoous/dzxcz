@@ -1,6 +1,6 @@
 ---
 title: "Becoming a Supple Leopard"
-date: 2022-01-01
+date: 2022-01-12
 slug: becoming_a_supple_leopard
 draft: false
 author: "Kelly Starrett"

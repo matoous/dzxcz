@@ -13,20 +13,16 @@ import (
 
 	"github.com/matoous/sportstats/integrations/strava"
 	"github.com/matoous/sportstats/ledger"
-	"github.com/matoous/sportstats/sync"
 )
 
 func getActivities() {
 	ledger.X()
-	panic("by")
-	sync.Activities()
 	token, err := strava.Auth()
 	if err != nil {
 		panic(err)
 	}
 	strava.SaveProfile(context.Background(), token)
 	strava.DownloadActivities(context.Background(), token)
-	sync.Activities()
 }
 
 const tmpl = `
@@ -178,7 +174,6 @@ FROM activities.csv WHERE activity_date LIKE '%s'`, dateQuery)
 
 func main() {
 	getActivities()
-	panic("x")
 	now := time.Now()
 	asOf := time.Date(now.Year(), now.Month()-1, now.Day(), 0, 0, 0, 0, time.UTC)
 
