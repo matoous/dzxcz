@@ -230,11 +230,8 @@ article {
   }
 
   @media only screen and (max-width: 600px) {
-    h1 {
-      text-align: center;
-    }
-    .meta {
-      justify-content: center;
+    header {
+      margin-top: 1rem;
     }
   }
 }
