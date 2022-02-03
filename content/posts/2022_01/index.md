@@ -18,6 +18,8 @@ This year will be heavy and it's about the time for me to learn to recover prope
 will be easier thanks to the new addition into my clever wearables; [whoop](https://www.whoop.com/).
 
 And as a second side not; I also signed up for the [DoloMythesRun](https://dolomythsrun.it/), ultramarthon (60k) in Dolomites, Italy.
+It will take place 2 weeks after the _Val d'Aran Ultratrail_ that takes place 2 weeks after _Ironman_.
+I think I should start training recovery.
 
 <center>＊</center>
 
@@ -78,6 +80,7 @@ Everybody is free, in long runs you don't have captains, we don't have bosses bu
 {{</cite>}}
 
 - [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g), a case against crypto and NFTs. Even though the video has over 2 (two) hours it is already so condensed and rich on fact and information it will get you hooked.
+- [Margin Call](https://www.imdb.com/title/tt1615147/), I loved [Big Short](https://www.imdb.com/title/tt1596363) I love this too.
 
 ## This weak I learned
 
