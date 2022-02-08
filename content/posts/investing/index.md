@@ -36,3 +36,9 @@ is no longer the case. Equities tend to raise and fall more frequently across th
 ## Investing for common mortals
 
 The market always goes up... unless it doesn't.
+
+---
+
+https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy
+
+
