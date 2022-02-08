@@ -32,7 +32,7 @@ menu:
   - identifier: stats
     name: Stats
     title: Stats
-    url: /stats
+    url: /stats/
     weight: 4
   - identifier: about
     name: About

@@ -179,6 +179,9 @@ nav {
 
       &.active {
         font-weight: 700;
+        &::after {
+          content: '\2936';
+        }
       }
     }
   }
