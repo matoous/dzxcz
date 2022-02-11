@@ -82,7 +82,7 @@ Everybody is free, in long runs you don't have captains, we don't have bosses bu
 - [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g), a case against crypto and NFTs. Even though the video has over 2 (two) hours it is already so condensed and rich on fact and information it will get you hooked.
 - [Margin Call](https://www.imdb.com/title/tt1615147/), I loved [Big Short](https://www.imdb.com/title/tt1596363) I love this too.
 
-## This weak I learned
+## This week I learned
 
 - [Negative zero](https://en.wikipedia.org/wiki/Signed_zero) exists (in computing) and is standardized by [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754-1985).
 
