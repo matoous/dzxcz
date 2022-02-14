@@ -65,4 +65,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Apenwarr](https://apenwarr.ca/log/)
 - [Vitalik Buterin](https://vitalik.ca/)
 - [Kris Machowski](https://www.machow.ski/)
+- [Jay Freeman (saurik)](https://www.saurik.com)
 
