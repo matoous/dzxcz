@@ -40,9 +40,10 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Scott Alexander](https://en.wikipedia.org/wiki/Slate_Star_Codex)'s [Slate Star Codes](https://slatestarcodex.com), newly also [Astral Codes Ten](https://astralcodexten.substack.com)
 - [Gwern Branwen](https://www.gwern.net/index)
 - [Alexey Guzey](https://guzey.com/)
-- [100 rabbits](https://100r.co/site/home.html) - [Rekka Bellum](https://kokorobot.ca/site/home.html) & 
+- [100 rabbits](https://100r.co/site/home.html)
 - [Jose Luis Ricon](https://nintil.com)
 - [Tom MacWright](https://macwright.com/)
+- [Johnny Rodgers](https://johnnyrodgers.is) - beautiful minimalistic and mindful blog, also doubles as a great inspiration for building a house
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Alex Danco](https://alexdanco.com/)
 - [Nikita Voloboev](https://nikitavoloboev.xyz/)
@@ -66,4 +67,6 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Vitalik Buterin](https://vitalik.ca/)
 - [Kris Machowski](https://www.machow.ski/)
 - [Jay Freeman (saurik)](https://www.saurik.com)
+- [Danluu](https://danluu.com/)
+- [Work In Progress](https://www.worksinprogress.co/)
 
