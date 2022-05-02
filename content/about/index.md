@@ -3,7 +3,7 @@ title: "About"
 layout: "etc"
 ---
 
-Hi, I'm <span style="font-weight: bold; color: #F0606F;">Matouš</span>!
+Hi, I'm Matouš!
 
 I work as a software engineer at [SumUp](https://sumup.com/) and do a lot of sports.
 I am currently training for my first [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon)

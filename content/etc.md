@@ -52,9 +52,9 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Nicholas Nethercote](https://nnethercote.github.io)
 - [A Collection of Unmitigated Pedantry](https://acoup.blog) by _Dr. Bret C. Devereaux_
 - [Amos](https://fasterthanli.me)
-- [Julia Evans](https://jvns.ca)
+- [Julia Evans](https://jvns.ca) - frequent smaller blog posts diving into various technical topics with comicstrips and wit
 - [Josh W Comeau](https://www.joshwcomeau.com)
-- [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
+- [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
 - [Wait But Why](https://waitbutwhy.com)
 - [Arun Venkatesan](https://www.arun.is)
 - [Fabien Sanglard](https://fabiensanglard.net/)
@@ -68,5 +68,6 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Kris Machowski](https://www.machow.ski/)
 - [Jay Freeman (saurik)](https://www.saurik.com)
 - [Danluu](https://danluu.com/)
+- [Blog Surf](https://blogsurf.io) - blog search engine where blogs are sorted using the [Market Rank](https://dkb.io/post/market-rank)
 - [Work In Progress](https://www.worksinprogress.co/)
 
