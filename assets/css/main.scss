@@ -17,15 +17,15 @@
 }
 
 body {
+  margin: 0;
   font-family: var(--font-sans);
   color: var(--foreground);
   background-color: var(--background);
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
-  margin: 0 auto;
-  max-width: var(--page-width);
-  padding: 1rem 20px;
+  width: 100%;
+  padding: 1.6rem;
   display: flex;
   flex-direction: row;
 
@@ -131,8 +131,7 @@ header {
 
 main {
   flex: 1;
-  max-width: 100%;
-  overflow-x: hidden;
+  max-width: var(--page-width);
   & h1:first-of-type {
     margin-top: 0;
   }
@@ -141,7 +140,7 @@ main {
 nav {
     justify-content: space-between;
     align-items: center;
-    padding-right: 4vw;
+    padding-right: 8%;
 
     flex-wrap: wrap;
     flex-direction: column;
@@ -290,8 +289,8 @@ figcaption {
 }
 
 img {
-  margin: 0 -20px;
-  max-width: calc(100% + 40px);
+  margin: 0 -1.6rem;
+  max-width: calc(100% + 3.2rem);
 }
 
 .📅 {

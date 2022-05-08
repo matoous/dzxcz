@@ -44,10 +44,15 @@ menu:
     title: Etc.
     url: /etc/
     weight: 6
+  - identifier: gear
+    name: Gear
+    title: Gear
+    url: /gear/
+    weight: 7
   - identifier: wiki
     name: Wiki
     url: https://wiki.dzx.cz
-    weight: 7
+    weight: 8
 
 params:
   author: "Matouš Dzivjak"
