@@ -26,7 +26,7 @@ I am mediocre at best at both. By sharing the stats publicly on this blog I hold
 I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/istj-personality)
 personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
 _ISTJ_ can be split into 4 individual traits, [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted),
-[Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Observant](https://www.16personalities.com/articles/nature-thinking-vs-feeling),
+[Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Thinking](https://www.16personalities.com/articles/nature-thinking-vs-feeling),
 and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting). The `-A` suffix at the end
 stands for [Assertive](https://www.16personalities.com/articles/assertive-logistician-istj-a-vs-turbulent-logistician-istj-t).
 I highly recommend trying the 16 personalities test youtself, while not tentative I find the insights helpful
