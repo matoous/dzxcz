@@ -6,15 +6,9 @@ draft: false
 tags: ["math", "writing"]
 ---
 
-I am ashamed of how much I have forgotten of math in last year or two.
-I am also ashamed of how much I neglected math during the whole university.
-Math was always the secondary subject that I considered to be just an obstacle
-of programming and while I enjoyed certain areas, especially [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
-and [statistics](https://en.wikipedia.org/wiki/Statistics) I was, and still am, lacking in others.
-
-And would like this struggle to come to an end, so I decided to do a little math refresh and revisit
-all I have learned since kindergarten up until now, focusing on topics that I know I have shortcoming in
-and topics where I struggled the most (looking at you [Mathematical analysis](https://en.wikipedia.org/wiki/Mathematical_analysis))
+I decided to do a little math refresh and revisit all I have learned since kindergarten up until now,
+focusing on topics that I know I have shortcoming in
+and topics where I struggled the most (looking at you [Mathematical analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)).
 
 To make the journey useful also to others, I decided to create a list of the resources that I found
 interesting, helpful, and well written. That being a highly subjective measure take this whole list with
