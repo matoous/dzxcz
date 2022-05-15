@@ -15,6 +15,8 @@ tags: ["journal","writing"]
   the Stripe style.
 - [Hello scientists of reddit, what's a scary science fact that the public knows nothing about?](https://www.reddit.com/r/AskReddit/comments/nj87n3/serious_hello_scientists_of_reddit_whats_a_scary/)
 - [Stop Overusing the Outbox Pattern](https://www.squer.at/en/blog/stop-overusing-the-outbox-pattern/)
+- [How Does the FBI Art Crime Team Operate?](https://hyperallergic.com/701155/how-does-the-fbi-art-crime-team-operate/)
+- [Big space](https://aeon.co/essays/our-cosmic-horizon-is-both-unreachable-and-closer-than-ever) _Our planet is a tiny porthole, looking over a cosmic sea. Can we learn what lies beyond our own horizons of perception?_
 
 ## Watching
 
