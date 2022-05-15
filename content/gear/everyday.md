@@ -16,7 +16,9 @@ seems to be excessive in comparison to Db. On the other hand, the main pocket do
 
 ## In The Bag
 
-- [a book]({{< ref "/books" >}})*. Always carry one around. 
+- [_Book_]({{< ref "/books" >}}). I Always carry one around, most of the time non-fictional books about
+  economics, statistics, thinking, or programming. Sometimes I also read fiction but I tend to get very excited
+  and hooked by the plot that fictional books don't spend more than 3 days in my bag.
 - [Tech Kit](https://bellroy.com/products/tech-kit/looma_viroblock_standard/basalt) by [Bellroy](https://bellroy.com/).
   I would consider this an unnecessary luxury but it works fine and I hope it will last for a long time. As a bonus, it also looks good.
 - [TriggerPoint](https://www.tptherapy.com/) [MBX](https://www.tptherapy.com/massage-balls/mbx-massage-ball.html)
@@ -34,4 +36,4 @@ seems to be excessive in comparison to Db. On the other hand, the main pocket do
 - [Curaprox Travel Set](http://www.curaproxclub.cz/produkty/curaprox-travel-set-308/)* in case I ever forget my hygiene kit or get stuck with just my bag.
   I haven't used the kit yet, which just confirms the rule of _it won't happen if you are prepared_.
 - [Moleskin Hard Cover A4 notebook](https://www.moleskine.com/en-us/shop/notebooks/the-original/classic-notebook-black-8053853602848.html)*
-
+- [Aesop Resurrection Aromatique Hand Balm](https://www.aesop.com/de/en/p/body-hand/hand/resurrection-aromatique-hand-balm/)

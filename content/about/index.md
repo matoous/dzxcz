@@ -96,6 +96,13 @@ I also contribute to a few open source projects:
 * Half marathon best time: **1:27:36**
 * Myers-Briggs personality: **[ISTJ-A](https://www.16personalities.com/istj-personality)**
 
----
+## Words to live by
 
-[^1]: Based on the brief definition at [merriam-webster](https://www.merriam-webster.com/dictionary/introvert).
+> I am most likely destined for average life, which is completely fine.
+  If you zoom out further and it becomes pretty hard to view this tiny spec of time we've given
+  and all it's trappings as anything more than ridiculous. You could become the most famous person in all of human history,
+  build empires, construct massive monuments to your achievement, etch your damn face into the earth with a laser in space...
+  and you'd still have just as much importance, in the scale of time and space, as every human that ever lived. Zero.[^average]
+
+[^average]: https://www.reddit.com/r/AskReddit/comments/upyafq/comment/i8ol1b3/
+
