@@ -39,16 +39,26 @@ stories of colleagues, something we wouldn't usually talk about during our
 daily interactions. I build respect and admiration for many of the people I met
 and it left we contemplating: _what do I want to do with my life?_
 
-<center>＊</center>
-
-{{<cite "Ena">}}
+{{<cite "...">}}
 If you are drinking Jägerbombs at your wedding you are too young to be getting merried.
 {{</cite>}}
+
+<center>＊</center>
+
+On 21st and 22nd we raced the [Run Labe Run](https://runlaberun.cz/) race. 377.5 km relay
+along the Labe river in team of 9 people. Everyone had 4 segments of varying length
+from short easy segments at around 7km, to hilly long segments of 14km+.
+We placed 9th out of 83 teams which is incredbile and we had a lot of fun.
+I managed to run my 5k and 10k PB at 18:57 and 38:57. The race was tough, I ran
+most of the segments at >163 BPM and managed to get 2:30 hours of sleep during the weekend.
+On the positive note it was a great leg-check before the Val d'Aran which now seems
+harder than ever, but hopefully doable.
 
 ## Reading
 
 - [What is a depressing truth you have made peace with?](https://www.reddit.com/r/AskReddit/comments/upyafq/what_is_a_depressing_truth_you_have_made_peace/)
 - [A Simple Explanation of How Money Moves Around the Banking System](https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/)
+- [The Rich Are Not Who We Think They Are. And Happiness Is Not What We Think It Is, Either.](https://web.archive.org/web/20220516112749/https://www.nytimes.com/2022/05/14/opinion/sunday/rich-happiness-big-data.html)
 
 ## Watching
 
@@ -57,7 +67,10 @@ motivated me before the marathon I had next day.
 
 ## This week I learned
 
-
+- [Bosnian War](https://en.wikipedia.org/wiki/Bosnian_War), which was quite heavy read.
+  I am not sure whether we skipped this topic during our history lessons in highschool or
+  I just wasn't paying attention.
+- _jet-setter_ - a rich, fashionable person who travels a lot
 
 ## Listening
 

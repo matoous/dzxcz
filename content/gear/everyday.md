@@ -33,7 +33,7 @@ seems to be excessive in comparison to Db. On the other hand, the main pocket do
   bio organic chocolate + fruite snack. I like raspberry and ginger the most. Also, the packages are quite
   small so it never happens that you eat too much.
 - [100% Konnor](https://100percent.eu/collections/konnor) sunglasses
-- [Curaprox Travel Set](http://www.curaproxclub.cz/produkty/curaprox-travel-set-308/)* in case I ever forget my hygiene kit or get stuck with just my bag.
+- [Curaprox Travel Set](http://www.curaproxclub.cz/produkty/curaprox-travel-set-308/) in case I ever forget my hygiene kit or get stuck with just my bag.
   I haven't used the kit yet, which just confirms the rule of _it won't happen if you are prepared_.
-- [Moleskin Hard Cover A4 notebook](https://www.moleskine.com/en-us/shop/notebooks/the-original/classic-notebook-black-8053853602848.html)*
+- [Moleskin Hard Cover A4 notebook](https://www.moleskine.com/en-us/shop/notebooks/the-original/classic-notebook-black-8053853602848.html)
 - [Aesop Resurrection Aromatique Hand Balm](https://www.aesop.com/de/en/p/body-hand/hand/resurrection-aromatique-hand-balm/)
