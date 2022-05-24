@@ -104,5 +104,10 @@ I also contribute to a few open source projects:
   build empires, construct massive monuments to your achievement, etch your damn face into the earth with a laser in space...
   and you'd still have just as much importance, in the scale of time and space, as every human that ever lived. Zero.[^average]
 
+## Before I Die
+
+I maintain a list of things I would like to do/achieve before I die, you can take a look
+[here](/before_i_die).
+
 [^average]: https://www.reddit.com/r/AskReddit/comments/upyafq/comment/i8ol1b3/
 

@@ -6,7 +6,7 @@ draft: true
 tags: ["journal","writing"]
 ---
 
-On 8th May I ran my second Marathon after 2 years.
+On 8th May I ran my [second Marathon](https://www.strava.com/activities/7107250564) after 2 years.
 I went into it with _simple_ goal of finnishing under 3 hours, not very confidently
 to be honest, and I managed to do so by the margin of 10 seconds.
 It was hard, and long, but most importantly hard. First 30k went smoothly
@@ -62,8 +62,11 @@ harder than ever, but hopefully doable.
 
 ## Watching
 
-Not much. [Ironman World Championship St. George](https://youtu.be/0fzbrEESdJY) was fun and
-motivated me before the marathon I had next day.
+- [Ironman World Championship St. George](https://youtu.be/0fzbrEESdJY) was fun and motivated me before the marathon I had next day.
+- [Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think](https://youtu.be/e-or_D-qNqM)
+- [Love, Death & Robots](https://www.imdb.com/title/tt9561862/). After not-so-good 2nd season Love, Death & Robots earned my
+  respect again. The third season is dark, fabulous, and original. My favorites were Bad Travelling, The Very Pulse of the Machine, Mason's Rats, and Jibaro.
+  Although, Zima Blue is still the overall winner.
 
 ## This week I learned
 
