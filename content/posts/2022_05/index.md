@@ -54,11 +54,17 @@ most of the segments at >163 BPM and managed to get 2:30 hours of sleep during t
 On the positive note it was a great leg-check before the Val d'Aran which now seems
 harder than ever, but hopefully doable.
 
+---
+
+By the way, I started putting down my personal wishlist called [Before I Die](/before_i_die).
+
 ## Reading
 
 - [What is a depressing truth you have made peace with?](https://www.reddit.com/r/AskReddit/comments/upyafq/what_is_a_depressing_truth_you_have_made_peace/)
 - [A Simple Explanation of How Money Moves Around the Banking System](https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/)
 - [The Rich Are Not Who We Think They Are. And Happiness Is Not What We Think It Is, Either.](https://web.archive.org/web/20220516112749/https://www.nytimes.com/2022/05/14/opinion/sunday/rich-happiness-big-data.html)
+- [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html). I will need to set a reminder to read this every once and then as I feel
+  like our team is taking on a lot of work that could be delegated or rised higher.
 
 ## Watching
 
