@@ -1,6 +1,6 @@
 ---
 title: "May"
-date: 2022-06-01
+date: 2022-05-30
 slug: may_2022
 draft: true
 tags: ["journal","writing"]
@@ -76,6 +76,8 @@ By the way, I started putting down my personal wishlist called [Before I Die](/b
 > weeks ahead to see if we can align on a free-slot and this often involves all of us commuting to
 > somewhere and disbanding by 22:00 hours because family, work next morning, chores to do, doctor
 > appointment and other human things.
+
+- [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security)
 
 ## Watching
 
