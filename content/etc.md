@@ -70,4 +70,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Danluu](https://danluu.com/)
 - [Blog Surf](https://blogsurf.io) - blog search engine where blogs are sorted using the [Market Rank](https://dkb.io/post/market-rank)
 - [Work In Progress](https://www.worksinprogress.co/)
+- [How to Build a Life column in The Atlantic](https://www.theatlantic.com/projects/how-build-life/)
 

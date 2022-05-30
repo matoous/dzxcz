@@ -75,4 +75,5 @@ Resources:
 - [Free Programming Books - Mathematics](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#mathematics)
 - [Awesome Math](https://github.com/rossant/awesome-math)
 - [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+- [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 

@@ -65,6 +65,17 @@ By the way, I started putting down my personal wishlist called [Before I Die](/b
 - [The Rich Are Not Who We Think They Are. And Happiness Is Not What We Think It Is, Either.](https://web.archive.org/web/20220516112749/https://www.nytimes.com/2022/05/14/opinion/sunday/rich-happiness-big-data.html)
 - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html). I will need to set a reminder to read this every once and then as I feel
   like our team is taking on a lot of work that could be delegated or rised higher.
+- [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
+- [Why do you waste so much time on the internet?](https://zan.bearblog.dev/why-i-waste-time/)
+
+> Loneliness. We don't have meaningful social connections anymore like our parents or their parents
+> geeration had. We are so scattered, that I am unsure how many of my friends are actually friends and
+> how many are just professional contacts. Everytime I switch job, almost 70% of my friends suddenly
+> fall out of contact. Heck, I don't even know the people who live in next apartments both left,
+> right, up and down on the same building. Socializing with my friends mean, setting up an appointment
+> weeks ahead to see if we can align on a free-slot and this often involves all of us commuting to
+> somewhere and disbanding by 22:00 hours because family, work next morning, chores to do, doctor
+> appointment and other human things.
 
 ## Watching
 
@@ -80,6 +91,7 @@ By the way, I started putting down my personal wishlist called [Before I Die](/b
   I am not sure whether we skipped this topic during our history lessons in highschool or
   I just wasn't paying attention.
 - _jet-setter_ - a rich, fashionable person who travels a lot
+- [Apple’s hidden flight tracker app ](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
 
 ## Listening
 
