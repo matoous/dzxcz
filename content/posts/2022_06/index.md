@@ -2,7 +2,7 @@
 title: "June"
 date: 2022-07-01
 slug: june_2022
-draft: true
+draft: false
 tags: ["journal","writing"]
 ---
 
