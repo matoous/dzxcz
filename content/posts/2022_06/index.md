@@ -57,7 +57,7 @@ Now some recovery and off to Spain for [Ultratrail Val d'Aran](https://www.aranb
 
 ## Watching
 
-- [Stranger Things](https://www.imdb.com/title/tt4574334/)
+- [Stranger Things](https://www.imdb.com/title/tt4574334/) are back with 4th season and whatever, I will admit it, I enjoy it.
 
 ## This month I learned
 
@@ -97,4 +97,9 @@ two were the best:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6seqZC1yszw7irLLTHnZHV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Q1HGS5HG1BLAXG9cc4xsR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+No groundbraking music discoveries this month. [Gleb](https://cs.wikipedia.org/wiki/Gleb_(raper)) (SK) release a new album that is... _underwhelming_.
+Anyway, here's one of the songs I enjoyed this month:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6WRCZGCBJfbsk1j1h0avlg?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
