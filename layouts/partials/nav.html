@@ -1,19 +1,19 @@
-<nav>
+<header class="main">
   <h1>
     <a href="{{ .Site.BaseURL | relLangURL }}">
       &#8801; Matous Dzivjak
     </a>
   </h1>
   <ul>
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.main }}
-        <li>
-          <a class="{{if (eq $currentPage.RelPermalink .URL) }}active{{end}}"
-             href="{{ .URL | absLangURL }}" title="{{ .Title }}">
-              {{ .Name }}
-          </a>
-        </li>
-      {{ end }}
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li>
+      <a class="{{if (eq $currentPage.RelPermalink .URL) }}active{{end}}" href="{{ .URL | absLangURL }}"
+        title="{{ .Title }}">
+        {{ .Name }}
+      </a>
+    </li>
+    {{ end }}
   </ul>
   {{ partial "socials" }}
-</nav>
+</header>

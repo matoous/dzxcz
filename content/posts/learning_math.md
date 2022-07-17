@@ -76,4 +76,5 @@ Resources:
 - [Awesome Math](https://github.com/rossant/awesome-math)
 - [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
 - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
+- [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
 
