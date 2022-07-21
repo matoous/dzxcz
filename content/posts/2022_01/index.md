@@ -2,7 +2,7 @@
 title: "January"
 date: 2022-02-01
 slug: january_2022
-draft: true
+draft: false
 tags: ["journal","writing"]
 ---
 

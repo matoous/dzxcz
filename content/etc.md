@@ -34,7 +34,7 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 [Vanityfair](https://www.vanityfair.com/contributor/william-langewiesche). Disclaimer, you will want more!
 {{</details>}}
 
-## Other blogs
+## Blogroll
 
 - [Paul Graham](http://paulgraham.com/articles.html)
 - [Scott Alexander](https://en.wikipedia.org/wiki/Slate_Star_Codex)'s [Slate Star Codes](https://slatestarcodex.com), newly also [Astral Codes Ten](https://astralcodexten.substack.com)
@@ -73,4 +73,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [How to Build a Life column in The Atlantic](https://www.theatlantic.com/projects/how-build-life/)
 - [Tim Bray](https://www.tbray.org/ongoing/)
 - [Lucas F. Costa](https://lucasfcosta.com)
+- [Jim Fisher](https://jameshfisher.com)
 

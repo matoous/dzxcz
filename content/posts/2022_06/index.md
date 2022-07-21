@@ -54,6 +54,7 @@ Now some recovery and off to Spain for [Ultratrail Val d'Aran](https://www.aranb
 
 - [Why didn't Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
 - [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+- [How to fuck up an airport](https://www.radiospaetkauf.com/ber/); i.e. how the BER Airport came to be
 
 ## Watching
 
