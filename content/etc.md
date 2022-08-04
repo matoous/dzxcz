@@ -74,4 +74,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Tim Bray](https://www.tbray.org/ongoing/)
 - [Lucas F. Costa](https://lucasfcosta.com)
 - [Jim Fisher](https://jameshfisher.com)
+- [Thomas Lin Pedersen](https://www.data-imaginist.com/)
 
