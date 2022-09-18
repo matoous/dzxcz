@@ -75,4 +75,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Lucas F. Costa](https://lucasfcosta.com)
 - [Jim Fisher](https://jameshfisher.com)
 - [Thomas Lin Pedersen](https://www.data-imaginist.com/)
+- [Steve Francia](https://spf13.com/)
 
