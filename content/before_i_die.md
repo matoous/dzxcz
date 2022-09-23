@@ -13,5 +13,6 @@ I don't have it on this list because the chances of _me dying_ are very low).
 - Run [Cape Wrath Ultra](https://www.capewrathultra.com/)
 - Run [Ultra-Trail du Month Blanc](https://utmbmontblanc.com/en/)
 - Skitour the [Haute Raute](https://www.alpine-guides.com/trips/haute-route-ski-tour/) from Chamonix to Zermatt
+- Finish [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon) under 10 hours
 - Try at least one adventure race
 
