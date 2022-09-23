@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: "etc"
+layout: "about"
 ---
 
 Hi, I'm Matouš!

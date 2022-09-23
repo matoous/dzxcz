@@ -459,3 +459,59 @@ sup a {
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.achievements {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.achievement {
+  position: relative;
+  max-width: 280px;
+  width: 100%;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 0 1rem;
+  
+  .logo {
+    margin: 0 auto;
+    max-width: 180px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  a {
+    font-weight: bold;
+    margin-bottom: .4rem;
+  }
+  
+  &.dnf .logo {
+    img {
+      filter: grayscale(100%) brightness(30%);
+    }
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .note {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 180px;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+}
