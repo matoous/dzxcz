@@ -2,7 +2,7 @@
 title: "Business Adventures"
 date: 2020-01-01
 slug: business_adventures
-draft: true
+draft: false
 author: "John Brooks"
 tags: ["business", "economics", "reading"]
 ---
