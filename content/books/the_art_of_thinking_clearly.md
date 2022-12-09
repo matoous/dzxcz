@@ -21,7 +21,7 @@ Overall, The Art of Thinking Clearly is a highly accessible and engaging book th
 human mind and how it can be improved. It is a useful resource for anyone looking to improve their critical thinking
 skills and avoid common mistakes in reasoning.
 
-_Thank you for the book **Ena**._
+_Thank you Ena._
 
 ### Info
 

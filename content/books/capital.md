@@ -2,7 +2,7 @@
 title: "Capital in the Twenty-First Century"
 date: 2020-11-04
 slug: "capital"
-draft: true
+draft: false
 author: "Thomas Piketty"
 tags: ["economics", "reading"]
 ---
