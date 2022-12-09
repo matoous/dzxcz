@@ -4,7 +4,7 @@ date: 2020-11-03
 slug: sapiens
 draft: false
 author: "Yuval Noah Harari"
-tags: ["history", "science",  "reading"]
+tags: ["history", "science", "reading"]
 ---
 
 Modern society is shaped by [capitalism](https://en.wikipedia.org/wiki/Capitalism) and
