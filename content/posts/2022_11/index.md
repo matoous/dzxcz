@@ -10,6 +10,11 @@ We are on a cycling trip to Dénia number 2.
 
 ## Reading
 
+I finally finished [The Art of Thinking Clearly]({{< ref "/books/the_art_of_thinking_clearly" >}})
+that I got from Ena back in August. This year I am embarrassingly slow with the books.
+Other than that I had some time for long form articles and several forgotten blog posts among
+the 120 open Safari tabs on my iPhone.
+
 - [So long and thanks for all the bits](https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits)
 - [Reminiscing: the retreat to comforting work.](https://lethain.com/reminiscing/) - on how we _snack_ on easy tasks while avoiding the complicated.
 - [Ask HN: How do I find my “purpose”?](https://news.ycombinator.com/item?id=33534644)
@@ -30,5 +35,10 @@ If it's the IRS, the answer is "None."
 
 ## Listening
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fSDSeR4mOGCldB3nhq7M1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4rs3CAAycZzHObzp47VsZ9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x-iaOJEWwqw" title="YouTube video player" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
 [^1]: https://dictionary.cambridge.org/dictionary/english/horses-for-courses
