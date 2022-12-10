@@ -55,6 +55,7 @@ a {
 
   &:hover {
     text-decoration: none;
+
     svg {
       fill: var(--background);
     }
@@ -121,7 +122,8 @@ footer {
   }
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: 1.2rem;
 }
 
@@ -132,24 +134,25 @@ header {
 main {
   flex: 1;
   max-width: var(--page-width);
+
   & h1:first-of-type {
     margin-top: 0;
   }
 }
 
 header.main {
-    justify-content: space-between;
-    align-items: center;
-    padding-right: 8%;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 8%;
 
-    flex-wrap: wrap;
-    flex-direction: column;
+  flex-wrap: wrap;
+  flex-direction: column;
 
-    h1 {
-      margin: 0 1.4rem 0 0;
-      font-size: 1rem;
-      white-space: nowrap;
-    }
+  h1 {
+    margin: 0 1.4rem 0 0;
+    font-size: 1rem;
+    white-space: nowrap;
+  }
 
   a {
     text-decoration: none;
@@ -171,6 +174,7 @@ header.main {
   li {
     margin-right: 0.6rem;
     display: block;
+
     a {
       text-transform: uppercase;
       font-size: 0.8rem;
@@ -178,16 +182,19 @@ header.main {
 
       &.active {
         font-weight: 700;
+
         &::after {
           content: '\2936';
         }
       }
     }
   }
+
   @media only screen and (max-width: 840px) {
     display: flex;
     flex-direction: row;
     padding-right: 0;
+
     li {
       display: inline-block;
     }
@@ -222,7 +229,7 @@ article {
     flex-direction: row;
     flex-wrap: wrap;
 
-    > * {
+    >* {
       margin-right: 0.4rem;
     }
 
@@ -386,57 +393,6 @@ sup a {
   color: #FF4136;
 }
 
-.activityStats {
-  display:flex;
-  flex-direction:row;
-  align-items:center;
-  justify-content:space-between;
-  text-align:center;
-  margin-bottom:16px;
-
-  > div {
-    flex: 1 1 0px;
-    box-sizing: border-box;
-  }
-
-  .stat {
-    > div:last-child {
-      font-size: .9rem;
-      color: var(--light);
-    }
-  }
-}
-
-.segments {
-  .table {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto;
-
-    .columnName {
-      font-weight: bold;
-      border-top: none;
-    }
-
-    > div {
-      padding:.2rem;
-      border-top: 1px solid black;
-      text-align: center;
-      box-sizing: border-box;
-
-      &:nth-of-type(7n+1) {
-        text-align: left;
-      }
-    }
-  }
-}
-
-.activityMeta {
-  text-align: center;
-  font-size: .9rem;
-  margin: 8px 0;
-  color: var(--light);
-}
-
 .tooltip {
   position: relative;
   display: inline-block;
@@ -451,7 +407,7 @@ sup a {
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
- 
+
   position: absolute;
   z-index: 1;
 }
@@ -474,7 +430,7 @@ sup a {
   text-align: center;
   margin-top: 1rem;
   padding: 0 1rem;
-  
+
   .logo {
     margin: 0 auto;
     max-width: 180px;
@@ -484,23 +440,23 @@ sup a {
     align-items: center;
     margin-bottom: 1rem;
   }
-  
+
   a {
     font-weight: bold;
     margin-bottom: .4rem;
   }
-  
+
   &.dnf .logo {
     img {
       filter: grayscale(100%) brightness(30%);
     }
   }
-  
+
   img {
     max-width: 100%;
     max-height: 100%;
   }
-  
+
   .note {
     position: absolute;
     top: 0;

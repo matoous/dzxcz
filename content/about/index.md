@@ -16,11 +16,6 @@ thoughts and knowledge. Please take this whole site with grain of salt as my eng
 and I feel like creating a coherent piece of writing is still impossible task for me
 ([I am working on it though]({{< ref "/books/sense_of_style" >}})).
 
-Other than that, I enjoy quantifying my life. I keep track of my finances (using [ledger]({{< ref "/posts/ledger" >}})),
-activites (on [strava](https://www.strava.com/athletes/36515485), newly also on [this blog]({{< ref "/stats" >}})),
-and other metrics that I don't currently publish here. I do this because I enjoy statistics and data even though
-I am mediocre at best at both. By sharing the stats publicly on this blog I hold myself more accountable.
-
 ## Philosophy
 
 I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/istj-personality)
