@@ -27,6 +27,34 @@ stands for [Assertive](https://www.16personalities.com/articles/assertive-logist
 I highly recommend trying the 16 personalities test youtself, while not tentative I find the insights helpful
 in learning more about yourself.
 
+To greater or lesser extend I identify will following philosophies:
+
+- [Hedonism](https://en.wikipedia.org/wiki/Hedonism), specifically [Epicurean Hedonism](https://en.wikipedia.org/wiki/Hedonism#Epicureanism)
+
+  > Hedonism refers to a family of theories, all of which have in common that pleasure plays a central role in them.
+  > Psychological or motivational hedonism claims that human behavior is determined by desires to increase pleasure and to
+  > decrease pain.
+
+  _Hedonism_ is a viewpoint that pursuit of pleasure and avoidance of pain is the highest good and the proper aim of
+  human life. This can involve the enjoyment of physical sensations, emotional fulfillment, and the attainment of desired
+  experiences and material goods.  _Epicurean Hedonism_ further extends this belive to emphasize the importance of
+  balancing pleasure with avoiding pain and discomfort, and views the attainment of long-term happiness as the ultimate
+  goal (whereas _Cyrenaic Hedonism_ prioritizes immediate pleasure regardless of the long-term consequences or impact on
+  well-being).
+
+  For me this roughly translates into pursuit of well being, happiness (of me and people around me), and priorisation of
+  lasting experiences over material goods. _Hedonism_ is individualistic believe. Although, if one finds joy in well-being
+  of others as well as theirs, it can overlap with [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism) that I
+  find relatable as well.
+
+- [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+
+  > The core teachings of Stoicism focus on the development of self-control and resilience in the face of life's
+  > difficulties, and emphasize the importance of living in accordance with reason. Stoics believe that the key to a happy
+  > and fulfilling life is to focus on what is within our control, and to cultivate inner peace by accepting the things that
+  > are outside our control. They also believe in living a virtuous life, and see wisdom, justice, courage, and temperance
+  > as the four cardinal virtues.
+ 
 ## Career
 
 {{<details "**Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
