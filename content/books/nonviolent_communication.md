@@ -50,7 +50,7 @@ In the end, the process looks like this:
 It's easier to provide a few examples:
 
 * "You are too generous" vs. "When I see you share your lunch with other I think you are being too generous"
-* "She's ugly" vs. "Her looks don;t appeal to me"
+* "She's ugly" vs. "Her looks don't appeal to me"
 * "If you don't eat healthy you will be fet" vs. "If you don't eat healthy I fear you might become fet"
 
 ## Identifying and expressing feelings
