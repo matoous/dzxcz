@@ -27,6 +27,7 @@ We've spent the whole of January in Tenerife with group of great friends (people
   > offering reveals a not-so-caring one, and this itself deters asking. This discouragement effect can
   > also generate a trap where those in need wait for an offer, while potential helpers wait for an ask,
   > resulting in significant inefficiencies.
+- [The Great People Shortage is coming — and it's going to cause global economic chaos](https://archive.ph/zBiPM#selection-1305.0-1305.83)
 
 ## This month I learned
 
