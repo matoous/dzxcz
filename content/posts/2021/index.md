@@ -92,5 +92,7 @@ Given the recent experience with over a month in Spain I would like to visit [Gi
 come back to [Dénia](https://en.wikipedia.org/wiki/D%C3%A9nia), and spent a few weeks running and cycling in
 [Austria](https://en.wikipedia.org/wiki/Austria).
 
-If you endured up to this point - thanks you, I wish you a lovely year.
+---
+
+If you endured up to this point - thank you, I wish you a lovely year.
 

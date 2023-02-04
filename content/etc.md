@@ -77,4 +77,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Thomas Lin Pedersen](https://www.data-imaginist.com/)
 - [Steve Francia](https://spf13.com/)
 - [Xe Iaso](https://xeiaso.net/)
+- [Will Larson](https://lethain.com/)
 
