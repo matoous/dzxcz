@@ -1,4 +1,5 @@
 ---
+
 title: "January"
 date: 2023-02-01
 slug: january_2023
@@ -7,6 +8,22 @@ tags: ["journal","writing"]
 ---
 
 We've spent the whole of January in Tenerife with group of great friends (people) from the office.
+The coffee and pastries consumption was through the roof and apart from work we managed to squeeze in
+a lot of fun as well: night hike to Teide, paragliding, surfing, and plenty of dinners, walks, and
+deep talks. In short, I had fun, felt happy, and enjoyed the company. 32 days was admittedly a lot
+and the productivity was on decline in last 2 weeks so one consideration for next iteration of the
+_Winter Berlin Escape_ would be to make it shorted or take more days of full time off.
+
+<center>＊</center>
+
+This month [Hashicorp](https://www.hashicorp.com/) released their RFC management tool called
+[Hermes](https://github.com/hashicorp-forge/hermes) and we had a long discussion about the absence
+of a proper RFC process at SumUp. In my opinion this hinders cross-team collaboration,
+undermines enforceability of company-wide standards, and makes it hard for non-senior engineers
+to raise issues to higher ranks. The dream would be to have something like Oxide's [RFD 1](https://oxide.computer/blog/rfd-1-requests-for-discussion)
+and a management system that would consolidate RFCs from all tools that we use right now
+(Confluence, Google Docs, GitHub) into single tool that would make it easier to discover,
+follow, and reference RFCs.[^1]
 
 ## Reading
 
@@ -31,9 +48,6 @@ We've spent the whole of January in Tenerife with group of great friends (people
 
 ## This month I learned
 
-- [**Hedonism**](https://en.wikipedia.org/wiki/Hedonism) - Hedonism refers to a family of theories, all of which have in
-  common that pleasure plays a central role in them. Psychological or motivational hedonism claims that human behavior is
-  determined by desires to increase pleasure and to decrease pain.
 - [**Preparedness Paradox**](https://en.wikipedia.org/wiki/Preparedness_paradox) - The preparedness paradox is the
   proposition that if a society or individual acts effectively to mitigate a potential disaster such as a pandemic,
   natural disaster or other catastrophe so that it causes less harm, the avoided danger will be perceived as having been
@@ -44,6 +58,12 @@ We've spent the whole of January in Tenerife with group of great friends (people
 ## Watching
 
 - [Walmsley Part 3 Presented by Wahoo + HOKA](https://youtu.be/LibGmCDdBxw) - Jim Walmsleys 4th place on UTMB
+- [Suits](https://www.imdb.com/title/tt1632701/) rewatch in late evenings.
 
 ## Listening
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ZNYGrmcehorhh9JOeg5Iv?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MBh4HeKws0gRdOMEI0v0I?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[^1]: There's a lot left to be desired: https://github.com/oxidecomputer/cio
