@@ -1,15 +1,27 @@
 ---
 title: "Staff Engineer"
-date: 2023-02-28
+date: 2023-02-11
 slug: staff_engineer
-draft: true
+draft: false
 author: "Will Larson"
 tags: ["engineering", "reading"]
 ---
 
+[Staff Engineer](https://staffeng.com/) is a concise look at leadership beyond the management track.
+The book was written by [Will Larson](https://lethain.com/) who worked at companies such as Stripe or Uber.
+In around 150 pages he summarizes his view on Staff+ engineering and the other half of the book contains
+interviews with engineers from other companies. While subjective, many of the points in the book seem to
+be the general consensus in the industry on what Staff+ engineering should look like. Some chapters
+contain more substance (e.g. _Work on What Matter_) while others seemed to me like re-iteration of
+what I would expect from engineers on any other level or even just decent human beings
+(_Get in the Room and Stay There_ in particular contains a few points that read to me as _don't be an duchebag_).
+
 ## Notes
 
-- When advancing through the career ladder the timeframe of initiatives get longer from weeks (sprints) to months or even years
+- When advancing through the career ladder the timeframe of initiatives get longer from weeks (sprints) to months or even years.
+- Shift from decision making and executing towards giving space to others and steering them in the right direction.
+- A lot of it is about networking and being friends with the right people or being in the right place at the right time.
+- Enging chapter also includes a few tips for managing and hiring staff engineers.
 
 ### Archetypes
 
@@ -43,7 +55,9 @@ tags: ["engineering", "reading"]
   - edit - once you have the context you might be able to contribute small changes that actually push existing project by a lot
   - finish things - help where things are not getting buy in (and should) or when they need to be taken over the finish line
 
-- engineering strategy
+- engineering strategy[^3]
+  - why? allows teams to move quickly and with confidence, e.g. the team doesn't need to do week of research on database
+    storage because the chosen few that are used in the company are already part of the engineering strategy
 
 - managing technical quality
   - fix hot spots causing immediate problems
@@ -52,6 +66,27 @@ tags: ["engineering", "reading"]
   - align on techical vectors - the initiatives in the team and accross team should lead to shared goal
     - give feedback, encapsulate your approach in workflow and tooling
   - do fewer things but do them better
+
+- listening through questions, i.e. asking good questions that open further discussion, the question has to be well intended
+  with the purpose of learning more and the other party must feel safe to answer it
+
+- discussions
+  - shift your contribution towards asking questions
+  - pull people that aren't participating into the discussion
+  - take notes (_duh_)
+
+- decisions
+  - write down the _problem_, _think hard_, _write down the solution_ framework
+  - circulate early, i.e. get input early in the decision-making process
+  - separate style from substance, i.e. stop giving style feedback because everyone has different writing style and idea
+    of the document structure. Instead, focus on the substance.
+  - be open to changing your mind
+
+- presenting to executives
+  - situation: the context of the problem
+  - complication: why is the current situation _bad_
+  - question: what is the core question to answer?
+  - answer: what is your best solution/answer to the posed question?
 
 ### Info
 
@@ -62,3 +97,4 @@ ISBN13: 9781736417911
 
 [^1]: https://larahogan.me/blog/what-sponsorship-looks-like/
 [^2]: https://noidea.dog/glue
+[^3]: https://staffeng.com/guides/engineering-strategy
