@@ -24,8 +24,7 @@ but the overall tone is heartwarming and the takeaways are true to the heart.
 
   - Don't criticise, condemn, or complain; instead, try to understand them, what they want
     and why they do things they do
-  - Give honest and sincere appreciation; try to figure out other person's good points and give
-    honest appraciation
+  - Give honest and sincere appreciation; try to figure out other person's good traits
   - Arouse in other people an eager want; don't force your ideas on others, make them want to be part
     of it.
 
