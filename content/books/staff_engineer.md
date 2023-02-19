@@ -4,7 +4,7 @@ date: 2023-02-11
 slug: staff_engineer
 draft: false
 author: "Will Larson"
-tags: ["engineering", "reading"]
+tags: ["engineering", "work", "reading"]
 ---
 
 [Staff Engineer](https://staffeng.com/) is a concise look at leadership beyond the management track.

@@ -18,7 +18,7 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 
 ## Philosophy
 
-I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/istj-personality)
+I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/profiles/b62d4560c6e86)
 personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
 _ISTJ_ can be split into 4 individual traits, [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted),
 [Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Thinking](https://www.16personalities.com/articles/nature-thinking-vs-feeling),
@@ -27,7 +27,7 @@ stands for [Assertive](https://www.16personalities.com/articles/assertive-logist
 I highly recommend trying the 16 personalities test youtself, while not tentative I find the insights helpful
 in learning more about yourself.
 
-To greater or lesser extend I identify will following philosophies:
+To greater or lesser extend I identify with following philosophies:
 
 - [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 
