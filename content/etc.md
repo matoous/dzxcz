@@ -78,4 +78,5 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Steve Francia](https://spf13.com/)
 - [Xe Iaso](https://xeiaso.net/)
 - [Will Larson](https://lethain.com/)
+- [Connor Bär](https://connorbaer.com/)
 
