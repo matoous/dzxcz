@@ -113,12 +113,6 @@ I also contribute to a few open source projects:
 * [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor written in Rust.
 * [hydra](https://github.com/ory/hydra/) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go.
 
-## Fun facts
-
-* Number of siblings: 3
-* Half marathon best time: **1:27:36**
-* Myers-Briggs personality: **[ISTJ-A](https://www.16personalities.com/istj-personality)**
-
 ## Words to live by
 
 > I am most likely destined for average life, which is completely fine.
