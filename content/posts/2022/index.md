@@ -81,7 +81,18 @@ In progress...
 
 ### Finances
 
-In progress...
+In 2022 I stopped tracking my finance in [ledger]({{<ref "/posts/ledger" >}}). One reason being
+it taking a lot of time. The other being that tracking all of my spending for 2 years gave me a
+good idea of where I am spending the most - sports and rent.
+
+This year I was definitely spending more on eating out, drinks, travel, and generaly on myself.
+I also saved less than the year before which I feel bad about and intend to fix this year.
+In 2021 I managed to put 18.469 € aside compared to 11.000 € this year.
+I attribute this in part to higher expediture and in part to overall downturn of the financial
+market which makes made me realise that even index traded funds are not as save of an investement
+as I though they are.
+On the other hand, I have built substantial cash reserve and hope to expand it further
+to 3 months worth of salary of unexpected expenses.
 
 ## 2023
 
