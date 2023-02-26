@@ -21,14 +21,14 @@ to believe in imaginary things such as gods, money, nations, laws, and more.
 All large-scale cooperative human systems found their foundation in the cognitive capacity for fiction.
 Be it trade networks, religions or political systems. All these systems are purely abstract
 yet enabled us to cooperate on unprecedented scale, thus overpowering all other living species.
-For example money, the powerhorse of economies and trade, is a system of mutual trust.
+For example money, the powerhouse of economies and trade, is a system of mutual trust.
 [Money](https://en.wikipedia.org/wiki/Money) have their value simply because we (collectively)
 believe in their value. The time when value of money was backend by the actual precious metals
 is long gone, and even then what allowed money to exist is that we trusted that we will be able to
 exchange money for goods because others have the same believes and will be willing to
 accept money as a form of a payment.
 
-With the money we are getting a little ahead of ourselves though. It was only in
+With the money we are getting ahead of ourselves though. It was only in
 3000 BC in Mesopotamia when the first commodity money - shekel - was introduced.
 The first result of the abstract thinking was the ability to build larger groups.
 The large scale human cooperation in the form of archaic tribes, medieval kingdoms or

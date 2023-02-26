@@ -17,7 +17,7 @@ that can affect our thinking, and provides practical advice on how to avoid thes
 importance of critical thinking and the need to question our assumptions, as well as the benefits of adopting a more
 logical and analytical approach to decision-making.
 
-Overall, The Art of Thinking Clearly is a highly accessible and engaging book that offers valuable insights into the
+The Art of Thinking Clearly is a highly accessible and engaging book that offers valuable insights into the
 human mind and how it can be improved. It is a useful resource for anyone looking to improve their critical thinking
 skills and avoid common mistakes in reasoning.
 

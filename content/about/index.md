@@ -45,15 +45,15 @@ To greater or lesser extend I identify with following philosophies:
 
   _Hedonism_ is a viewpoint that pursuit of pleasure and avoidance of pain is the highest good and the proper aim of
   human life. This can involve the enjoyment of physical sensations, emotional fulfillment, and the attainment of desired
-  experiences and material goods.  _Epicurean Hedonism_ further extends this belive to emphasize the importance of
+  experiences and material goods.  _Epicurean Hedonism_ further extends this believe to emphasize the importance of
   balancing pleasure with avoiding pain and discomfort, and views the attainment of long-term happiness as the ultimate
   goal (whereas _Cyrenaic Hedonism_ prioritizes immediate pleasure regardless of the long-term consequences or impact on
   well-being).
 
-  For me this roughly translates into pursuit of well being, happiness (of me and people around me), and priorisation of
+  For me this roughly translates into pursuit of well being, happiness (of me and people around me), and prioritisation of
   lasting experiences over material goods. _Hedonism_ is individualistic believe. Although, if one finds joy in well-being
   of others as well as theirs, it can overlap with [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism) that I
-  find relatable as well.
+  find relatable too.
  
 ## Career
 
@@ -117,7 +117,7 @@ I also contribute to a few open source projects:
 
 > I am most likely destined for average life, which is completely fine.
   If you zoom out further and it becomes pretty hard to view this tiny spec of time we've given
-  and all it's trappings as anything more than ridiculous. You could become the most famous person in all of human history,
+  and all its trappings as anything more than ridiculous. You could become the most famous person in all of human history,
   build empires, construct massive monuments to your achievement, etch your damn face into the earth with a laser in space...
   and you'd still have just as much importance, in the scale of time and space, as every human that ever lived. Zero.[^average]
 

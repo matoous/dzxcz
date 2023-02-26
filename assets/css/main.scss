@@ -219,8 +219,22 @@ article {
     }
   }
 
+  &.book {
+    header {
+      h1 {
+        margin-bottom: 0rem;
+      }
+    }
+  }
+
   iframe {
     max-width: 100%;
+  }
+
+  .author {
+    color: var(--light);
+    font-size: 1.1rem;
+    margin-bottom: 0.8rem;
   }
 
   .meta {

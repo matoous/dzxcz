@@ -15,7 +15,7 @@ learned. Some examples in the book seem to be far-fetched hurting on the credibi
 book, despite that it still holds great value and provides great insight into what empathy
 really means.
 
-# Here's my "brief" summary of the book
+# Notes
 
 ## Four components of NVC
 

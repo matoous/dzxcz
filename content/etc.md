@@ -11,7 +11,7 @@ My favourites in various categories in no particular order.
 
 ## Articles
 
-I am big fan of long format investigative writing. If the author spends the time researching the topic and is able to assimilate accummulated knowledge
+I am big fan of long format investigative writing. If the author spends the time researching the topic and is able to assimilate accumulated knowledge
 into a coherent piece writing the topic stops being relevant. This list is longer than I originally intended but I read a lot and there's just simply a lot of great
 articles worth mentioning:
 
@@ -39,44 +39,31 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Paul Graham](http://paulgraham.com/articles.html)
 - [Scott Alexander](https://en.wikipedia.org/wiki/Slate_Star_Codex)'s [Slate Star Codes](https://slatestarcodex.com), newly also [Astral Codes Ten](https://astralcodexten.substack.com)
 - [Gwern Branwen](https://www.gwern.net/index)
-- [Alexey Guzey](https://guzey.com/)
-- [100 rabbits](https://100r.co/site/home.html)
 - [Jose Luis Ricon](https://nintil.com)
 - [Tom MacWright](https://macwright.com/)
-- [Johnny Rodgers](https://johnnyrodgers.is) - beautiful minimalistic and mindful blog, also doubles as a great inspiration for building a house
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Alex Danco](https://alexdanco.com/)
-- [Nikita Voloboev](https://nikitavoloboev.xyz/)
-- [Dan Abramov](https://overreacted.io)
-- [Sandy Maguire](https://reasonablypolymorphic.com/blog/archives/) and the [other blog](https://sandymaguire.me/blog/archives/)
-- [Nicholas Nethercote](https://nnethercote.github.io)
+- [Nikita Voloboev](https://nikiv.dev/), not a blog per se
+- [Sandy Maguire](https://sandymaguire.me/blog/archives/)
 - [A Collection of Unmitigated Pedantry](https://acoup.blog) by _Dr. Bret C. Devereaux_
 - [Amos](https://fasterthanli.me)
 - [Julia Evans](https://jvns.ca) - frequent smaller blog posts diving into various technical topics with comicstrips and wit
-- [Josh W Comeau](https://www.joshwcomeau.com)
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
-- [Wait But Why](https://waitbutwhy.com)
 - [Arun Venkatesan](https://www.arun.is)
 - [Fabien Sanglard](https://fabiensanglard.net/)
-- [Paged Out!](https://pagedout.institute) - not a blog _per se_ but great source of reading nevertheless
 - [Lesswrong](https://www.lesswrong.com)
 - [Tynan](https://tynan.com/)
-- [Carol Alexander](https://www.coalexander.com) - lots of awesome books on financial markets, blog posts, and more
 - [Stephen Diehl](https://www.stephendiehl.com/blog.html)
-- [Apenwarr](https://apenwarr.ca/log/)
 - [Vitalik Buterin](https://vitalik.ca/)
 - [Kris Machowski](https://www.machow.ski/)
-- [Jay Freeman (saurik)](https://www.saurik.com)
 - [Danluu](https://danluu.com/)
-- [Blog Surf](https://blogsurf.io) - blog search engine where blogs are sorted using the [Market Rank](https://dkb.io/post/market-rank)
 - [Work In Progress](https://www.worksinprogress.co/)
-- [How to Build a Life column in The Atlantic](https://www.theatlantic.com/projects/how-build-life/)
 - [Tim Bray](https://www.tbray.org/ongoing/)
 - [Lucas F. Costa](https://lucasfcosta.com)
 - [Jim Fisher](https://jameshfisher.com)
-- [Thomas Lin Pedersen](https://www.data-imaginist.com/)
 - [Steve Francia](https://spf13.com/)
-- [Xe Iaso](https://xeiaso.net/)
+- [Xe Iaso](https://xeiaso.net/blog)
 - [Will Larson](https://lethain.com/)
 - [Connor Bär](https://connorbaer.com/)
+- [Alexey Guzey](https://guzey.com/)
 

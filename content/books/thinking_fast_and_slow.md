@@ -21,8 +21,8 @@ Throughout the book, Kahneman uses a wide range of examples and experiments to i
 systems of thinking can influence our decision-making and behavior. He also discusses the various biases and heuristics
 that can affect our thinking, and provides practical advice on how to avoid common pitfalls and make better decisions.
 
-Overall, Thinking, Fast and Slow is a fascinating and thought-provoking book that offers valuable insights into the
-human mind and how it processes information. For me it falls into the same (now already pretty large) category of _must-read_
+Thinking, Fast and Slow is a fascinating and thought-provoking book that offers valuable insights into the
+human mind and how it processes information. For me it falls into the same (now pretty large) category of _must-read_
 books such as [Factfulness]({{< ref "/books/factfulness" >}}), [Enlightement Now]({{< ref "/books/enlightement_now" >}}),
 or [Nonviolent Communication]({{< ref "/books/nonviolent_communication" >}}).
 
