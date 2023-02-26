@@ -30,6 +30,7 @@ follow, and reference RFCs.[^1]
 - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/).
 - [Iteration isn't just for code: here are our latest API docs](https://blog.cloudflare.com/building-a-better-developer-experience-through-api-documentation/).
   Yet another reminder of how poor are we doing public APIs at SumUp.
+- [A Boat Fire Killed 34 People, and We May Never Know Why](https://www.outsideonline.com/outdoor-adventure/exploration-survival/channel-islands-dive-boat-fire/)
 - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/) - you should ever be so busy only on purpose.
 - [It Hurts to Ask](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
   > We analyze the offering, asking, and granting of help or other benefits as a three-stage game with

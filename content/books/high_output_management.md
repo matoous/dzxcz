@@ -28,7 +28,7 @@ tags: ["work", "reading"]
 
 - _process_ - building a software
 - _assembly_ - the software itself
-- _test_ - assesing the quality of the software
+- _test_ - assessing the quality of the software
 
 ### Meetings
 
@@ -45,9 +45,9 @@ tags: ["work", "reading"]
 - mission-oriented meetings
   - held ad-hoc to address specific issues
   - the objective of the meeting must be clear
-  - keep the meetings reasonable sized, decision-making is not a specator sport
+  - keep the meetings reasonable sized, decision-making is not a spectator sport
   - meeting should have a driver
-    - responsible for preparing the meeting, keeping discipline during the meeting, and summarizing it afterwards
+    - responsible for preparing the meeting, keeping discipline during the meeting, and summarising it afterwards
   - shouldn't consist more than 20% of the meetings, in smoothly running organisation all issues would be addressed
     before they arise in process oriented meetings
     
@@ -60,7 +60,7 @@ tags: ["work", "reading"]
   3. full support
     - all involved parties should commit to the decision (doesn't mean agree)
 - if solution is wrong, repeat the steps
-- the decision should be made on the middle level between reliance on technical knowledge and hands-on experience versus experise and previous experience with similar solutions
+- the decision should be made on the middle level between reliance on technical knowledge and hands-on experience versus expertise and previous experience with similar solutions
 - six important questions for decisions making:
   1. what decision needs to be made
   2. when does it have to be made
@@ -73,7 +73,7 @@ tags: ["work", "reading"]
 ### Planning
 
 1. establish projected need or demand
-  - examine your environment: customers' expectations, performance of other groups that affect you, competition, etc.
+  - examine your environment: customers' expectations, performance of other groups that affect you, competition.
   - examine the environment in two timeframes: now vs. sometime in the future (e.g. in 1 year)
   - _difference analysis_ - the environment demands now vs. in the future
     - how you react to the difference is key outcome of the planning process
@@ -84,7 +84,6 @@ tags: ["work", "reading"]
   - what _can_ you do to close the gap?
   - consider both questions separately and answer: _what_ affect your actions will have and _when_
   - the set of actions you decide on is _strategy_
-
 - management by objectives (MBO)
   - answer to two questions
     1. where do I want to go? (_objective_)
@@ -94,16 +93,14 @@ tags: ["work", "reading"]
 
 - when person is not doing their job there are only two possible reasons: they _can't_ do it or they _won't_ do it
   - manager can affect this by motivation and training
-- Maslow hiearchy of needs:
+- Maslow hierarchy of needs:
   1. Physiological (things that money can buy such as food or clothing)
   2. Safety/Security (e.g. medical insurance)
   3. Social/Affiliation (e.g. belonging to the group)
   4. Esteem/Recognition (exists in the eyes of the beholder, e.g. you dictate what you need for esteem/recognition, once gratified it no longer motivates)
-  5. Self-Actualizaton (the need ot achieve one's utter personal best)
-
+  5. Self-Actualizaton (the need to achieve one's utter personal best)
 - _competence-driven_ - driven to master specific task
 - _achievement-driven_ - attempting to achieve no matter what the task is
-
 - motivation by money dimishes with higher income
 - the motivation persists for those who have money as proxy for achievement
   - if absolute sum is important to the person then it is mostly about physiological need
@@ -120,30 +117,30 @@ tags: ["work", "reading"]
 
 ### Reviews & feedback
 
-- assesing performance
-    - clarify for yourself in advance the expecatitions
+- assessing performance
+    - clarify for yourself in advance the expectations
     - you can characterize performance by output measures (the yield) and internal measures (the means to achieve the yield)
     - needs to weight in if the person is long-term oriented vs short-term oriented (no general rule here)
     - similarly there might be lag between actions and actual results
-- delivering the assesment
+- delivering the assessment
   - 3 Ls:
     - _level_ - level yourself with the person and be frank
     - _listen_ - what matters is getting the right thoughts communicated, words are just the means for it
     - _leave yourself out_ - the review is about and for the person
   - there's finite capacity to absorbing feedback
     - write down things and group similar feedback
-- stages of underperformers: ignore, deny, blame others, assume responsibility, find solution
+- stages of under-performers: ignore, deny, blame others, assume responsibility, find solution
   - three possible outcomes when delivering "blast" review (harsh feedback)
-    - they accept the assesment and commit to solution
-    - they don't accept the assesment but still commit to solution
-    - they neither accept the assesment nor the solution
+    - they accept the assessment and commit to solution
+    - they don't accept the assessment but still commit to solution
+    - they neither accept the assessment nor the solution
 - reviewing the _ace_
   - high performers need strong feedback even more than average performers as they account for disproportional amount of work
 
 ### Compensation and career
 
 - career progression consists of alternating between _meets requirements_ and _exceeds requirements_ until one stagnates at _meets requirements_
-- some people are fine with _meeting requirements_ while achiever strive for _axceeding requirements_
+- people are fine with *meeting requirements* while achiever strive for _exceeding requirements_
 - when person is promoted and becomes _under-achiever_ it's better for both the organisation and the person to adjust their position
   - the management oughts to own to the error
 

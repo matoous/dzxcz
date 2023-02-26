@@ -1,7 +1,10 @@
 {{ define "main" }}
-<article>
+<article class="book">
   <header>
     <h1>{{ .Title }}</h1>
+    <div class="author">
+      by {{ .Params.Author }}
+    </div>
     <div class="meta">
       <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{ range $i, $tag := (.GetTerms "tags") }}
