@@ -7,4 +7,6 @@ author: "Rober A. Heinlein"
 tags: ["sci-fi", "philosophy", "reading"]
 ---
 
+_Stranger in a Strange Land_
+
 In progress....

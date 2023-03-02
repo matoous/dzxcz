@@ -12,9 +12,9 @@ On 6th at 23:00 our final leg of the inbound flight from Tenerife finally landed
 
 I din't stay long in Berlin and on Friday we already went backcountry skiing in Krkonoše. Reminder for future self - trying out shoes or skiing boots at home doesn't imply the same comfort on the slops, or when hiking or running. A lesson I learned 10 times and forgot 10 out of them.
 
-<center>＊</center>
+One of the weekends we visited [Fine Bagels](http://www.finebagels.com/) with _Ena_. The place reassured me of what I thought for a long time - books are the best type of decor for any space. Furthermore, I am becoming devotee of bagels as a breakfast meal. The only contender being _Kimchi Cheese Waffle_ that I had a day after during a brunch at [ABC - Allans Breakfast Club](https://goo.gl/maps/1f49MRFwcAtxia596). We might be back from Spain but the coffees and bagels are to stay (at least so I hope).
 
-On 18th we visited [Fine Bagels](http://www.finebagels.com/) with _Ena_. The place reassured me of what I thought for a long time - books are the best type of decor for any space. Furthermore, I am becoming devotee of bagels as a breakfast meal. The only contender being _Kimchi Cheese Waffle_ that I had a day after during a brunch with the Tenerife bunch. We might be back from Spain but the coffees and bagels are to stay (at least so I hope).
+Right now I am writing from Spain again, this time [Mallorca](https://en.wikipedia.org/wiki/Mallorca).
 
 ## Reading
 
@@ -31,7 +31,28 @@ Now I am half way through another gem, [Stranger in a Strange Land]({{<ref "/boo
 - [The End of Writing](https://ia.net/topics/the-end-of-writing-ia-on-ai) perfectly sarcastic take on ChatGPT
 - [Worship](https://gist.github.com/tmcw/45db547cb246d4fdb9adafe24a84b8c0)
 
+[The Great People Shortage is coming — and it's going to cause global economic chaos](https://archive.ph/zBiPM#selection-1305.0-1305.83)
+outlines the grim future due to population decline and the falling ratio of working to retired people.
+We will have to focus on productivity and automation to keep the _income_ high enough to support the retired population.
+Higher productivity and utilization requires faster requalification for displaced workers and better education for upcoming generations.
+One is left to wonder how that will turn out with teacher salaries being as low as they are.
+
+The other option is to expand the workforce via immigration.
+Something certain countries still seem to be reluctant to do (_wink, wink_ Czech republic).
+Furthermore, we will need to get better at supporting immigrants (language and relocation support, qualification)
+if we expect people from other cultures to integrate well within the countries.
+
+Last but not least, one is left to wonder how this will turn out for retired people.
+Will we be able to support the ever-growing old population?
+Will the government be able to fullfill their needs?
+And even if, will we have enough people to take care of them?
+My parents might have set themselves up well with 4 children after all...
+
 ## This month I learned
+
+I am digesting a few learnings from the newly read books. One of the large takeaways is the importance of _leverage_. As you progress through your career, regardless of the path or industry, your job shifts from _contributing_ to providing _contribution leverage_ for other members of your team.
+
+In Software Engineering being the empowering factor can mean many things: setting culture, leading by example, writing RFCs, creating well-written tickets for others to work on, doing knowledge-sharing sessions, and more. The point being, you need to learn to value the output of your team (and the whole organization) more than yours (in terms of individual contribution) on your way up the career ladder.
 
 - [Anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) is the attribution of human traits, emotions, or intentions to non-human entities. It is considered to be an innate tendency of human psychology.
 - [Hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill) is human tendency to quickly return to relatively stable level of happiness despite major positive or negative events.
@@ -42,4 +63,6 @@ Now I am half way through another gem, [Stranger in a Strange Land]({{<ref "/boo
 - [The Last of Us](https://www.imdb.com/title/tt3581920/).
 
 ## Listening
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nfwf34axum8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

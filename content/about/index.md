@@ -50,11 +50,6 @@ To greater or lesser extend I identify with following philosophies:
   goal (whereas _Cyrenaic Hedonism_ prioritizes immediate pleasure regardless of the long-term consequences or impact on
   well-being).
 
-  For me this roughly translates into pursuit of well being, happiness (of me and people around me), and prioritisation of
-  lasting experiences over material goods. _Hedonism_ is individualistic believe. Although, if one finds joy in well-being
-  of others as well as theirs, it can overlap with [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism) that I
-  find relatable too.
- 
 ## Career
 
 {{<details "**Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
@@ -113,18 +108,13 @@ I also contribute to a few open source projects:
 * [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor written in Rust.
 * [hydra](https://github.com/ory/hydra/) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go.
 
-## Words to live by
+---
 
 > I am most likely destined for average life, which is completely fine.
   If you zoom out further and it becomes pretty hard to view this tiny spec of time we've given
   and all its trappings as anything more than ridiculous. You could become the most famous person in all of human history,
   build empires, construct massive monuments to your achievement, etch your damn face into the earth with a laser in space...
   and you'd still have just as much importance, in the scale of time and space, as every human that ever lived. Zero.[^average]
-
-## Before I Die
-
-I maintain a list of things I would like to do/achieve before I die, you can take a look
-[here](/before_i_die).
 
 [^average]: https://www.reddit.com/r/AskReddit/comments/upyafq/comment/i8ol1b3/
 
