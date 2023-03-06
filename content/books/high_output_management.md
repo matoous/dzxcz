@@ -161,3 +161,7 @@ Title: High Output Management\
 Author: Andrew S. Grove\
 ISBN10: 0679762884\
 ISBN13: 9780679762881
+
+---
+
+Thanks for recommendation _Julien_!
