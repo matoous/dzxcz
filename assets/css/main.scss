@@ -5,6 +5,7 @@
   --light: #555;
   --font-sans: -apple-system, blinkmacsystemfont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   --page-width: 840px;
+  --font-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -208,6 +209,15 @@ header.main {
 }
 
 article {
+
+  h2,
+  h3,
+  h4,
+  h5 {
+    text-align: center;
+  }
+
+
   header {
     h1 {
       line-height: 1em;
