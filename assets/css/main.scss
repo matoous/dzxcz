@@ -409,8 +409,18 @@ sup a {
   margin-left: 0.25em;
 }
 
-.footnotes p {
-  margin: 0;
+.footnotes {
+  margin-top: 3rem;
+  font-size: .9rem;
+  color: var(--light);
+
+  hr {
+    background: var(--light);
+  }
+
+  p {
+    margin: 0;
+  }
 }
 
 .welcome {
