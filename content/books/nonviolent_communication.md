@@ -17,7 +17,7 @@ really means.
 
 # Notes
 
-## Four components of NVC
+## Four components of NVC (Non-Violent Communication)
 
 * observations
 * feelings

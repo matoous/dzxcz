@@ -46,6 +46,8 @@ select the pattern in the selection (e.g. `s` followed by the term you are searc
 create multiple individual selections and now you can edit all of them at once. Multiselection is super powerful thing
 with many usecases that is now crucial part of my editing toolkit.
 
+[Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) is my font of choice for terminal and IDEs.
+
 ## Tools
 
 - [ag](https://github.com/ggreer/the_silver_searcher) for code search
