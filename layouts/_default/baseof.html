@@ -1,21 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    {{ block "head" . }}
-        {{ partial "head.html" . }}
-    {{ end }}
-    {{block "addscripts" . }}
-    {{end}}
+  {{ block "head" . }}
+  {{ partial "head.html" . }}
+  {{ end }}
+  {{block "addscripts" . }}
+  {{end}}
 </head>
+
 <body>
   {{ block "nav" . }}
-    {{ partial "nav.html" . }}
+  {{ partial "nav.html" . }}
   {{ end }}
   <main>
     {{ block "main" . }}{{ end }}
     {{ block "footer" . }}
-      {{ partial "footer.html" . }}
+    {{ partial "footer.html" . }}
     {{ end }}
   </main>
 </body>
+<script>
+  const logo = document.getElementById('logo');
+  setInterval(() => {
+    logo.innerHTML = logo.innerHTML.includes('_') ? 'Matous Dzivjak&nbsp' : 'Matous Dzivjak_'
+  }, 500)
+</script>
+
 </html>
