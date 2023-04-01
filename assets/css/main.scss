@@ -158,6 +158,7 @@ header {
 main {
   flex: 1;
   max-width: var(--page-width);
+  min-height: calc(100vh - 3.2em);
 
   & h1:first-of-type {
     margin-top: 0;
@@ -483,4 +484,14 @@ sup a {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.p404 {
+  text-align: center;
+  width: 100%;
+
+  h1 {
+    font-family: var(--font-mono);
+    font-weight: 150;
+  }
 }
