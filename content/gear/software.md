@@ -48,6 +48,10 @@ with many usecases that is now crucial part of my editing toolkit.
 
 [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) is my font of choice for terminal and IDEs.
 
+## Software
+
+[Raycast] launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
+
 ## Tools
 
 - [ag](https://github.com/ggreer/the_silver_searcher) for code search
@@ -83,14 +87,11 @@ with many usecases that is now crucial part of my editing toolkit.
 ## Apps
 
 - [1Password](https://1password.com/) for passwords management
-- [Alfred](https://www.alfredapp.com/) for shortcuts
 - [balenaEtcher](https://www.balena.io/etcher/) for flashing OS images to SD crds & USB driver
 - [boop](https://github.com/IvanMathy/Boop) tool for text wrangling and small utilities
-- [fanny](https://github.com/DanielStormApps/Fanny) for CPU/GPU/Fans monitoring
 - [IINA](https://github.com/iina/iina) for videos
 - [Insomnia](https://github.com/Kong/insomnia) - API client
 - [Itsycal](https://github.com/sfsam/Itsycal) - tiny calendar for menu bar
-- [Maccy](https://github.com/p0deje/Maccy) for clipboard management and history
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) for preventing the MacOS from sleeping
 
 ## Other
