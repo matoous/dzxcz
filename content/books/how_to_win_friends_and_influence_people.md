@@ -18,7 +18,7 @@ conveyed by multiple examples and one was often enough to understand what is the
 The book isn't groundbreaking in any way, the examples and stories are slightly historical,
 but the overall tone is heartwarming and the takeaways are true to the heart.
 
-## Summary
+## Notes
 
 1. Fundamental techniques in handling people
 

@@ -1,14 +1,20 @@
 {{ define "main" }}
-<div class="p404">
+<div class="not-found">
   <h1>404 - Page not found</h1>
   <div>Do you maybe want to read this random post instead?</div>
-  <p>
-    {{ with index (shuffle .Site.RegularPages) 1 }}
+  <noscript>Can't give you random page without javascript enabled, sorry</noscript>
+  {{ range (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  <p style="display: none;">
     <a href="{{.Permalink}}">
       {{.Title}}{{ with .Params.author }} <span>by {{.}}</span>{{end}}
     </a>
     <time datetime="{{ .Date.Format " 2006-01-02" }}" class="📅">{{.Date.Format "2006-01-02"}}</time>
-    {{ end }}
   </p>
+  {{ end }}
 </div>
+<script>
+  const articles = document.querySelectorAll(".not-found p");
+  const randomElement = articles[Math.floor(Math.random() * articles.length)];
+  randomElement.style.display = "block";
+</script>
 {{ end }}

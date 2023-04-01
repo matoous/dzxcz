@@ -5,52 +5,31 @@ summary: "Apps, tools, and setup I use on my macOS and iOS to get stuff done."
 
 ## Terminal
 
-[Wezterm](https://wezfurlong.org/wezterm/) is my current terminal of choice.
-I went through [Hyper](https://hyper.is/), [iTerm2](https://iterm2.com/), and [Kitty](https://sw.kovidgoyal.net/kitty/)
-before. Each time sacrificing a little bit of the features (that I mostly didn't use anyway) in favor of speed.
-And when it comes to speed, wezterm is pefect. Instant boot time, GPU-accelerated, and it is written in Rust,
-so when I feel like learning a little bit more about Rust or contributing, I can do so.
+[Wezterm](https://wezfurlong.org/wezterm/) is my current terminal of choice. I went through [Hyper](https://hyper.is/), [iTerm2](https://iterm2.com/), and [Kitty](https://sw.kovidgoyal.net/kitty/) before. Each time sacrificing a little bit of the features (that I mostly didn't use anyway) in favor of speed. And when it comes to speed, wezterm is pefect. Instant boot time, GPU-accelerated, and it is written in Rust, so when I feel like learning a little bit more about Rust or contributing, I can do so.
 
 ## Shell
 
-I run [Zsh](https://www.zsh.org/) and [Oh My Zsh](https://ohmyz.sh/) for as long as I can remember.
-Initially I used a lot of the provided plugins, full blown out [Spacship ZSH](https://github.com/spaceship-prompt/spaceship-prompt) prompt,
-and material theme.
+I run [Zsh](https://www.zsh.org/) and [Oh My Zsh](https://ohmyz.sh/) for as long as I can remember. Initially I used a lot of the provided plugins, full blown out [Spacship ZSH](https://github.com/spaceship-prompt/spaceship-prompt) prompt, and material theme.
 
-Nowadays I use fairly minimal configuration of [Starship](https://starship.rs/) prompt (basically only directory and git information).
-20 or so oh-my-zsh plugins were reduced to 3: `zsh-syntax-highlighting`, `zsh-completions`, and `history-substring-search`.
-And I have all shell config in single `.zshrc` file.
+Nowadays I use fairly minimal configuration of [Starship](https://starship.rs/) prompt (basically only directory and git information). 20 or so oh-my-zsh plugins were reduced to 3: `zsh-syntax-highlighting`, `zsh-completions`, and `history-substring-search`. And I have all shell config in single `.zshrc` file.
 
 ## Editor
 
 ![Terminal](../terminal.png)
 
-[Helix](https://github.com/helix-editor/helix) for almost everything, sometimes I still spin up one of the JetBrains IDEs for larger
-refactors or debugging.
+[Helix](https://github.com/helix-editor/helix) for almost everything, sometimes I still spin up one of the JetBrains IDEs for larger refactors or debugging.
 
-In University we had free licenses for [JetBrain](https://www.jetbrains.com/) products so I used those since I started programming. Whenever I needed to edit
-something in terminal I would use [Nano](https://help.ubuntu.com/community/Nano) as Vim was still far in the mystery land for me.
-As I needed to edit more and more configuration files and sometimes do so remotely I decided to learn Vim in February 2021.
-The learning curve is indeed steep but I enjoyed it a lot. Slowly my configuration grew like crazy I not long after I had almost full IDE
-experience, especially thanks to [LSP](https://microsoft.github.io/language-server-protocol/) support and [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/).
+In University we had free licenses for [JetBrain](https://www.jetbrains.com/) products so I used those since I started programming. Whenever I needed to edit something in terminal I would use [Nano](https://help.ubuntu.com/community/Nano) as Vim was still far in the mystery land for me. As I needed to edit more and more configuration files and sometimes do so remotely I decided to learn Vim in February 2021. The learning curve is indeed steep but I enjoyed it a lot. Slowly my configuration grew like crazy I not long after I had almost full IDE experience, especially thanks to [LSP](https://microsoft.github.io/language-server-protocol/) support and [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/).
 
-As with other tools, I started to look around for how to minimize the setup. I ditched a few plugins, removed all unnecessary configuration, yet
-as it happens with nvim, my config was still hundreds of lines. That is, until I found Helix.
+As with other tools, I started to look around for how to minimize the setup. I ditched a few plugins, removed all unnecessary configuration, yet as it happens with nvim, my config was still hundreds of lines. That is, until I found Helix.
 
-[Helix](https://github.com/helix-editor/helix) feels very similar to Vim but works very differently. While in Vim you start with
-`action` followed by `motion` (e.g. `d3w` to delete 3 words) Helix follows `section` -> `action` model. That means that
-whatever you are going to act on (words, function, line, etc.) is selected first and the action is second. It's striking difference from
-Vim that takes some time to get used to but comes very naturally. Second large difference is first-class support for multicursor.
-Where in Vim you would substitue using the `%s/SEARCH/REPLACE/g` pattern in Helix you select the text (e.g. `%` for whole file),
-select the pattern in the selection (e.g. `s` followed by the term you are searching for), by confirming the selection you
-create multiple individual selections and now you can edit all of them at once. Multiselection is super powerful thing
-with many usecases that is now crucial part of my editing toolkit.
+[Helix](https://github.com/helix-editor/helix) feels very similar to Vim but works very differently. While in Vim you start with `action` followed by `motion` (e.g. `d3w` to delete 3 words) Helix follows `section` -> `action` model. That means that whatever you are going to act on (words, function, line, etc.) is selected first and the action is second. It's striking difference from Vim that takes some time to get used to but comes very naturally. Second large difference is first-class support for multicursor. Where in Vim you would substitue using the `%s/SEARCH/REPLACE/g` pattern in Helix you select the text (e.g. `%` for whole file), select the pattern in the selection (e.g. `s` followed by the term you are searching for), by confirming the selection you create multiple individual selections and now you can edit all of them at once. Multiselection is super powerful thing with many usecases that is now crucial part of my editing toolkit.
 
 [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) is my font of choice for terminal and IDEs.
 
 ## Software
 
-[Raycast] launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
+[Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
 
 ## Tools
 
