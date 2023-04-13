@@ -36,34 +36,34 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 
 ## Blogroll
 
-- [Paul Graham](http://paulgraham.com/articles.html)
-- [Scott Alexander](https://en.wikipedia.org/wiki/Slate_Star_Codex)'s [Slate Star Codes](https://slatestarcodex.com), newly also [Astral Codes Ten](https://astralcodexten.substack.com)
-- [Gwern Branwen](https://www.gwern.net/index)
-- [Jose Luis Ricon](https://nintil.com)
-- [Tom MacWright](https://macwright.com/)
-- [Paul Stamatiou](https://paulstamatiou.com/)
-- [Alex Danco](https://alexdanco.com/)
-- [Nikita Voloboev](https://nikiv.dev/), not a blog per se
-- [Sandy Maguire](https://sandymaguire.me/blog/archives/)
 - [A Collection of Unmitigated Pedantry](https://acoup.blog) by _Dr. Bret C. Devereaux_
-- [Amos](https://fasterthanli.me)
-- [Julia Evans](https://jvns.ca) - frequent smaller blog posts diving into various technical topics with comicstrips and wit
-- [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
-- [Arun Venkatesan](https://www.arun.is)
-- [Fabien Sanglard](https://fabiensanglard.net/)
-- [Lesswrong](https://www.lesswrong.com)
-- [Tynan](https://tynan.com/)
-- [Stephen Diehl](https://www.stephendiehl.com/blog.html)
-- [Vitalik Buterin](https://vitalik.ca/)
-- [Kris Machowski](https://www.machow.ski/)
-- [Danluu](https://danluu.com/)
-- [Work In Progress](https://www.worksinprogress.co/)
-- [Tim Bray](https://www.tbray.org/ongoing/)
-- [Lucas F. Costa](https://lucasfcosta.com)
-- [Jim Fisher](https://jameshfisher.com)
-- [Steve Francia](https://spf13.com/)
-- [Xe Iaso](https://xeiaso.net/blog)
-- [Will Larson](https://lethain.com/)
-- [Connor Bär](https://connorbaer.com/)
+- [Alex Danco](https://alexdanco.com/)
+- [Alex Miller](https://alex.miller.garden)
 - [Alexey Guzey](https://guzey.com/)
-
+- [Amos](https://fasterthanli.me)
+- [Arun Venkatesan](https://www.arun.is)
+- [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
+- [Connor Bär](https://connorbaer.com/)
+- [Danluu](https://danluu.com/)
+- [Fabien Sanglard](https://fabiensanglard.net/)
+- [Gwern Branwen](https://www.gwern.net/index)
+- [Jim Fisher](https://jameshfisher.com)
+- [Jose Luis Ricon](https://nintil.com)
+- [Julia Evans](https://jvns.ca) - frequent smaller blog posts diving into various technical topics with comicstrips and wit
+- [Kris Machowski](https://www.machow.ski/)
+- [Lesswrong](https://www.lesswrong.com)
+- [Lucas F. Costa](https://lucasfcosta.com)
+- [Nikita Voloboev](https://nikiv.dev/), not a blog per se
+- [Paul Graham](http://paulgraham.com/articles.html)
+- [Paul Stamatiou](https://paulstamatiou.com/)
+- [Sandy Maguire](https://sandymaguire.me/blog/archives/)
+- [Scott Alexander](https://en.wikipedia.org/wiki/Slate_Star_Codex)'s [Slate Star Codes](https://slatestarcodex.com), newly also [Astral Codes Ten](https://astralcodexten.substack.com)
+- [Stephen Diehl](https://www.stephendiehl.com/blog.html)
+- [Steve Francia](https://spf13.com/)
+- [Tim Bray](https://www.tbray.org/ongoing/)
+- [Tom MacWright](https://macwright.com/)
+- [Tynan](https://tynan.com/)
+- [Vitalik Buterin](https://vitalik.ca/)
+- [Will Larson](https://lethain.com/)
+- [Work In Progress](https://www.worksinprogress.co/)
+- [Xe Iaso](https://xeiaso.net/blog)
