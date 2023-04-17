@@ -1,13 +1,16 @@
 baseURL: "https://dzx.cz/"
 languageCode: "en-us"
 title: "Matouš Dzivjak"
-author: "Matouš Dzivjak"
+author:
+  name: "Matouš Dzivjak"
+  email: "matousdzivjak@gmail.com"
+enableRobotsTXT: true
 enableGitInfo: true
 enableInlineShortcodes: true
 copyright: "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 permalinks:
-  posts: /:year/:month/:day/:slug
-  books: /:year/:month/:day/:slug
+  posts: /:year-:month-:day/:slug
+  books: /:year-:month-:day/:slug
 markup:
   goldmark:
     renderer:
@@ -54,9 +57,5 @@ menu:
     weight: 7
 
 params:
-  author: "Matouš Dzivjak"
   description: "Personal website with articles, projects and other work of Matous Dzivjak"
-  images:
-    - images/og-featured.png # relative path to "static" directory
-  dateFormat: "2006-01-02"
   mainSections: ["books", "posts"]
