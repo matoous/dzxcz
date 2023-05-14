@@ -15,10 +15,10 @@
   {{ end }}
   <main>
     {{ block "main" . }}{{ end }}
-    {{ block "footer" . }}
-    {{ partial "footer.html" . }}
-    {{ end }}
   </main>
+  {{ block "footer" . }}
+  {{ partial "footer.html" . }}
+  {{ end }}
 </body>
 <script>
   const logo = document.getElementById('logo');

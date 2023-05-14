@@ -3,6 +3,7 @@
   --dark: #222;
   --background: #F5F5F0;
   --light: #555;
+  --lightest: #aaa;
   --font-sans: system-ui, sans-serif;
   --page-width: 840px;
   --font-mono: "Berkeley Mono", ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
@@ -14,6 +15,7 @@
     --dark: #ddd;
     --background: #1E1919;
     --light: #aaa;
+    --lightest: #666;
   }
 }
 
@@ -40,15 +42,22 @@ body {
   background-color: var(--background);
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
+  word-break: break-word;
   line-height: 1.5;
   width: 100%;
-  padding: 1.6em;
-  display: flex;
-  flex-direction: row;
-  word-break: break-word;
+
+  display: grid;
+  grid-template:
+    'nav main'
+    'footer footer';
+  grid-template-columns: minmax(16em, 1fr) minmax(0, 3fr);
 
   @media only screen and (max-width: 840px) {
     flex-direction: column;
+    grid-template:
+      'nav'
+      'main'
+      'footer';
   }
 }
 
@@ -126,6 +135,8 @@ footer {
   font-size: 0.875em;
   color: var(--light);
   grid-area: footer;
+  padding: 1.6em;
+  border-top: 1px solid var(--lightest);
 
   address {
     display: inline-block;
@@ -151,27 +162,24 @@ ol {
   padding-left: 1.2em;
 }
 
-header {
-  margin-bottom: 2em;
-}
-
 main {
-  flex: 1;
+  grid-area: main;
   max-width: var(--page-width);
   min-height: calc(100vh - 3.2em);
+  padding: 1.6em;
 
   & h1:first-of-type {
     margin-top: 0;
   }
 }
 
-header.main {
+nav {
+  grid-area: nav;
   justify-content: space-between;
   align-items: center;
-  padding-right: 8%;
+  padding: 1.6em;
   font-family: var(--font-mono);
   font-weight: 100;
-
   flex-wrap: wrap;
   flex-direction: column;
 
@@ -222,6 +230,8 @@ header.main {
     display: flex;
     flex-direction: row;
     padding-right: 0;
+    padding: 1em 1.6em;
+    border-bottom: 1px solid var(--lightest);
 
     li {
       display: inline-block;
