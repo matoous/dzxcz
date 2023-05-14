@@ -1,17 +1,18 @@
 ---
 title: "April"
 date: 2023-05-01
-slug: april_2024
+slug: april_2023
 draft: false
 tags: ["journal","writing"]
 ---
 
+Istria100
 
 [Lifeclub](https://lifeclub.org/) is a wonderful learning website for life skills, the skills they won't teach you at school yet can improve your life tremendously - effective communication, emotional intelligence, resilience, self-knowledge, people management, money management, and more.
 
 ## Reading
 
-- [The Gambler Who Beat Roulett](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/?leadSource=uverify%20wall)
+- [The Gambler Who Beat Roulett](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/?leadSource=uverify%20wall) - long form article about mathematicians that beat the rulet by exploiting imperfections of the spinning wheel and the ball.
 - [Grid World](https://alex.miller.garden/grid-world/)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - [Carl Braun on Communicating Like a Grown-Up](https://fs.blog/carl-braun-communicating/)
