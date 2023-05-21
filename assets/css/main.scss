@@ -409,10 +409,6 @@ img {
     margin-top: 1.5em;
     font-weight: 100;
     color: var(--light);
-
-    &:first-of-type {
-      margin-top: 0;
-    }
   }
 
   @media only screen and (max-width: 600px) {
@@ -458,10 +454,6 @@ sup a {
   p {
     margin: 0;
   }
-}
-
-.welcome {
-  margin-bottom: 2em;
 }
 
 .green {
