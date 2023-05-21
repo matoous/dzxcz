@@ -1,7 +1,7 @@
 {{ define "main" }}
-    <p class="welcome">
-        Hi! I'm <a href="/about">Matous</a>, software engineer, hybrid athlete and passionate cook. Sometimes I also write. ↓
-    </p>
-    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{ partial "listing.html" $pages }}
+<p>
+  Hi! I'm <a href="/about">Matous</a>, software engineer, hybrid athlete and passionate cook. Sometimes I also write. ↓
+</p>
+{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ partial "listing.html" $pages }}
 {{ end }}
