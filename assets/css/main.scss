@@ -378,7 +378,7 @@ img {
 
 .listing {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   line-height: 1.4;
   grid-gap: 0.6em;
 
