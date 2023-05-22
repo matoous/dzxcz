@@ -6,7 +6,8 @@
   --lightest: #aaa;
   --font-sans: system-ui, sans-serif;
   --page-width: 840px;
-  --font-mono: "Berkeley Mono", ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  --font-mono: "Berkeley Mono", ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,7 +22,7 @@
 
 @font-face {
   font-family: "Berkeley Mono";
-  src: url('fonts/BerkeleyMonoVariable-Regular.woff2') format('woff2'),
+  src: url('/fonts/BerkeleyMonoVariable-Regular.woff2') format('woff2'),
     url('/fonts/BerkeleyMonoVariable-Regular.woff') format('woff');
   font-weight: 100 110 120 130 140 150;
   font-style: normal;
@@ -29,10 +30,17 @@
 
 @font-face {
   font-family: "Berkeley Mono";
-  src: url('fonts/BerkeleyMonoVariable-Italic.woff2') format('woff2'),
+  src: url('/fonts/BerkeleyMonoVariable-Italic.woff2') format('woff2'),
     url('/fonts/BerkeleyMonoVariable-Italic.woff') format('woff');
   font-weight: 100 110 120 130 140 150;
   font-style: italic;
+}
+
+html {
+  font-feature-settings: normal;
+  font-variation-settings: normal;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -40,8 +48,6 @@ body {
   font-family: var(--font-sans);
   color: var(--foreground);
   background-color: var(--background);
-  text-rendering: optimizeLegibility;
-  -moz-osx-font-smoothing: grayscale;
   word-break: break-word;
   line-height: 1.5;
   width: 100%;
