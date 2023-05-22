@@ -6,7 +6,13 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-Istria100
+This month I ran [Istria100](https://istria.utmb.world/) ultra-trail race in Croatia. I wasn't feeling 100% the week before, mostly due to stomach issues where I didn't feel well after consuming literally anything. Luckyli, everything got better day before the race and I felt strong coming to the start line.
+
+The race went exceptionally well. At 30km my quads showed a little sign of cramps and tear that quickly went away. At Kullamannen half a year ago this is where they started to hurt and didn't stop until the end of the race. The focus was first to reach the 45km aid station feeling well (did so), then to reach the 80th kilometer in a reasonable shape and time (this also worked out) after which the rest of the race was flat or downhill. I learned my lesson in previous races and spent more time on the aid stations, mostly stuffing myself with salty things - from crackers to soup. My dumb self a year ago didn't want to believe that cheese and bacon are reasonable snacks to have during an ultra trail run but damn, do they help to calm down the stomach otherwise full of isotonic drinks and carbohydrate gels.
+
+I finished race in 13:59:29 on 40th place out of 387 with the final stats showing 110km and 4200m of elevation gain. I am beyond satisfied, now back to training for Ironman Hamburg and Ultratrail Val d'Aran.
+
+<center>＊</center>
 
 [Lifeclub](https://lifeclub.org/) is a wonderful learning website for life skills, the skills they won't teach you at school yet can improve your life tremendously - effective communication, emotional intelligence, resilience, self-knowledge, people management, money management, and more.
 
