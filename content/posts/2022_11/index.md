@@ -6,7 +6,7 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-We are on a cycling trip to Dénia number 2.
+We are on a cycling trip to Dénia number 2. This time I am doing proper recovery days to avoid returing with a crash syndrome again. Walking downstairs backwards wasn't a lot of fun.
 
 ## Reading
 

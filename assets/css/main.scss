@@ -247,6 +247,7 @@ nav {
 
 article {
 
+  h1,
   h2,
   h3,
   h4,
@@ -256,6 +257,8 @@ article {
 
 
   header {
+    text-align: center;
+
     h1 {
       line-height: 1em;
       margin-bottom: 0.875em;
@@ -289,6 +292,7 @@ article {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 
     >* {
       margin-right: 0.4em;
@@ -310,7 +314,7 @@ blockquote {
   box-sizing: border-box;
   quotes: "“" "”" "‘" "’";
   color: var(--dark);
-  margin: 2em;
+  margin: 2em 1em;
 
   img {
     max-width: 100%;

@@ -60,7 +60,7 @@ In Software Engineering being the empowering factor can mean many things: settin
 ## Watching
 
 - [Suits](https://www.imdb.com/title/tt1632701/) rewatching when training indoor on the bike.
-- [The Last of Us](https://www.imdb.com/title/tt3581920/).
+- [The Last of Us](https://www.imdb.com/title/tt3581920/). Never played the game but saw a few gameplays and loved it. Compared to [Uncharted](https://en.wikipedia.org/wiki/Uncharted) the execution is brilliant and I really enjoyed all episodes so far. Let's hope this starts a trend of faithful game adaptations.
 
 ## Listening
 

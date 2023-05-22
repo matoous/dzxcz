@@ -26,12 +26,12 @@ We thought of life by analogy with a journey, a pilgrimage, which had a serious 
 
 I wrote a blog post titled [How do CloudFlare Workers work?]({{< ref "/posts/how_do_cloudflare_workers_work" >}}) about CloudFlare Workers.
 
-## This month I learned
-
-
 ## Watching
 
-- [The Last of Us](https://www.imdb.com/title/tt3581920/).
+- [The Last of Us](https://www.imdb.com/title/tt3581920/). New episodes still hold the quality high and I am grateful I found something interesting to watch after a long time.
 
 ## Listening
 
+Got introduced to the [Hilltop Hoods](https://en.wikipedia.org/wiki/Hilltop_Hoods) by Jakub and I found a few songs that I really enjoyed. Others not so much, but this one I had on repeat for great part of the month.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6oSmp7qnvAxUXeUKhl67a6?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
