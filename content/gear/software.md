@@ -27,9 +27,17 @@ As with other tools, I started to look around for how to minimize the setup. I d
 
 [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) is my font of choice for terminal and IDEs.
 
+## Browser
+
+After some back and forth on [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Safari](https://www.apple.com/safari/) I lended on [Arc](https://arc.net/) which is currently my default browser for desktop.
+
+One great feature of Arc are [Boosts](https://arcboosts.com/boosts). Boosts allow you to customize websites (from css to javascript) and are a great way to unclutter some of the commonly used applications such as [YouTube](https://arcboosts.com/boosts/167/clean-youtube).
+
 ## Software
 
 [Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
+
+[Mela](https://mela.recipes) is a receipes management app. I don't use it much but love the design, native iOS UI, and the ease of use. If I start cooking more one day, this will be my go-to app.
 
 ## Tools
 
