@@ -59,3 +59,7 @@ Author: [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smi)\
 ISBN13: 9780593297063
 ISBN10: 0593297067
 
+---
+
+- [Everything You Thought You Knew, and Why You’re Wrong](https://www.nytimes.com/2022/05/11/books/review/how-the-world-really-works-vaclev-smil.html), review by Nathaniel Rich
+
