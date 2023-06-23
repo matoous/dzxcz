@@ -6,12 +6,8 @@ layout: "about"
 Hi, I'm Matouš!
 
 I work as a software engineer at [SumUp](https://sumup.com/) and do a lot of sports.
-I am currently training for my first [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon)
-and an [Ultramarathon](https://www.aranbyutmb.com/en/). I run and cycle a lot but I'm neglecting the swimming.
-I do plenty of other sports too, like backcountry skiing, climbing, and anything else that I find enjoyable.
-
-The rest of my free time is spent on coding, [reading](/books), cooking, and other stuff.
-In 2019 I also started this blog to force myself into writing more and to have a place where I could share my
+The rest of my free time is spent on coding, friends, [reading](/books), cooking, and other stuff.
+This blog was started in 2019 to force myself into writing more and to have a place where I could share my
 thoughts and knowledge. Please take this whole site with grain of salt as my english is far from perfect,
 and I feel like creating a coherent piece of writing is still impossible task for me
 ([I am working on it though]({{< ref "/books/sense_of_style" >}})).
@@ -20,12 +16,6 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 
 I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/profiles/b62d4560c6e86)
 personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
-_ISTJ_ can be split into 4 individual traits, [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted),
-[Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Thinking](https://www.16personalities.com/articles/nature-thinking-vs-feeling),
-and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting). The `-A` suffix at the end
-stands for [Assertive](https://www.16personalities.com/articles/assertive-logistician-istj-a-vs-turbulent-logistician-istj-t).
-I highly recommend trying the 16 personalities test youtself, while not tentative I find the insights helpful
-in learning more about yourself.
 
 To greater or lesser extend I identify with following philosophies:
 
@@ -37,26 +27,17 @@ To greater or lesser extend I identify with following philosophies:
   > are outside our control. They also believe in living a virtuous life, and see wisdom, justice, courage, and temperance
   > as the four cardinal virtues.
 
-- [Hedonism](https://en.wikipedia.org/wiki/Hedonism), specifically [Epicurean Hedonism](https://en.wikipedia.org/wiki/Hedonism#Epicureanism)
-
-  > Hedonism refers to a family of theories, all of which have in common that pleasure plays a central role in them.
-  > Psychological or motivational hedonism claims that human behavior is determined by desires to increase pleasure and to
-  > decrease pain.
-
-  _Hedonism_ is a viewpoint that pursuit of pleasure and avoidance of pain is the highest good and the proper aim of
-  human life. This can involve the enjoyment of physical sensations, emotional fulfillment, and the attainment of desired
-  experiences and material goods.  _Epicurean Hedonism_ further extends this believe to emphasize the importance of
-  balancing pleasure with avoiding pain and discomfort, and views the attainment of long-term happiness as the ultimate
-  goal (whereas _Cyrenaic Hedonism_ prioritizes immediate pleasure regardless of the long-term consequences or impact on
-  well-being).
-
 ## Career
 
-{{<details "**Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
-Working on authentication and authorization systems implementing standards such as
-[OIDC](https://openid.net/connect/) or [OAuth2](https://oauth.net/2/).
-Currently spending most of the time building second factor
-authentication and request signing. Also fixing a lot of legacy code along the way.
+{{<details "**Senior Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_">}}
+Working in the Platform Tribe - Identity Squad along with a 10 incredible teammates.
+The IAM (Identity & Access Management) team had its inception 2 months before I joined SumUp and became
+fully staffed only in the summer of 2022 after a series of incidents. In the 2 years so far
+we have build company-wide SSO (Single Sign-On) based on [OIDC](https://openid.net/connect/) and [OAuth2](https://oauth.net/2/).
+Once the platform was stablized we worked (and still) do on MFA (Multi-Factor Authentication), API Gateways, request signing,
+and most importantly fixing and cleaning a lot of legacy code.
+
+Apart from the IAM related responsibilities I spend some time on our public APIs, traffic, and RFCs.
 {{</details>}}
 
 {{<details "**Golang Backend Developer @ [Kiwi.com](https://www.kiwi.com/)**, _2/2019 - 5/2021_">}}
