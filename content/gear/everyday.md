@@ -16,7 +16,7 @@ seems to be excessive in comparison to Db. On the other hand, the main pocket do
 
 ## In The Bag
 
-- [_Book_]({{< ref "/books" >}}). I Always carry one around, most of the time non-fiction books about
+- [_Book_]({{< ref "/books" >}}). I Always carry at least one around[^books], most of the time non-fiction books about
   software engineering, economics, statistics, or thinking. Sometimes I also read fiction but I tend to get very excited
   and hooked by the plot and the books don't spend more than 3 days in my bag.
 - [Tech Kit](https://bellroy.com/products/tech-kit/looma_viroblock_standard/basalt) by [Bellroy](https://bellroy.com/).
@@ -42,5 +42,7 @@ seems to be excessive in comparison to Db. On the other hand, the main pocket do
   I haven't used the kit yet, which just confirms the rule of _it won't happen if you are prepared_.[^preparedness_paradox]
 - [Moleskin Hard Cover A4 notebook](https://www.moleskine.com/en-us/shop/notebooks/the-original/classic-notebook-black-8053853602848.html)
 - [Aesop Resurrection Aromatique Hand Balm](https://www.aesop.com/de/en/p/body-hand/hand/resurrection-aromatique-hand-balm/)
+- [Fisherman's Friend](https://fishermansfriend.com/en) mints for fresh breath. Most of the time the Raspberry flavour.
 
 [^preparedness_paradox]: [Preparedness Paradox](https://en.wikipedia.org/wiki/Preparedness_paradox)
+[^books]: My friends will know that _at least one_ usually means around 5 with the completely invalid argument behind it being "In case I finished one, I want to have a backup". On the other hand, my bag is sufficiently large to fit them all, it's only manifesting on the weight of it.
