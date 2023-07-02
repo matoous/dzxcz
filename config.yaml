@@ -40,20 +40,15 @@ menu:
     title: About
     url: /about/
     weight: 4
-  - identifier: etc
-    name: Etc.
-    title: Etc.
-    url: /etc/
-    weight: 5
   - identifier: gear
     name: Gear
     title: Gear
     url: /gear/
-    weight: 6
+    weight: 5
   - identifier: wiki
     name: Wiki
     url: https://wiki.dzx.cz
-    weight: 7
+    weight: 6
 
 params:
   description: "Personal website with articles, projects and other work of Matous Dzivjak"

@@ -87,5 +87,5 @@ Other features that I enjoy and that are slowly finding their way into other bro
 
 - *Wallpapers*: [OS9 Walppapers](https://www.arun.is/blog/os9-wallpaper/) by [Arun](https://www.arun.is/)
 - *Screen Saver*: [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) or [Fliqlo](https://fliqlo.com/)
-- *Font*: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- *Font*: [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 
