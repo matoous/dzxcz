@@ -24,7 +24,7 @@ pictures or the publication's direction.
 
 ## Reading
 
-- `[On Writing Well]({ {< ref "/books/on_writing_well" >} })` by _[William Zinsser](https://en.wikipedia.org/wiki/William_Zinsser)_
+- [On Writing Well]({ {< ref "/books/on_writing_well" >} }) by _[William Zinsser](https://en.wikipedia.org/wiki/William_Zinsser)_
 - [The 10-minute Mecca Stampede that made History](https://www.vanityfair.com/news/2018/01/the-mecca-stampede-that-made-history-hajj)
   by _[Williem Langewiesche](https://en.wikipedia.org/wiki/William_Langewiesche)_
 - [The Man Who Pierced the Sky](https://www.vanityfair.com/culture/2013/05/felix-baumgartner-jump-story)

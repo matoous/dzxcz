@@ -54,6 +54,7 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Lesswrong](https://www.lesswrong.com)
 - [Lucas F. Costa](https://lucasfcosta.com)
 - [Nikita Voloboev](https://nikiv.dev/), not a blog per se
+- [Patrick McKenzie](https://www.kalzumeus.com/standing-invitation/) and his [Bits about Money](https://www.bitsaboutmoney.com) - a weekly newsletter on the intersection of tech and finance.
 - [Paul Graham](http://paulgraham.com/articles.html)
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Sandy Maguire](https://sandymaguire.me/blog/archives/)
@@ -67,3 +68,4 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Will Larson](https://lethain.com/)
 - [Work In Progress](https://www.worksinprogress.co/)
 - [Xe Iaso](https://xeiaso.net/blog)
+- [Julian D. A. Wiseman](http://www.jdawiseman.com/index.html)

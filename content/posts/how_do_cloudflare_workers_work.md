@@ -290,6 +290,10 @@ You can find the whole _Hello World!_ example at [github.com/matoous/hello_isola
 
 Keep in mind that this was written to the best of _my_ knowledge and there might be factual mistakes, bugs, or completely neglected topics. If you find any of such, please let me know. Points of contact and GitHub link to this file are in the footer.
 
+Links:
+
+- [Running JavaScript in Rust with Deno](https://austinpoor.com/blog/js-in-rs).
+
 [^bootstrap]: If you don't have Rust installed yet you can use the [rustup](https://rustup.rs/) installer.
 [^runtime]: While most services follow the WHATWG and W3C specifications for JavaScript runtime APIs there's larger standardization effort led by [WinterCG](https://wintercg.org/) - _Web-interoperable Runtimes Community Group_.
 [^cleanup]: We neglect the cleanup step. To safely dispose of the V8 engine and platform add following code at the end of the script:
