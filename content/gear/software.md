@@ -33,6 +33,8 @@ After some back and forth on [Firefox](https://www.mozilla.org/en-US/firefox/new
 
 One great feature of Arc are [Boosts](https://arcboosts.com/boosts). Boosts allow you to customize websites (from css to javascript) and are a great way to unclutter some of the commonly used applications such as [YouTube](https://arcboosts.com/boosts/167/clean-youtube).
 
+Other features that I enjoy and that are slowly finding their way into other browsers as well are spaces (separating my personal and work-related browsing) and command line.
+
 ## Software
 
 [Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
