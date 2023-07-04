@@ -44,7 +44,7 @@ Other features that I enjoy and that are slowly finding their way into other bro
 ## Tools
 
 - [ag](https://github.com/ggreer/the_silver_searcher) for code search
-- [sd](https://github.com/chmln/sd) for search and replace
+- [amber](https://github.com/dalance/amber) for search and replace
 - [jq](https://stedolan.github.io/jq/) for JSON
 - [yq](https://github.com/mikefarah/yq) for YAML
 - [fd](https://github.com/sharkdp/fd) for finding files
