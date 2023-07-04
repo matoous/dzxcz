@@ -1,7 +1,7 @@
 :root {
-  --foreground: #1E1919;
+  --foreground: #1d1d1f;
   --dark: #222;
-  --background: #F5F5F0;
+  --background: #fff;
   --light: #555;
   --lightest: #aaa;
   --font-sans: system-ui, sans-serif;
@@ -12,9 +12,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground: #F5F5F0;
+    --foreground: #fff;
     --dark: #ddd;
-    --background: #1E1919;
+    --background: #1d1d1f;
     --light: #aaa;
     --lightest: #666;
   }
