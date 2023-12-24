@@ -1,8 +1,8 @@
 ---
 title: "Hey computer, what's the time?"
-date: 2023-10-07
+date: 2023-12-24
 slug: ntp
-draft: true
+draft: false
 tags: ["protocol", "writing", "software"]
 ---
 
@@ -314,6 +314,7 @@ In the example above you can notice that we use `SystemTime`, system time is a c
 
 ## Notes
 
+There's also [RTP (Rough Time Protocol)](https://datatracker.ietf.org/doc/html/rfc3550) addressing some issues with NTP such as security and bootstrapping client with 0 knowledge of time. You can check an opensource implementation by Cloudflare - [cloudflare/roughtime](https://github.com/cloudflare/roughtime).
 
 ---
 

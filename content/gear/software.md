@@ -27,6 +27,8 @@ As with other tools, I started to look around for how to minimize the setup. I d
 
 [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) is my font of choice for terminal and IDEs.
 
+At the moment I am using the [Modus Vivendi](https://protesilaos.com/emacs/modus-themes). A accessible theme, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA) theme by [Protesilaos Stavrou](https://protesilaos.com/) originally built for GNU Emacs.
+
 ## Browser
 
 After some back and forth on [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Safari](https://www.apple.com/safari/) I lended on [Arc](https://arc.net/) which is currently my default browser for desktop.
@@ -40,6 +42,11 @@ Other features that I enjoy and that are slowly finding their way into other bro
 [Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
 
 [Mela](https://mela.recipes) is a receipes management app. I don't use it much but love the design, native iOS UI, and the ease of use. If I start cooking more one day, this will be my go-to app.
+
+## Mac setup
+
+- [configure TouchID for sudo](https://apple.stackexchange.com/a/306324)
+- [optimize for speed](https://github.com/koding88/MacBook-Optimization-Script)
 
 ## Tools
 
@@ -78,6 +85,7 @@ Other features that I enjoy and that are slowly finding their way into other bro
 - [1Password](https://1password.com/) for passwords management
 - [balenaEtcher](https://www.balena.io/etcher/) for flashing OS images to SD crds & USB driver
 - [boop](https://github.com/IvanMathy/Boop) tool for text wrangling and small utilities
+- [devtoys](https://devtoys.app/) various developer tools for converting formats, images, and much more. Currently testing as a replacement for `boop`.
 - [IINA](https://github.com/iina/iina) for videos
 - [Insomnia](https://github.com/Kong/insomnia) - API client
 - [Itsycal](https://github.com/sfsam/Itsycal) - tiny calendar for menu bar
