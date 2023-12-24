@@ -61,6 +61,8 @@ Resources:
 
 ## [Probability](https://en.wikipedia.org/wiki/Probability) & [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
+- [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app)
+
 ## [Discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics)
 
 ## [Number theory](https://en.wikipedia.org/wiki/Number_theory)
