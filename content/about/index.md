@@ -126,7 +126,10 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Alexey Guzey](https://guzey.com/)
 - [Amos](https://fasterthanli.me)
 - [Arun Venkatesan](https://www.arun.is)
+- [Avery Pennarun](https://apenwarr.ca/) - [Tailscale](https://tailscale.com) CEO
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
+- [Charity Majors](https://charity.wtf/) - [Honeycomb](https://www.honeycomb.io/) CEO
+- [Christine Dodrill (Xe Iaso)](https://xeiaso.net/blog)
 - [Connor Bär](https://connorbaer.com/)
 - [Danluu](https://danluu.com/)
 - [Fabien Sanglard](https://fabiensanglard.net/)
@@ -134,10 +137,12 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Jim Fisher](https://jameshfisher.com)
 - [Jose Luis Ricon](https://nintil.com)
 - [Julia Evans](https://jvns.ca) - frequent smaller blog posts diving into various technical topics with comicstrips and wit
+- [Julian D. A. Wiseman](http://www.jdawiseman.com/index.html)
 - [Kris Machowski](https://www.machow.ski/)
 - [Lesswrong](https://www.lesswrong.com)
 - [Lucas F. Costa](https://lucasfcosta.com)
 - [Nikita Voloboev](https://nikiv.dev/), not a blog per se
+- [Patrick Collison](https://patrickcollison.com)
 - [Patrick McKenzie](https://www.kalzumeus.com/standing-invitation/) and his [Bits about Money](https://www.bitsaboutmoney.com) - a weekly newsletter on the intersection of tech and finance.
 - [Paul Graham](http://paulgraham.com/articles.html)
 - [Paul Stamatiou](https://paulstamatiou.com/)
@@ -151,8 +156,6 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Vitalik Buterin](https://vitalik.ca/)
 - [Will Larson](https://lethain.com/)
 - [Work In Progress](https://www.worksinprogress.co/)
-- [Xe Iaso](https://xeiaso.net/blog)
-- [Julian D. A. Wiseman](http://www.jdawiseman.com/index.html)
 
 ## Quotes
 
