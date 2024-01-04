@@ -3,7 +3,7 @@ title: "Hey computer, what's the time?"
 date: 2023-12-24
 slug: ntp
 draft: false
-tags: ["protocol", "writing", "software"]
+tags: ["rust", "software", "learning", "writing"]
 ---
 
 Hello! This week I read Tony Finch's [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html) and decided to learn more about [Network Time Protocol (NTP)](https://en.wikipedia.org/wiki/Network_Time_Protocol). This is exploration of NTP from scratch.
@@ -91,22 +91,17 @@ fn main() {
 
 Let's break it down, first we need an UDP socket. We _bind_ one on IP address `0.0.0.0` (the default address) and port `0` letting the OS assign the port for us.
 
-{{< highlight rust "linenos=table,hl_lines=1 4" >}}
+```rust
 use std::net::UdpSocket;
 
 fn main() {
     let socket = UdpSocket::bind("0.0.0.0:0").unwrap();
 }
-{{< / highlight >}}
+```
 
 Let's break it down, first we need an UDP socket. We _bind_ one on IP address `0.0.0.0` (the default address) and port `0` letting the OS assign the port for us.
 
-{{< highlight rust "linenos=table,hl_lines=6-15" >}}
-use std::net::UdpSocket;
-
-fn main() {
-    let socket = UdpSocket::bind("0.0.0.0:0").unwrap();
-
+```rust
     let request: [u8; 48] = [
         0x23, 0x00, 0x00, 0x00, // LI, VN, Mode, Stratum, Poll, Precision
         0x00, 0x00, 0x00, 0x00, // Root delay
@@ -117,8 +112,7 @@ fn main() {
         0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Receive timestamp
         0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Transmit timestamp
     ];
-}
-{{< / highlight >}}
+```
 
 We only need to set first byte of the request. In order:
 
@@ -160,55 +154,18 @@ ntp1.glb.nist.gov.
 
 Let's send the pocket:
 
-{{< highlight rust "linenos=table,hl_lines=17-18" >}}
-use std::net::UdpSocket;
-
-fn main() {
-    let socket = UdpSocket::bind("0.0.0.0:0").unwrap();
-
-    let request: [u8; 48] = [
-        0x23, 0x00, 0x00, 0x00, // LI, VN, Mode, Stratum, Poll, Precision
-        0x00, 0x00, 0x00, 0x00, // Root delay
-        0x00, 0x00, 0x00, 0x00, // Root dispersion
-        0x00, 0x00, 0x00, 0x00, // Reference identifier
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Reference timestamp
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Originate timestamp
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Receive timestamp
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Transmit timestamp
-    ];
-
+```rust
     socket.send_to(&request, "132.163.96.4:123");
     println!("packet sent!");
-}
-{{< / highlight >}}
+```
 
 There's last piece missing - obtaining the response from the NTP server. We already have the UDP socket binded, what we need is to receive the response packet.
 
-{{< highlight rust "linenos=table,hl_lines=20-22" >}}
-use std::net::UdpSocket;
-
-fn main() {
-    let socket = UdpSocket::bind("0.0.0.0:0").unwrap();
-
-    let request: [u8; 48] = [
-        0x23, 0x00, 0x00, 0x00, // LI, VN, Mode, Stratum, Poll, Precision
-        0x00, 0x00, 0x00, 0x00, // Root delay
-        0x00, 0x00, 0x00, 0x00, // Root dispersion
-        0x00, 0x00, 0x00, 0x00, // Reference identifier
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Reference timestamp
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Originate timestamp
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Receive timestamp
-        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // Transmit timestamp
-    ];
-
-    socket.send_to(&request, "132.163.96.1:123").unwrap();
-    println!("packet sent!");
-
+```rust
     let mut buf = [0; 48];
     let (amt, src) = socket.recv_from(&mut buf).unwrap();
     println!("received {} byte from {}:\n {:?}", amt, src, buf);
-}
-{{< / highlight >}}
+```
 
 We can finally run our little NTP example:
 

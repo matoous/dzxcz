@@ -23,10 +23,7 @@ I have spent time exploring and writing about [NTP]({{< ref "/posts/ntp" >}}) bu
 - [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
 - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
 - [Theory of Interstellar Trade](https://www.princeton.edu/~pkrugman/interstellar.pdf)
-
-## This month I learned
-
-[Alice and Bob Meet the Wall of Fire](https://mitpress.mit.edu/9780262536349/alice-and-bob-meet-the-wall-of-fire/) by [Thomas Lin](Thomas Lin) explores core topics of modern physics from [general relativity](https://en.wikipedia.org/wiki/General_relativity) to the [theory of increasing entropy](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/) and the [string theory](https://en.wikipedia.org/wiki/String_theory). It's a hard, intense, but interesting read outlining the most important discoveries and theories from the world of physics in 20th and 21st century. Thomas Lin is the Editor in Chief at [Quanta Magazine](https://www.quantamagazine.org/) and his knowledge shows, _Alice and Bob Meet the Wall of Fire_ was a worthwhile read.
+- [Alice and Bob Meet the Wall of Fire](https://mitpress.mit.edu/9780262536349/alice-and-bob-meet-the-wall-of-fire/) by [Thomas Lin](Thomas Lin) explores core topics of modern physics from [general relativity](https://en.wikipedia.org/wiki/General_relativity) to the [theory of increasing entropy](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/) and the [string theory](https://en.wikipedia.org/wiki/String_theory). It's a hard, intense, but interesting read outlining the most important discoveries and theories from the world of physics in 20th and 21st century. Thomas Lin is the Editor in Chief at [Quanta Magazine](https://www.quantamagazine.org/) and his knowledge shows, _Alice and Bob Meet the Wall of Fire_ was a worthwhile read.
 
 ## Listening
 

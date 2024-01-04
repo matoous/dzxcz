@@ -14,6 +14,7 @@ The rest of October was mostly in the name of work, except one weekend that we'v
 
 - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
 - [How crypto giant Binance became a hub for hackers, fraudsters and drug traffickers](https://www.reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney/)
+- [The Coddling of the American Mind](https://www.theatlantic.com/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/)
 
 ## Listening
 
