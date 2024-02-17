@@ -1,15 +1,13 @@
 {{ with .Get "alt" }}
 {{ else }}
-    {{ errorf "missing attribute 'alt': %s" .Position }}
+{{ errorf "missing attribute 'alt': %s" .Position }}
 {{ end }}
 
-<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
-  <a href="{{(.Page.Resources.GetMatch (.Get "src")).RelPermalink}}">
-    <picture>
-      <img alt="{{ .Get "alt"}}" loading="lazy" src="{{ (.Page.Resources.GetMatch (.Get "src")).RelPermalink }}">
-    </picture>
-  </a>
+<figure {{ with .Get "class" }}class="{{.}}" {{ end }}>
+  <picture>
+    <img alt="{{ .Get " alt"}}" loading="lazy" src="{{ (.Page.Resources.GetMatch (.Get "src")).RelPermalink }}">
+  </picture>
   <figcaption>
-      {{  with .Get "caption" }}{{.}}{{ end }}
+    {{ with .Get "caption" }}{{.}}{{ end }}
   </figcaption>
 </figure>
