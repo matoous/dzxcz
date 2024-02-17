@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{ block "head" . }}
+  {{ partial "head.html" . }}
+  {{ end }}
+  {{block "addscripts" . }}
+  {{end}}
+</head>
+
+<body>
+  {{ block "nav" . }}
+  {{ partial "nav.html" . }}
+  {{ end }}
+  <main>
+    <h1>Atoms</h1>
+    <div class="atoms">
+      {{ range .Pages }}
+      <div class="atom">
+        <div class="title">
+          <h3>{{ .Title }}</h3>
+          <time datetime="{{ .Date.Format " 2006-01-02" }}" class="📅">{{.Date.Format "2006-01-02"}}</time>
+        </div>
+        {{ .Content }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{ block "main" . }}{{ end }}
+    {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+  </main>
+</body>
+
+</html>
