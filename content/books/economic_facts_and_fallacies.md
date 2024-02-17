@@ -4,7 +4,6 @@ date: 2020-02-29
 slug: economic_facts_and_fallacies
 draft: false
 author: "Thomas Sowell"
-
 tags: ["economics", "reading"]
 ---
 

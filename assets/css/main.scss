@@ -510,18 +510,29 @@ sup a {
 }
 
 .atom {
-  .title {
-    h3 {
-      margin: 0;
-    }
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
 
+  &:not(:last-of-type) {
+    border-bottom: 1px solid var(--lightest);
+  }
+
+  .title {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
 
     .📅 {
+      font-weight: 130;
       font-size: .9rem;
     }
+
+    a {
+      margin-left: .4rem;
+    }
+  }
+
+  p:first-of-type {
+    margin-top: .4rem;
   }
 }
