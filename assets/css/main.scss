@@ -358,17 +358,23 @@ cite {
 figure {
   margin: 1rem 0;
   overflow: visible;
-}
 
-figcaption {
-  font-size: 0.9em;
-  padding: 0.2rem 0 0.4em;
-  color: var(--light);
-}
+  picture {
+    display: block;
+    margin: 0 -1.6em;
+    max-width: calc(100% + 3.2rem);
+  }
 
-img {
-  margin: 0 -1.6em;
-  max-width: calc(100% + 3.2rem);
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  figcaption {
+    font-size: 0.9em;
+    padding: 0.2rem 0 0.4em;
+    color: var(--light);
+  }
 }
 
 .📅 {
@@ -500,5 +506,22 @@ sup a {
   h1 {
     font-family: var(--font-mono);
     font-weight: 150;
+  }
+}
+
+.atom {
+  .title {
+    h3 {
+      margin: 0;
+    }
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    .📅 {
+      font-size: .9rem;
+    }
   }
 }

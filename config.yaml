@@ -45,10 +45,15 @@ menu:
     title: Gear
     url: /gear/
     weight: 5
+  - identifier: atoms
+    name: Atoms
+    title: Atoms
+    url: /atoms/
+    weight: 6
   - identifier: wiki
     name: Wiki
     url: https://wiki.dzx.cz
-    weight: 6
+    weight: 7
 
 params:
   description: "Personal website with articles, projects and other work of Matous Dzivjak"
