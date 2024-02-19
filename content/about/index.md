@@ -154,6 +154,7 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Tom MacWright](https://macwright.com/)
 - [Tynan](https://tynan.com/)
 - [Vitalik Buterin](https://vitalik.ca/)
+- [Werner Vogels](https://www.allthingsdistributed.com/) (All Things Distributed)
 - [Will Larson](https://lethain.com/)
 - [Work In Progress](https://www.worksinprogress.co/)
 
