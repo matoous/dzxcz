@@ -1,4 +1,5 @@
 ---
+title: Notes on Nix
 date: 2024-03-10
 ---
 

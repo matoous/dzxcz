@@ -3,7 +3,7 @@ title: "Spotify TUI"
 date: 2021-04-16
 slug: spotify_tui
 draft: false
-tags: ["terminal", writing"]
+tags: ["terminal", "writing"]
 ---
 
 {{< picture src="screenshot.png" alt="Showcase of Spotify TUI" >}}

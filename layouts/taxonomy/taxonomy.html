@@ -3,7 +3,7 @@
     <h1 style="margin-bottom:.4rem;">
         {{ .Title | title }}
     </h1>
-      {{ partial "tags.html" . }}
+    {{ partial "tags.html" . }}
   </header>
   {{ partial "listing.html" (sort .Pages) }}
 {{ end }}

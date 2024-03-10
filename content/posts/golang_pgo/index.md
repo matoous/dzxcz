@@ -60,3 +60,4 @@ The improvements vary from application to application but in the case of our ext
 
 {{< picture src="metrics.png" alt="CPU metrics after PGO" >}}
 
+Profile-guided optimization can be a quick performance improvement for your app for a fairly low effort. The improvements wary but PGO can have a drasticall impact on applications that have only a few hot-paths. Lastly, it's an interesting novelty in the toolset of compiler provided optimizations.
