@@ -19,8 +19,12 @@
       {{ range .Pages }}
       <div class="atom">
         <div class="title">
-          <time datetime="{{ .Date | time.Format "2006-01-02" }}" class="📅">{{ .Date | time.Format "2006-01-02"}}</time>
           <a href="{{.Permalink}}">#</a>
+          <time datetime="{{ .Date | time.Format " 2006-01-02" }}" class="📅">{{ .Date | time.Format
+            "2006-01-02"}}</time>
+          <h3>
+            {{.Title}}
+          </h3>
         </div>
         {{ .Content }}
       </div>
