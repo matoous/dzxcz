@@ -1,29 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    {{ block "head" . }}
-        {{ partial "head.html" . }}
-    {{ end }}
-    {{block "addscripts" . }}
-    {{end}}
+  {{ block "head" . }}
+  {{ partial "head.html" . }}
+  {{ end }}
+  {{block "addscripts" . }}
+  {{end}}
 </head>
+
 <body>
   {{ block "nav" . }}
-    {{ partial "nav.html" . }}
+  {{ partial "nav.html" . }}
   {{ end }}
   <main>
     <h1>Gear</h1>
     {{ range .Pages }}
     <a href="{{ .Permalink }}" style="display:block;">
-      <h3 style="display:inline;">{{ .Title }}</h3>    
+      <h3 style="display:inline;">{{ .Title }}</h3>
       <span style="text-decoration:none;"> - {{ .Summary }}</span>
     </a>
     {{ end }}
-    
+
     {{ block "main" . }}{{ end }}
     {{ block "footer" . }}
-      {{ partial "footer.html" . }}
+    {{ partial "footer.html" . }}
     {{ end }}
   </main>
 </body>
+
 </html>
