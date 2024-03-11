@@ -59,7 +59,6 @@ body {
   grid-template-columns: minmax(16em, 1fr) minmax(0, 3fr);
 
   @media only screen and (max-width: 840px) {
-    flex-direction: column;
     grid-template:
       'nav'
       'main'
@@ -132,8 +131,14 @@ p {
 
 pre {
   overflow-x: auto;
-  padding: 1em;
   border-radius: 0.2em;
+  padding: 1em;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-weight: 120;
+  font-size: 14px;
 }
 
 footer {
@@ -157,12 +162,6 @@ footer {
   }
 }
 
-code {
-  font-family: var(--font-mono);
-  font-weight: 120;
-  font-size: 14px;
-}
-
 ul,
 ol {
   padding-left: 1.2em;
@@ -173,6 +172,7 @@ main {
   max-width: var(--page-width);
   min-height: calc(100vh - 3.2em);
   padding: 1.6em;
+  overflow: hidden;
 
   & h1:first-of-type {
     margin-top: 0;
