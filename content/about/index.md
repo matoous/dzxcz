@@ -130,6 +130,7 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
 - [Charity Majors](https://charity.wtf/) - [Honeycomb](https://www.honeycomb.io/) CEO
 - [Christine Dodrill (Xe Iaso)](https://xeiaso.net/blog)
+- [Computers Are Bad](https://computer.rip/) by [J. B. Crawford](https://jbcrawford.us/)
 - [Connor Bär](https://connorbaer.com/)
 - [Danluu](https://danluu.com/)
 - [Fabien Sanglard](https://fabiensanglard.net/)
