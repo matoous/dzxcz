@@ -4,7 +4,7 @@ date: 2021-01-23
 slug: the_three-body_problem
 draft: false
 author: "Cixin Liu"
-tags: ["Sci-Fi", "reading"]
+tags: ["sci-fi", "reading"]
 ---
 
 The Three-Body Problem hit the right spot for me and placed itself on the list

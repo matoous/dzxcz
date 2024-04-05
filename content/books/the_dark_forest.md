@@ -4,7 +4,7 @@ date: 2023-09-21
 slug: the_dark_forest
 draft: false
 author: "Cixin Liu"
-tags: ["Sci-Fi", "reading"]
+tags: ["sci-fi", "reading"]
 ---
 
 The Dark Forest is the second book in the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) series by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin). The book is the origin of the [Dark forest hypothesis](https://en.wikipedia.org/wiki/Dark_forest_hypothesis), one of the possible solutions to the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox).
