@@ -2,7 +2,7 @@
 title: "The Design of Everyday Things"
 date: 2024-02-14
 slug: "the_design_of_everyday_things"
-draft: true
+draft: false
 author: "Don Norman"
 tags: ["design", "life", "reading"]
 ---
