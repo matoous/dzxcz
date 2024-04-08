@@ -3,7 +3,7 @@ title: Running Zephyr on ESP32
 date: 2024-04-01
 ---
 
-Two weeks ago I started toying around with a development version of [SumUp Solo](https://www.sumup.com/en-us/solo-card-reader/) card reader and learning more about embed and harward in general. Recently, we have launched a new reader, [Solo Lite](https://www.sumup.com/en-ie/solo-lite-card-reader/) which runs on [Zephyr](https://www.zephyrproject.org/) and seemed like an easier entrypoint. I don't have a development Solo Lite at hand but I found a couple unused [ESP32 microcontrollers](https://www.espressif.com/en/products/socs/esp32) at home so the task for the weekend was simple: get zephyr up and running on and esp32.
+Two weeks ago I started toying around with a development version of [SumUp Solo](https://www.sumup.com/en-us/solo-card-reader/) card reader and learning more about embed and hardware in general. Recently, we have launched a new reader, [Solo Lite](https://www.sumup.com/en-ie/solo-lite-card-reader/) which runs on [Zephyr](https://www.zephyrproject.org/) and seemed like an easier entry-point. I don't have a development Solo Lite at hand but I found a couple unused [ESP32 microcontrollers](https://www.espressif.com/en/products/socs/esp32) at home. The task for the weekend was simple: get zephyr up and running on and esp32.
 
 First, I followed the official [Getting started](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) guide. I only diverged in the dependencies installation step, using [Nix](https://nixos.org/) instead of [Homebrew](https://brew.sh/). In my [home-manager](https://nix-community.github.io/home-manager/) config I added the necessary packages:
 
@@ -43,7 +43,7 @@ Next, I update the binary blobs needed for ESP32:
 west blobs fetch hal_espressif
 ```
 
-With that, the development setup is done and what was left was actually getting something running on the esp and what's easier than a hello world. Zephyr comes with a hello world sample application, so we don't even have to write anything ourselves. The sample hello world app can be build using:
+With that, the development setup is done and what was left was getting something running on the esp and what's easier than a hello world. Zephyr comes with a hello world sample application, we don't even have to write anything ourselves. The sample hello world app can be build using:
 
 ```sh
 west build -p always -b esp32_devkitc_wroom zephyr/samples/hello_world
@@ -59,13 +59,13 @@ Merged 5 ELF sections
 Successfully created esp32 image.
 ```
 
-Last but not least, I flashed the ESP32 which was as simple as connecting it to the laptop with and USB-C cable and running:
+I flashed the ESP32 which was as simple as connecting it to the laptop with and USB-C cable and running:
 
 ```sh
 west flash
 ```
 
-The esp blinks a few times and the flashing is done in a couple of seconds. Theoretically, we have the hello world sample app up and running, but better confirm. For that, I connected to the esp using serial port to check the logs. First, `minicom` needed some tweeking as the last device I worked with had a different setup:
+The esp blinks a few times and the flashing is done in a couple of seconds. Theoretically, we have the hello world sample app up and running, but better confirm. For that, I connected to the esp using serial port to check the logs. First, `minicom` needed tweeking as the last device I worked with had a different setup:
 
 ```sh
 sudo minicom -s
@@ -111,7 +111,7 @@ Here one needs to configure the `Serial port setup`:
 +-----------------------------------------------------------------------+
 ```
 
-Fist, `A` to modify the `Serial device`. We need to specify the `tty` of the connected esp. For me this was `/dev/tty.usbserial-0001`. I think this might differ for others, so the quick way to check which serial device to use one can run `ls /dev | grep 'tty.*usb'` and unless there are multiple devices with serial port connected via an USB cable there should be only one result.
+Fist, `A` to modify the `Serial device`. We need to specify the `tty` of the connected esp. For me this was `/dev/tty.usbserial-0001`. I think this might differ for others, so the quick way to check which serial device to use one can run `ls /dev | grep 'tty.*usb'` and unless there are multiple devices with serial port connected via an USB cable there should be exactly one result.
 
 Once that's done, `Exit`, and here it is:
 
