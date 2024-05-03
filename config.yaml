@@ -35,25 +35,30 @@ menu:
     title: Reading
     url: /books/
     weight: 3
-  - identifier: about
-    name: About
-    title: About
-    url: /about/
-    weight: 4
-  - identifier: gear
-    name: Gear
-    title: Gear
-    url: /gear/
-    weight: 5
   - identifier: atoms
     name: Atoms
     title: Atoms
     url: /atoms/
+    weight: 4
+  - identifier: about
+    name: About
+    title: About
+    url: /about/
+    weight: 5
+  - identifier: gear
+    name: Gear
+    title: Gear
+    url: /gear/
     weight: 6
+  - identifier: etc
+    name: Etc.
+    title: Etc.
+    url: /etc/
+    weight: 7
   - identifier: wiki
     name: Wiki
     url: https://wiki.dzx.cz
-    weight: 7
+    weight: 8
 
 params:
   description: "Personal website with articles, projects and other work of Matous Dzivjak"

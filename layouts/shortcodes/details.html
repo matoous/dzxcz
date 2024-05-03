@@ -1,6 +1,6 @@
-<details>
+<details {{ with (index .Params 1) }}open{{ end }}>
   <summary>
-      {{ (index .Params 0) | markdownify }}
+    {{ (index .Params 0) | markdownify }}
   </summary>
-    {{ .Inner | markdownify }}
+  {{ .Inner | markdownify }}
 </details>

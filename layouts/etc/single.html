@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+  <header>
+    <h1>{{ .Title }}</h1>
+    <div>
+      Last updated: <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 2, 2006" }}</time>,
+      <a href="https://github.com/matoous/dzxcz/commits/main/content/{{ .File.Path }}">history</a>
+    </div>
+  </header>
+  {{ .Content }}
+</article>
+{{ end }}
