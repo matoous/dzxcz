@@ -15,6 +15,7 @@ Implementation
 
 - [cola: a text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola) - leightweight CRDT implemention in rust for plain text documents.
 - [Loro](https://github.com/loro-dev/loro) - feature-rich CRDT implemention for rich-text documents in rust.
+- [y-crdt](https://github.com/y-crdt)
 
 Editors
 
