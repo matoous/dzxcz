@@ -1,5 +1,8 @@
 {{ define "main" }}
-      <article>
-      {{ .Content }}
-      </article>
+<article>
+  <header>
+    <h1 class="title">{{ .Title }}</h1>
+  </header>
+  {{ .Content }}
+</article>
 {{ end }}

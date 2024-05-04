@@ -1,6 +1,6 @@
-<div class="🏷">
+<div class="tags">
   <a href="/all">all</a><sup>{{len (where site.RegularPages "Type" "in" site.Params.mainSections)}}</sup>
-    {{ range .Site.Taxonomies.tags.ByCount }}
-      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a><sup>{{ .Count }}</sup>
-    {{ end }}
+  {{ range .Site.Taxonomies.tags.ByCount }}
+  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a><sup>{{ .Count }}</sup>
+  {{ end }}
 </div>

@@ -49,9 +49,8 @@ body {
   color: var(--foreground);
   background-color: var(--background);
   word-break: break-word;
-  line-height: 1.5;
   width: 100%;
-
+  line-height: 1.5;
   display: grid;
   grid-template:
     'nav main'
@@ -114,7 +113,7 @@ h1 {
   font-weight: 800;
 }
 
-.🏷 {
+.tags {
   color: var(--light);
   font-size: 0.9em;
 }
@@ -177,10 +176,6 @@ main {
   min-height: calc(100vh - 3.2em);
   padding: 1.6em;
   overflow: hidden;
-
-  & h1:first-of-type {
-    margin-top: 0;
-  }
 }
 
 nav {
@@ -255,35 +250,25 @@ nav {
   }
 }
 
-article {
+header {
+  text-align: center;
+  margin: 2rem 0;
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5 {
-    text-align: center;
+  h1 {
+    font-size: 3.6rem;
+    margin: 0;
   }
+}
 
+
+article {
+  text-align: justify;
 
   header {
-    text-align: center;
-
     h1 {
+      font-size: 2.4em;
+      font-weight: 800;
       line-height: 1em;
-      margin-bottom: 0.875em;
-
-      &:first-of-type {
-        margin-top: 0;
-      }
-    }
-  }
-
-  &.book {
-    header {
-      h1 {
-        margin-bottom: 0em;
-      }
     }
   }
 
@@ -294,11 +279,11 @@ article {
   .author {
     color: var(--light);
     font-size: 1.1em;
-    margin-bottom: 0.875em;
   }
 
   .meta {
     font-size: 0.9em;
+    margin-top: .875em;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -310,12 +295,6 @@ article {
 
     time {
       font-style: italic;
-    }
-  }
-
-  @media only screen and (max-width: 600px) {
-    header {
-      margin-top: 1em;
     }
   }
 }
