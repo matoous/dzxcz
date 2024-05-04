@@ -7,6 +7,7 @@ author: "Kelly Starrett"
 tags: ["sports", "reading"]
 ---
 
+_Becoming a Supple Leopard_ is a guide to injury prevention, mobillity, athletic performance, and overall well-being. Dr. Kelly Starrett himself mentions right at the beginning of the book that it is not meant to be read in whole from the beginning to the end but rather referred to to resolve specific problems or find inspiration and learning on specific areas of the body.
 
 ### Info
 
