@@ -382,6 +382,7 @@ figure {
 }
 
 .profile-picture {
+  width: 100%;
   max-width: 500px;
 }
 
@@ -536,7 +537,8 @@ sup a {
       font-size: .9rem;
     }
 
-    h3 {
+    h1,
+    h2 {
       margin: 0;
       padding: 0;
       font-size: 1rem;
