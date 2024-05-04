@@ -3,8 +3,6 @@ title: "Etc."
 layout: "etc"
 ---
 
-# Etc.
-
 I keep most of the other cool stuff in my [wiki](https://wiki.dzx.cz). Here's distilled content that I thing might be of interest to anyone that stumbled upon this page.
 
 ## Articles
