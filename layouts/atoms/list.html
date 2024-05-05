@@ -26,13 +26,17 @@
       <div class="atom">
         <div class="title">
           <a href="{{.Permalink}}">#</a>
-          <time datetime="{{ .Date | time.Format " 2006-01-02" }}" class="📅">{{ .Date | time.Format
-            "2006-01-02"}}</time>
           <h2>
             {{.Title}}
           </h2>
         </div>
         {{ .Content }}
+        <div class="meta">
+          Published on        
+          <time datetime="{{ .Date | time.Format "2006-01-02" }}">
+            {{ .Date | time.Format "Jan 2, 2006"}}
+          </time>
+        </div>
       </div>
       {{ end }}
     </div>

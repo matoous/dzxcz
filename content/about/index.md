@@ -3,7 +3,7 @@ title: "About"
 layout: "about"
 ---
 
-Hi, I'm Matouš!
+Hi, I'm Matouš Dzivjak!
 
 I work as a software engineer at [SumUp](https://sumup.com/) and do a lot of sports.
 The rest of my free time is spent on coding, friends, [reading](/books), cooking, and other stuff.
@@ -74,13 +74,3 @@ I also contribute to a few open source projects:
 
 * [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor written in Rust.
 * [hydra](https://github.com/ory/hydra/) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go.
-
-## Philosophy
-
-I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/profiles/b62d4560c6e86)
-personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
-
-To greater or lesser extend I identify with following philosophies:
-
-- [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
-  > The core teachings of Stoicism focus on the development of self-control and resilience in the face of life's difficulties, and emphasize the importance of living in accordance with reason. Stoics believe that the key to a happy and fulfilling life is to focus on what is within our control, and to cultivate inner peace by accepting the things that are outside our control. They also believe in living a virtuous life, and see wisdom, justice, courage, and temperance as the four cardinal virtues.

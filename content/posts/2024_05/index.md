@@ -6,19 +6,22 @@ draft: true
 tags: ["journal","writing"]
 ---
 
+Long time no see. I've been spending time on sideprojects[^wiki] [^esp32] completely skipping the monthly posts. A lot has happened in last few months, vacation, races, and more. I still write, but mostly short posts to the [Atoms]({{<ref "/atoms" >}}) section which is better suited for short posts on random topics.
 
 ## Reading
 
+- [What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/blog/whats-new-css-ui-2023/) - some exciting new things comming up, most importantly - CSS nesting! Once the adoption picks up, we won't need SASS and SCSS tooling everywhere (or so one would hope).
 - [Obituary for a Quite Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [Other people’s problems](https://seths.blog/2024/04/other-peoples-problems/)
 - [What will football look like in the future](https://www.sbnation.com/a/17776-football/chapter-1). I am not even sure what to call this. It's a short story, wonderful website, it is something... different. Worth the read (and scroll).
 
 ## Watching
 
-- [A THOUSAND SUNS - scifi short film anthology](https://youtu.be/vfHh07ziXsU?si=x2viiXMiZtSoPwVn)
+- [A THOUSAND SUNS - scifi short film anthology](https://youtu.be/vfHh07ziXsU?si=x2viiXMiZtSoPwVn) is a series of youtube videos by A Thousand Suns studio. Similar in concept to [Love, Death & Robots](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots) with every short film in a completely different settings. For the youtube format, the films are of exceptional quality and I would love to see what could be achieved with similar concept in longer form.
 
 ## Listening
 
-- [Sub Focus, Dimension, Culture Shock & 1991 | New York Livestream | WORSHIP x DNBNL x UKF On Air](https://youtu.be/2WxTPNdsCxU?si=Yi2r6K3OIEcZh4xf)
+- [Sub Focus, Dimension, Culture Shock & 1991 | New York Livestream | WORSHIP x DNBNL x UKF On Air](https://youtu.be/2WxTPNdsCxU?si=Yi2r6K3OIEcZh4xf). I wish these sets were on Spotify so I can listen to them on my runs, but I am yet to find justification for paying for YouTube subscription.
 
-I wish these sets were on Spotify.
+[^wiki]: [Wiki redesign]({{<ref "/atoms/wiki_redesign" >}})
+[^esp32] Toying with ESP, the only write-up I managed to put up so far was [Running Zephyr on ESP32]({{<ref "/atoms/zephyr_on_esp32" >}})
