@@ -32,15 +32,14 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 
 ## Blogroll
 
-- [A Collection of Unmitigated Pedantry](https://acoup.blog) by _Dr. Bret C. Devereaux_
+- [A Collection of Unmitigated Pedantry](https://acoup.blog) by _Dr. Bret C. Devereaux_.
 - [Alex Danco](https://alexdanco.com/)
-- [Alex Miller](https://alex.miller.garden)
 - [Alexey Guzey](https://guzey.com/)
 - [Amos](https://fasterthanli.me)
-- [Arun Venkatesan](https://www.arun.is)
-- [Avery Pennarun](https://apenwarr.ca/) - [Tailscale](https://tailscale.com) CEO
-- [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - interactive long form deep dives on engineering topics such as lenses, GPS, etc.
-- [brandur.org](https://brandur.org)
+- [Arun Venkatesan](https://www.arun.is), product designer and engineer with visually stunning blog posts and a lot of interesting work.
+- [Avery Pennarun](https://apenwarr.ca/), the [Tailscale](https://tailscale.com) CEO.
+- [Bartosz Ciechanowski](https://ciechanow.ski/archives/), interactive long form deep dives on engineering topics such as lenses, GPS, etc.
+- [brandur.org](https://brandur.org), engineer at [Crunchy Data](https://www.crunchydata.com), previously at Stripe and Heroku. This site takes a lot of inspiration from there.
 - [Charity Majors](https://charity.wtf/) - [Honeycomb](https://www.honeycomb.io/) CEO
 - [Christine Dodrill (Xe Iaso)](https://xeiaso.net/blog)
 - [Computers Are Bad](https://computer.rip/) by [J. B. Crawford](https://jbcrawford.us/)
@@ -81,4 +80,14 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
   and you'd still have just as much importance, in the scale of time and space, as every human that ever lived. Zero.[^average]
 
 [^average]: https://www.reddit.com/r/AskReddit/comments/upyafq/comment/i8ol1b3/
+
+## Philosophy
+
+I am pragmatic [optimist](https://en.wikipedia.org/wiki/Optimism), [ISTJ-A (Logistician)](https://www.16personalities.com/profiles/b62d4560c6e86)
+personality type according to [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
+
+To greater or lesser extend I identify with following philosophies:
+
+- [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+  > The core teachings of Stoicism focus on the development of self-control and resilience in the face of life's difficulties, and emphasize the importance of living in accordance with reason. Stoics believe that the key to a happy and fulfilling life is to focus on what is within our control, and to cultivate inner peace by accepting the things that are outside our control. They also believe in living a virtuous life, and see wisdom, justice, courage, and temperance as the four cardinal virtues.
 

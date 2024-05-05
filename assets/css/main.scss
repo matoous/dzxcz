@@ -292,11 +292,11 @@ article {
     >* {
       margin-right: 0.4em;
     }
-
-    time {
-      font-style: italic;
-    }
   }
+}
+
+time {
+  display: inline-block;
 }
 
 blockquote {
@@ -351,6 +351,7 @@ figure {
   img {
     display: block;
     margin: 0 auto;
+    max-width: 100%;
   }
 
   figcaption {
@@ -527,5 +528,11 @@ sup a {
 
   p:first-of-type {
     margin-top: .4rem;
+  }
+
+  .meta {
+    margin-top: 1rem;
+    font-size: .8rem;
+    color: var(--light);
   }
 }

@@ -46,8 +46,8 @@ menu:
     url: /about/
     weight: 5
   - identifier: gear
-    name: Gear
-    title: Gear
+    name: Uses
+    title: Uses
     url: /gear/
     weight: 6
   - identifier: etc
