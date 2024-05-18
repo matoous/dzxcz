@@ -14,6 +14,9 @@ Long time no see. I've been spending time on sideprojects[^wiki] [^esp32] comple
 - [Obituary for a Quite Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [Other people’s problems](https://seths.blog/2024/04/other-peoples-problems/)
 - [What will football look like in the future](https://www.sbnation.com/a/17776-football/chapter-1). I am not even sure what to call this. It's a short story, wonderful website, it is something... different. Worth the read (and scroll).
+- [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
+- [He Lost $36 Billion in a Week. Now Bill Hwang Is Fighting to Avoid Prison]
+- [Development notes from xkcd's "Machine"](https://chromakode.com/post/xkcd-machine/) by Max is a writeup of the 15th annual April Fools project by [xkcd](https://xkcd.com/). The project was a huge [Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine) build from submissions of the readers.
 
 ## Watching
 
