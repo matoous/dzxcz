@@ -39,9 +39,10 @@ If you love investigative, thrilling writing go ahead and read all Williams arti
 - [Arun Venkatesan](https://www.arun.is), product designer and engineer with visually stunning blog posts and a lot of interesting work.
 - [Avery Pennarun](https://apenwarr.ca/), the [Tailscale](https://tailscale.com) CEO.
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/), interactive long form deep dives on engineering topics such as lenses, GPS, etc.
-- [brandur.org](https://brandur.org), engineer at [Crunchy Data](https://www.crunchydata.com), previously at Stripe and Heroku. This site takes a lot of inspiration from there.
+- [Brandur Leach](https://brandur.org), engineer at [Crunchy Data](https://www.crunchydata.com), previously at Stripe and Heroku. This site takes a lot of inspiration from there.
 - [Charity Majors](https://charity.wtf/) - [Honeycomb](https://www.honeycomb.io/) CEO
 - [Christine Dodrill (Xe Iaso)](https://xeiaso.net/blog)
+- [Chromakode](https://chromakode.com/) (Max Goodman from [xkcd](https://xkcd.com/), previously at Reddit)
 - [Computers Are Bad](https://computer.rip/) by [J. B. Crawford](https://jbcrawford.us/)
 - [Connor Bär](https://connorbaer.com/)
 - [Danluu](https://danluu.com/)
