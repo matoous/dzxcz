@@ -167,10 +167,8 @@ Some notes after a few years of doing quite a few sports:
 
 - When switching shoes (doesn't matter if running or cycling), don't go all in but alternate with your
   old shoes for at least first 2 weeks. Took me one heel inflammation and one knee inflammation to learn my lesson.
-
 - Sadly, price correlates with quality and good gear costs money. Ideally have friends that work in the industry
   and can get you discounts or tips at least (easier said than done).
-
 - If something works for you (e.g. certain brand of shoes fits you well) there's no reason to experiment, usually that
   ends with more harm than good.
 

@@ -1,0 +1,85 @@
+.photo {
+  min-height: 80vh;
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0;
+
+  picture {
+    padding: 0 1rem;
+
+    @media only screen and (max-width: 840px) {
+      padding: 0;
+    }
+
+    img {
+      width: 100%;
+      max-width: 1400px;
+      max-height: calc(100vh - 140px);
+
+      @media (max-aspect-ratio: 4 / 3) and (max-width: 480px) {
+        width: calc(100vw);
+      }
+
+      @media (max-aspect-ratio: 4 / 3) {
+        height: auto;
+      }
+
+      @media (min-aspect-ratio: 4 / 3) {
+        width: auto;
+        max-width: 100%;
+      }
+    }
+  }
+
+  .meta {
+    margin-top: 2rem;
+    padding: 1rem;
+    font-size: .9rem;
+    font-family: var(--font-sans);
+    max-width: 840px;
+    width: 100%;
+
+    .navigation {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 100%;
+      margin-bottom: 1rem;
+    }
+
+    .camera {
+      .model {
+        font-weight: bold;
+      }
+
+      .make {
+        color: var(--light);
+      }
+    }
+
+    .picture {
+      font-size: .8rem;
+      display: flex;
+      color: var(--light);
+
+      >div:not(:first-child):before {
+        content: "·";
+        margin: 0 1em;
+      }
+    }
+
+    .copyright {
+      font-size: .8rem;
+      color: var(--light);
+    }
+  }
+
+  .about {
+    padding: 1rem;
+    max-width: 840px;
+    width: 100%;
+  }
+}

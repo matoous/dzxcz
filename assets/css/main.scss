@@ -63,6 +63,13 @@ body {
       'main'
       'footer';
   }
+
+  &.gallery {
+    grid-template:
+      'nav'
+      'main'
+      'footer';
+  }
 }
 
 ::selection {
@@ -231,7 +238,10 @@ nav {
     }
   }
 
-  @media only screen and (max-width: 840px) {
+}
+
+@media only screen and (max-width: 840px) {
+  nav {
     display: flex;
     flex-direction: row;
     padding-right: 0;
@@ -241,10 +251,26 @@ nav {
     li {
       display: inline-block;
     }
-  }
 
-  .socials {
-    @media only screen and (max-width: 840px) {
+    .socials {
+      display: none;
+    }
+  }
+}
+
+body.gallery {
+  nav {
+    display: flex;
+    flex-direction: row;
+    padding-right: 0;
+    padding: 1em 1.6em;
+    border-bottom: 1px solid var(--lightest);
+
+    li {
+      display: inline-block;
+    }
+
+    .socials {
       display: none;
     }
   }
@@ -534,5 +560,38 @@ sup a {
     margin-top: 1rem;
     font-size: .8rem;
     color: var(--light);
+  }
+}
+
+.archive {
+  grid-area: main;
+  padding: 1.6em;
+
+  .title {
+    font-size: 3rem;
+    margin: 0;
+  }
+
+  .content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(512px, 1fr));
+    // Not yet widely supported, in Firefox one can enable this by navigating
+    // to `about:config` and enabling `layout.css.grid-template-masonry-value.enabled`.
+    grid-template-rows: masonry;
+
+    @media only screen and (max-width: 512px) {
+      grid-template-columns: 1fr;
+    }
+
+    >div {
+      padding: 5px;
+      display: flex;
+      align-items: center;
+      line-height: 0;
+
+      img {
+        width: 100%;
+      }
+    }
   }
 }
