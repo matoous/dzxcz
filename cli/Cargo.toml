@@ -1,0 +1,25 @@
+[package]
+name = "cli"
+version = "0.1.0"
+edition = "2021"
+default-run = "dzx"
+
+[[bin]]
+name = "dzx"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
+kamadak-exif = "0.5.5"
+serde = {version = "1.0.202", features = ["derive"]}
+serde_yml = "0.0.10"
+tempfile = "3.10.1"
+
+[profile.release]
+lto = "thin"
+
+[profile.opt]
+inherits = "release"
+lto = "fat"
+codegen-units = 1
+opt-level = 3
