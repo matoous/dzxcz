@@ -1,51 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  {{ block "head" . }}
-  {{ partial "head.html" . }}
-  {{ end }}
-  {{block "addscripts" . }}
-  {{end}}
-</head>
-
-<body>
-  {{ block "nav" . }}
-  {{ partial "nav.html" . }}
-  {{ end }}
-  <main class="atoms">
-    <header>
-      <h1 class="title">Atoms</h1>
-      <p>
-        Bite-sized notes and articles that don't fit elsewhere. Also available as
-        <a href="/atoms/index.xml">an Atom feed</a>.
-      </p>
-    </header>
-    <div>
-      {{ range .Pages }}
-      <div class="atom">
-        <div class="title">
-          <a href="{{.Permalink}}">#</a>
-          <h2>
-            {{.Title}}
-          </h2>
-        </div>
-        {{ .Content }}
-        <div class="meta">
-          Published on        
-          <time datetime="{{ .Date | time.Format "2006-01-02" }}">
-            {{ .Date | time.Format "Jan 2, 2006"}}
-          </time>
-        </div>
+{{ define "main" }}
+<div class="atoms">
+  <header>
+    <h1 class="title">Atoms</h1>
+    <p>
+      Bite-sized notes and articles that don't fit elsewhere. Also available as
+      <a href="/atoms/index.xml">an Atom feed</a>.
+    </p>
+  </header>
+  <div>
+    {{ range .Pages }}
+    <div class="atom">
+      <div class="title">
+        <a href="{{.Permalink}}">#</a>
+        <h2>
+          {{.Title}}
+        </h2>
       </div>
-      {{ end }}
+      {{ .Content }}
+      <div class="meta">
+        Published on
+        <time datetime="{{ .Date | time.Format " 2006-01-02" }}">
+          {{ .Date | time.Format "Jan 2, 2006"}}
+        </time>
+      </div>
     </div>
-
-    {{ block "main" . }}{{ end }}
-    {{ block "footer" . }}
-    {{ partial "footer.html" . }}
     {{ end }}
-  </main>
-</body>
-
-</html>
+  </div>
+</div>
+{{ end }}

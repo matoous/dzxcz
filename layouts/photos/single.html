@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{ block "head" . }}
+  {{ partial "head.html" . }}
+  {{ end }}
+  <style>
+  {{ $style := resources.Get "css/photos.scss" | toCSS | minify | fingerprint }}
+  {{ $style.Content | safeCSS }}
+  </style>
+  {{block "addscripts" . }}
+  {{end}}
+</head>
+
+<body class="gallery">
+  {{ block "nav" . }}
+  {{ partial "nav.html" . }}
+  {{ end }}
+  <section class="photo">
+    <a href="https://photos.dzx.cz/{{ .Params.srcset.original }}">
+      <picture>
+        <source srcset="https://photos.dzx.cz/{{ .Params.srcset.webp1024 }} 1024w, https://photos.dzx.cz/{{ .Params.srcset.webp2048 }} 2048w" type="image/webp">
+        <source srcset="https://photos.dzx.cz/{{ .Params.srcset.jpg1024 }} 1024w, https://photos.dzx.cz/{{ .Params.srcset.jpg2048 }} 2048w">
+        <img alt="" src="https://photos.dzx.cz/{{ .Params.srcset.jpg1024 }}">
+      </picture>
+    </a>
+    <div class="meta">
+      <div class="navigation">
+        {{ $pages := where .Site.Pages "Section" "photos" }}
+        <div>
+          {{ with $pages.Next . }}
+          <a href="{{ .RelPermalink }}">Previous</a>
+          {{ end }}
+        </div>
+
+        <div>
+          {{ with $pages.Prev . }}
+          <a href="{{ .RelPermalink }}">Next</a>
+          {{ end }}
+        </div>
+      </div>
+      <div>
+        <time datetime="{{ .Date | time.Format " 2006-01-02" }}">
+          {{ .Date | time.Format "Jan 2, 2006"}}
+        </time>
+      </div>
+      <div class="camera">
+        <span class="model">{{.Params.model}}</span> <span class="make">by {{.Params.make}}</span>
+      </div>
+      <div class="picture">
+        <div>ISO {{.Params.iso}}</div>
+        <div>{{.Params.focal_length}}mm</div>
+        <div>{{.Params.ev}} EV</div>
+        <div>𝑓/{{.Params.f_number}}</div>
+        <div>{{.Params.exposure}} s</div>
+      </div>
+      <div class="copyright">
+        Ⓒ Matous Dzivjak. All Rights Reserved.
+      </div>
+    </div>
+    <div class="about">
+      {{.Content}}
+    </div>
+  </section>
+</body>
+
+</html>

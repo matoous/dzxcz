@@ -10,6 +10,8 @@ copyright: "This work is licensed under a Creative Commons Attribution-ShareAlik
 permalinks:
   posts: /:year-:month-:day/:slug
   books: /:year-:month-:day/:slug
+  atoms: /:year-:month-:day/:slug
+  photos: /photos/:slug
 markup:
   goldmark:
     renderer:
@@ -59,6 +61,11 @@ menu:
     name: Wiki
     url: https://wiki.dzx.cz
     weight: 8
+  - identifier: photos
+    name: Photos
+    title: Photos
+    url: /photos/
+    weight: 9
 
 params:
   description: "Personal website with articles, projects and other work of Matous Dzivjak"
