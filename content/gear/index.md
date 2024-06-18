@@ -43,8 +43,6 @@ Other features that I enjoy and that are slowly finding their way into other bro
 
 [Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
 
-[Mela](https://mela.recipes) is a receipes management app. I don't use it much but love the design, native iOS UI, and the ease of use. If I start cooking more one day, this will be my go-to app.
-
 ### Mac setup
 
 - [configure TouchID for sudo](https://apple.stackexchange.com/a/306324)
@@ -92,6 +90,7 @@ Other features that I enjoy and that are slowly finding their way into other bro
 - [Insomnia](https://github.com/Kong/insomnia) - API client
 - [Itsycal](https://github.com/sfsam/Itsycal) - tiny calendar for menu bar
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) for preventing the MacOS from sleeping
+- [Ice](https://github.com/jordanbaird/Ice) - a menu bar manager for MacOS to keep it nice and tidy.
 
 ### Other
 
