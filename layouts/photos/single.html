@@ -6,8 +6,8 @@
   {{ partial "head.html" . }}
   {{ end }}
   <style>
-  {{ $style := resources.Get "css/photos.scss" | toCSS | minify | fingerprint }}
-  {{ $style.Content | safeCSS }}
+    {{ $style := resources.Get "css/photos.scss" | toCSS | minify | fingerprint }}
+    {{ $style.Content | safeCSS }}
   </style>
   {{block "addscripts" . }}
   {{end}}
@@ -20,8 +20,11 @@
   <section class="photo">
     <a href="https://photos.dzx.cz/{{ .Params.srcset.original }}">
       <picture>
-        <source srcset="https://photos.dzx.cz/{{ .Params.srcset.webp1024 }} 1024w, https://photos.dzx.cz/{{ .Params.srcset.webp2048 }} 2048w" type="image/webp">
-        <source srcset="https://photos.dzx.cz/{{ .Params.srcset.jpg1024 }} 1024w, https://photos.dzx.cz/{{ .Params.srcset.jpg2048 }} 2048w">
+        <source
+          srcset="https://photos.dzx.cz/{{ .Params.srcset.webp1024 }} 1024w, https://photos.dzx.cz/{{ .Params.srcset.webp2048 }} 2048w"
+          type="image/webp">
+        <source
+          srcset="https://photos.dzx.cz/{{ .Params.srcset.jpg1024 }} 1024w, https://photos.dzx.cz/{{ .Params.srcset.jpg2048 }} 2048w">
         <img alt="" src="https://photos.dzx.cz/{{ .Params.srcset.jpg1024 }}">
       </picture>
     </a>
@@ -52,7 +55,7 @@
         <div>ISO {{.Params.iso}}</div>
         <div>{{.Params.focal_length}}mm</div>
         <div>{{.Params.ev}} EV</div>
-        <div>𝑓/{{.Params.f_number}}</div>
+        <div>&fnof;/{{.Params.f_number}}</div>
         <div>{{.Params.exposure}} s</div>
       </div>
       <div class="copyright">
