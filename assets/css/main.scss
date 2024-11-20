@@ -287,8 +287,6 @@ header {
 
 
 article {
-  text-align: justify;
-
   header {
     h1 {
       font-size: 2.4em;
@@ -415,14 +413,6 @@ figure {
 
     &:hover {
       text-decoration: underline;
-    }
-  }
-
-  .dnf a {
-    color: var(--light);
-
-    &:visited {
-      color: var(--light);
     }
   }
 
