@@ -24,7 +24,7 @@ I can't express enough how _awesome_ this is. **All** the information for hikes 
 
 ## Recycling
 
-The _general rubbish_ bins in New Zealand are marked as _landfill_. It's a subtle difference but one that I noticed every time we were throwing out trash. I think the difference in wording is a clever way to draw attention to the fact that the trash is here to stay, for years, and nudge more people into recycling. If all trash bins specified where the trash goes (e.g. landfill, recycling plant, or composting plant) maybe we would see more people being being thoughtful about recycling.
+The _general rubbish_ bins in New Zealand are marked as _landfill_. It's a subtle difference but one that I noticed every time we were throwing out trash. I think the difference in wording is a clever way to draw attention to the fact that the trash is here to stay, for years, and nudge more people into recycling. If all trash bins specified where the trash goes (e.g. landfill, recycling plant, or composting plant) maybe we would see more people being thoughtful about recycling.
 
 Plastic recycling in New Zealand is a whole another story unfortunately. The plastic packaging is classified in 5 categories (numbered 1-5) with different categories having different rules. Class 1 and 2 goes into recycling bins. Sometimes we saw recycling bins that specified the classes of plastic that can go in them directly. Class 4 are soft plastics (e.g. empty bag of crisps) and these _must_ be returned back at stores. Unfortunately, not all stores have bins for soft plastics and not all soft plastics can be recycled this way. The whole plastic recycling situation was confusing at best and I hope that next time we go to New Zealand there government will figure out a better approach.
 
