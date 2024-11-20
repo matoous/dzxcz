@@ -1,5 +1,8 @@
 {{- $pctx := . -}}
-{{- $pages := $pctx.Pages -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := $pctx.RegularPages -}}
+{{- $pages = where $pages "Section" "ne" "photos" -}}
+{{- $pages = where $pages "Section" "ne" "atoms" -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
@@ -9,8 +12,8 @@
   <channel>
     <title>{{ with .Title }}{{.}} - {{ end }}dzx.cz</title>
     <link>{{ .Permalink }}</link>
-    <description>{{.Title}} - dzx.cz</description>
-    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
+    <description>Articles on dzx.cz.</description>
+    {{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Params.Author.email }}
     <managingEditor>{{.}}{{ with $.Site.Params.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Params.Author.email }}
     <webMaster>{{.}}{{ with $.Site.Params.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}

@@ -20,6 +20,22 @@ markup:
     endLevel: 4
     ordered: false
     startLevel: 2
+outputFormats:
+  rss:
+    baseName: rss
+    isHTML: false
+    isPlainText: false
+    mediaType: application/rss+xml
+    noUgly: true
+    permalinkable: false
+    rel: alternate
+outputs:
+  home:
+  - html
+  - rss
+  section:
+  - html
+  - rss
 menu:
   main:
   - identifier: home
@@ -70,3 +86,6 @@ menu:
 params:
   description: "Personal website with articles, projects and other work of Matous Dzivjak"
   mainSections: ["books", "posts"]
+  author:
+    name: "Matouš Dzivjak"
+    email: "matousdzivjak@gmail.com"
