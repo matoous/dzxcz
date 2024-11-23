@@ -45,8 +45,8 @@ struct Args {
     #[arg(short, long)]
     name: String,
 
-    #[clap(index = 1)]
-    file: PathBuf,
+    #[clap(last(true))]
+    dir: PathBuf,
 }
 
 fn convert(name: &str, dir: &Path, img: &Path, size: usize, format: &str) -> Result<String, ()> {
@@ -83,66 +83,97 @@ macro_rules! exif_tag {
 fn main() {
     let args = Args::parse();
 
-    let source_file = std::fs::File::open(&args.file).unwrap();
+    let mut files = vec![];
+    if args.dir.is_dir() {
+        if let Ok(entries) = fs::read_dir(args.dir) {
+            for entry in entries.flatten() {
+                if let Some(extension) = entry.path().extension() {
+                    if let Some("jpg") | Some("jpeg") = extension.to_str() {
+                        files.push(entry.path());
+                    }
+                }
+            }
+        }
+    }
 
-    let mut bufreader = std::io::BufReader::new(&source_file);
-    let exif = exif::Reader::new()
-        .read_from_container(&mut bufreader)
-        .unwrap();
+    files.sort_by_key(|file| {
+        println!("{}", file.to_string_lossy());
+        let source_file = std::fs::File::open(file).unwrap();
+        let mut bufreader = std::io::BufReader::new(&source_file);
+        let exif = exif::Reader::new()
+            .read_from_container(&mut bufreader)
+            .unwrap();
+        exif.get_field(exif::Tag::DateTimeOriginal, exif::In::PRIMARY)
+            .unwrap()
+            .value
+            .display_as(exif::Tag::DateTimeOriginal)
+            .to_string()
+    });
 
-    let name_slug = to_snake_case(&args.name);
+    for (index, file) in files.into_iter().enumerate() {
+        let source_file = std::fs::File::open(&file).unwrap();
 
-    let metadata: HashMap<exif::Tag, exif::Value> =
-        exif.fields().map(|f| (f.tag, f.value.clone())).collect();
+        let mut bufreader = std::io::BufReader::new(&source_file);
+        let exif = exif::Reader::new()
+            .read_from_container(&mut bufreader)
+            .unwrap();
 
-    let extension = args.file.extension().unwrap().to_str().unwrap();
-    let file_name = format!("{}.{}", name_slug, extension);
-    let tmp_dir = tempdir().unwrap();
-    let tmp_file = tmp_dir.path().join(file_name.clone());
+        let name_slug = format!("{}_{:0>4}", to_snake_case(&args.name), index.to_string());
 
-    fs::copy(&args.file, tmp_file).unwrap();
+        let metadata: HashMap<exif::Tag, exif::Value> =
+            exif.fields().map(|f| (f.tag, f.value.clone())).collect();
 
-    let photo = Photo {
-        title: args.name.clone(),
-        date: exif_tag!(metadata, DateTimeOriginal),
-        params: PhotoParams {
-            iso: exif_tag!(metadata, StandardOutputSensitivity),
-            focal_length: exif_tag!(metadata, FocalLength),
-            f_number: exif_tag!(metadata, FNumber),
-            ev: exif_tag!(metadata, ExposureBiasValue),
-            exposure: exif_tag!(metadata, ExposureTime),
-            model: exif_tag!(metadata, Model),
-            make: exif_tag!(metadata, Make),
-            srcset: SrcSet {
-                jpg512: convert(&name_slug, tmp_dir.path(), &args.file, 512, "jpg").unwrap(),
-                jpg1024: convert(&name_slug, tmp_dir.path(), &args.file, 1024, "jpg").unwrap(),
-                jpg2048: convert(&name_slug, tmp_dir.path(), &args.file, 2048, "jpg").unwrap(),
-                webp512: convert(&name_slug, tmp_dir.path(), &args.file, 512, "webp").unwrap(),
-                webp1024: convert(&name_slug, tmp_dir.path(), &args.file, 1024, "webp").unwrap(),
-                webp2048: convert(&name_slug, tmp_dir.path(), &args.file, 2048, "webp").unwrap(),
-                original: file_name.clone(),
+        let extension = file.extension().unwrap().to_str().unwrap();
+        let file_name = format!("{}.{}", name_slug, extension);
+        let tmp_dir = tempdir().unwrap();
+        let tmp_file = tmp_dir.path().join(file_name.clone());
+
+        fs::copy(&file, tmp_file).unwrap();
+
+        let photo = Photo {
+            title: name_slug.clone(),
+            date: exif_tag!(metadata, DateTimeOriginal),
+            params: PhotoParams {
+                iso: exif_tag!(metadata, StandardOutputSensitivity),
+                focal_length: exif_tag!(metadata, FocalLength),
+                f_number: exif_tag!(metadata, FNumber),
+                ev: exif_tag!(metadata, ExposureBiasValue),
+                exposure: exif_tag!(metadata, ExposureTime),
+                model: exif_tag!(metadata, Model),
+                make: exif_tag!(metadata, Make),
+                srcset: SrcSet {
+                    jpg512: convert(&name_slug, tmp_dir.path(), &file, 512, "jpg").unwrap(),
+                    jpg1024: convert(&name_slug, tmp_dir.path(), &file, 1024, "jpg").unwrap(),
+                    jpg2048: convert(&name_slug, tmp_dir.path(), &file, 2048, "jpg").unwrap(),
+                    webp512: convert(&name_slug, tmp_dir.path(), &file, 512, "webp").unwrap(),
+                    webp1024: convert(&name_slug, tmp_dir.path(), &file, 1024, "webp").unwrap(),
+                    webp2048: convert(&name_slug, tmp_dir.path(), &file, 2048, "webp").unwrap(),
+                    original: file_name.clone(),
+                },
             },
-        },
-    };
+        };
 
-    let res = process::Command::new("rclone")
-        .args(vec![
-            "copy",
-            tmp_dir.path().as_os_str().to_str().unwrap(),
-            "cloudflare:photos",
-        ])
-        .output()
-        .expect("rclone to cloudflare");
+        process::Command::new("rclone")
+            .args(vec![
+                "copy",
+                tmp_dir.path().as_os_str().to_str().unwrap(),
+                "cloudflare:photos",
+            ])
+            .output()
+            .expect("rclone to cloudflare");
 
-    let mut file = File::create(format!(
-        "content/photos/{}.md",
-        to_snake_case(args.name.as_str())
-    ))
-    .expect("create entry in dzx");
+        let mut file = File::create(format!(
+            "content/photos/{}.md",
+            to_snake_case(name_slug.as_str())
+        ))
+        .expect("create entry in dzx");
 
-    file.write("---\n".as_bytes());
-    let front_matter = serde_yml::to_writer(&file, &photo).unwrap();
-    file.write("---\n".as_bytes());
+        file.write_all("---\n".as_bytes())
+            .expect("write front matter");
+        serde_yml::to_writer(&file, &photo).expect("write front matter");
+        file.write_all("---\n".as_bytes())
+            .expect("write front matter");
+    }
 }
 
 fn to_snake_case(s: &str) -> String {
