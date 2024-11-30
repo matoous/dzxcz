@@ -54,10 +54,6 @@ most of the segments at >163 BPM and managed to get 2:30 hours of sleep during t
 On the positive note it was a great leg-check before the Val d'Aran which now seems
 harder than ever, but hopefully doable.
 
----
-
-By the way, I started putting down my personal wishlist called [Before I Die](/before_i_die).
-
 ## Reading
 
 - [What is a depressing truth you have made peace with?](https://www.reddit.com/r/AskReddit/comments/upyafq/what_is_a_depressing_truth_you_have_made_peace/)
