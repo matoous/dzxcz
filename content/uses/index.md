@@ -7,37 +7,35 @@ layout: "etc"
 
 ### Terminal
 
-[Wezterm](https://wezfurlong.org/wezterm/) is my current terminal of choice. I went through [Hyper](https://hyper.is/), [iTerm2](https://iterm2.com/), and [Kitty](https://sw.kovidgoyal.net/kitty/) before. Each time sacrificing a little bit of the features (that I mostly didn't use anyway) in favor of speed. And when it comes to speed, wezterm is pefect. Instant boot time, GPU-accelerated, and it is written in Rust, so when I feel like learning a little bit more about Rust or contributing, I can do so.
+[Wezterm](https://wezfurlong.org/wezterm/) is my current terminal of choice. I went through [Hyper](https://hyper.is/), [iTerm2](https://iterm2.com/), and [Kitty](https://sw.kovidgoyal.net/kitty/) before. Each time sacrificing bit of the features (that I didn't use anyway) in favor of speed. And when it comes to speed, wezterm is perfect. Instant boot time, GPU-accelerated, and it is written in Rust, so when I feel like learning more about Rust or contributing, I can do so.
+
+One underestimated factor of programming comfort are fonts. Good fonts strike the right balance of legibility, glyphs, and line-height. I have been using [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) since its release, initially doubting whether paying for a font is a justifiable endeavor but it brings me tiny bit of joy whenever I open my terminal ever since.
 
 ### Shell
 
 I run [Zsh](https://www.zsh.org/) and [Oh My Zsh](https://ohmyz.sh/) for as long as I can remember. Initially I used a lot of the provided plugins, full blown out [Spacship ZSH](https://github.com/spaceship-prompt/spaceship-prompt) prompt, and material theme.
 
-Nowadays I use fairly minimal configuration of [Starship](https://starship.rs/) prompt (basically only directory and git information). 20 or so oh-my-zsh plugins were reduced to 3: `zsh-syntax-highlighting`, `zsh-completions`, and `history-substring-search`. And I have all shell config in single `.zshrc` file.
+Nowadays I use minimal configuration of [Starship](https://starship.rs/) prompt (directory and git information). 20 or so oh-my-zsh plugins were reduced to 3: `zsh-syntax-highlighting`, `zsh-completions`, and `history-substring-search`. And I have all shell config in single `.zshrc` file.
 
 ### Editor
 
 {{<picture src="images/terminal.png" alt="Screenshot of my editor - Helix." caption="Screenshot of my editor as of the writing of this page." >}}
 
-[Helix](https://github.com/helix-editor/helix) for almost everything, sometimes I still spin up one of the JetBrains IDEs for larger refactors or debugging.
+[Helix](https://github.com/helix-editor/helix) for almost everything, sometimes I spin up [VS Code](https://code.visualstudio.com/) for a specific task, but last that I remember it was for a multiline search and replace across a whole project (I couldn't wrap my head around [ast-grep](https://github.com/ast-grep/ast-grep)).
 
-In University we had free licenses for [JetBrain](https://www.jetbrains.com/) products so I used those since I started programming. Whenever I needed to edit something in terminal I would use [Nano](https://help.ubuntu.com/community/Nano) as Vim was still far in the mystery land for me. As I needed to edit more and more configuration files and sometimes do so remotely I decided to learn Vim in February 2021. The learning curve is indeed steep but I enjoyed it a lot. Slowly my configuration grew like crazy I not long after I had almost full IDE experience, especially thanks to [LSP](https://microsoft.github.io/language-server-protocol/) support and [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/).
+In University we had free licenses for [JetBrain](https://www.jetbrains.com/) products and I used those since I started programming. For editing in terminal I would use [Nano](https://help.ubuntu.com/community/Nano) and avoid it like the plague. As I needed to edit more and more configuration files and sometimes work remotely I decided to learn working with Vim in February 2021. The learning curve is indeed steep but there's certain level of satisfaction in taming the beast. Around that time [LSP](https://microsoft.github.io/language-server-protocol/) and [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/) were becoming the norm, enabling the full IDE experience in Vim at a cost of 600 lines long configuration file.
 
-As with other tools, I started to look around for how to minimize the setup. I ditched a few plugins, removed all unnecessary configuration, yet as it happens with nvim, my config was still hundreds of lines. That is, until I found Helix.
+As with other tools, I started looking into simplifying the setup. I ditched a few plugins, removed all unnecessary configuration, and downsized by Neovim config file to half. That is, until I found Helix.
 
-[Helix](https://github.com/helix-editor/helix) feels very similar to Vim but works very differently. While in Vim you start with `action` followed by `motion` (e.g. `d3w` to delete 3 words) Helix follows `section` -> `action` model. That means that whatever you are going to act on (words, function, line, etc.) is selected first and the action is second. It's striking difference from Vim that takes some time to get used to but comes very naturally. Second large difference is first-class support for multicursor. Where in Vim you would substitue using the `%s/SEARCH/REPLACE/g` pattern in Helix you select the text (e.g. `%` for whole file), select the pattern in the selection (e.g. `s` followed by the term you are searching for), by confirming the selection you create multiple individual selections and now you can edit all of them at once. Multiselection is super powerful thing with many usecases that is now crucial part of my editing toolkit.
+[Helix](https://github.com/helix-editor/helix) provides similar experience to Vim with one major twist. While in Vim you start with `action` followed by `motion` (e.g. `d3w` to **d**elete 3 **w**ords) Helix follows `selection` -> `action` paradigma inspired by [Kakoune](https://github.com/mawww/kakoune) (if you never header of it, don't worry, I did neither until reading more about Helix). It's striking difference from Vim that takes time to get used to but comes naturally afterwards. Second large difference is first-class support for multi-cursor. Where in Vim you would substitute using the `%s/SEARCH/REPLACE/g` command in Helix you select the text (e.g. `%` for whole file), select the pattern in the selection (e.g. `s` followed by the term you are searching for), by confirming the selection you create multiple individual cursor and you can edit them all at once.
 
-[Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) is my font of choice for terminal and IDEs.
+Nothing can be perfect though, development of Helix is moving at a slow pace with features such as plugin support taking months (or even years) to make it into upstream. On the other hand, the  slowness reduces feature creep and contributes to a clean codebase.
 
-At the moment I am using the [Modus Vivendi](https://protesilaos.com/emacs/modus-themes). A accessible theme, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA) theme by [Protesilaos Stavrou](https://protesilaos.com/) originally built for GNU Emacs.
+At the moment I am using the [Modus Vivendi](https://protesilaos.com/emacs/modus-themes). A accessible theme, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA) theme by [Protesilaos Stavrou](https://protesilaos.com/) originally built for GNU Emacs.
 
 ### Browser
 
-After some back and forth on [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Safari](https://www.apple.com/safari/) I lended on [Arc](https://arc.net/) which is currently my default browser for desktop.
-
-One great feature of Arc are [Boosts](https://arcboosts.com/boosts). Boosts allow you to customize websites (from css to javascript) and are a great way to unclutter some of the commonly used applications such as [YouTube](https://arcboosts.com/boosts/167/clean-youtube).
-
-Other features that I enjoy and that are slowly finding their way into other browsers as well are spaces (separating my personal and work-related browsing) and command line.
+After full circle, going from [Firefox](https://www.mozilla.org/en-US/firefox/new/) to [Safari](https://www.apple.com/safari/) and later to [Arc](https://arc.net/) I am back at the beginning using Firefox as my primary desktop browser. There's not much to it other then _it works_ and it doesn't get into my way.
 
 ### Software
 
@@ -95,8 +93,6 @@ Other features that I enjoy and that are slowly finding their way into other bro
 ### Other
 
 - *Wallpapers*: [OS9 Walppapers](https://www.arun.is/blog/os9-wallpaper/) by [Arun](https://www.arun.is/)
-- *Screen Saver*: [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) or [Fliqlo](https://fliqlo.com/)
-- *Font*: [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 
 ## Hardware
 
@@ -126,7 +122,7 @@ Previously I used [The Backpack Pro](https://eu.dbjourney.com/collections/backpa
 which wasn't bad but I had my complains. Thule was definitely an improvement although the number of internal compartements
 seems to be excessive in comparison to Db. On the other hand, the main pocket doesn't open on it's own when heavily loaded.
 
-### In The Bag
+### Everyday carry
 
 - [_Book_]({{< ref "/books" >}}). I Always carry at least one around[^books], most of the time non-fiction books about
   software engineering, economics, statistics, or thinking. Sometimes I also read fiction but I tend to get very excited
@@ -197,22 +193,11 @@ I tend to keep running shoes for 600km - 1000km depending on their condition.
 - [Nike Zoom Fly 3](https://www.nike.com/running/zoom-fly), good shoe but narrow toe box and it lost the springiness really fast)
 {{</details>}}
 
-### Cycling
-
-**Shoes**:
-
-- [Quoc Mono II Road Shoes](https://quoc.cc/collections/mono-2)
-
-**Bikes**:
-
-- [Trek Madone SLR 6](https://www.trekbikes.com/gb/en_GB/bikes/road-bikes/performance-road-bikes/madone/madone-slr/madone-slr-6-etap/p/35023/)
-- [Mondraker Podium Carbon R](https://mondraker.com/kr/en/2022-podium-carbon-r)
-
 ## Clothing
 
 I am slowly iterating towards have a few brands that have consistently good products that I like. In general I aim for brands with good reputation[^patagonia] [^asket] even if that means paying premium. My woredrobe consistent mostly of plain, logo-less clothing
 
-### Tshirts
+### T-shirts
 
 All plain in tame colors, from [Asket](https://www.asket.com/us), [Zagh](https://myzagh.cz/en) (a Czech brand), [Pangaia](https://eu.pangaia.com/), and ocassionally [Zara](https://www.zara.com/). Recently I am a fan of the oversized and skater fit.
 
@@ -222,16 +207,3 @@ All my pants at the moment are from [Lululemon](https://shop.lululemon.com/) and
 
 [^patagonia]: [Patagonia founder just donated the entire company, worth $3 billion, to fight climate change](https://www.cnbc.com/2022/09/14/patagonia-founder-donates-entire-company-to-fight-climate-change.html)
 [^asket]: [Asket - Transparency](https://www.asket.com/us/transparency)
-
-## Home
-
-### Kitchen
-
-- [Made In Japan Udon Bowl](https://www.mijeurope.com/bowls/udon-bowl-tenmokku-20-cm/) - multiple pieces
-  in various colors. Perfect size for almost any meal, from soups, to noodles and rice dishes.
-- [Victorinox Santoku Chef Knife](https://www.swissarmy.com/us/en/Products/Cutlery/Chef%27s-Knives/Swiss-Classic-Santoku-Knife-fluted-edge/p/6.8523.17B)
-
-### Bathroom
-
-- [Aesop Resurrection Aromatique Hand Wash](https://www.aesop.com/de/en/p/body-hand/hand/resurrection-aromatique-hand-wash/)
-- [Aesop Geranium Leaf Body Cleanser](https://www.aesop.com/de/en/p/body-hand/geranium-leaf-range/geranium-leaf-body-cleanser/)

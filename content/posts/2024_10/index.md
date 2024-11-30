@@ -27,3 +27,8 @@ Having more time on my hands this month I spent some time reorganizing my newsle
 
 [^truck_factor]: [A Novel Approach for Estimating Truck Factors](http://aserg.labsoft.dcc.ufmg.br/truckfactor/)
 
+## Listening
+
+In New Zealand we have spent a lot of time driving. I myself don't mind driving in silence but Iris prefers to have something on so we settled on listening to podcasts. Our current favorite is [People I (Mostly) Admire](https://freakonomics.com/series/people-i-mostly-admire/) by [Steven D. Levitt](https://en.wikipedia.org/wiki/Steven_Levitt). Steven brings wide variety of hosts, from book authors to scientists and researchers which makes every podcast unique.
+
+We have gone through 20 episodes during our sabbatical, each unique and fun in its own. Among those that I enjoyed the most is for example episode [How to Grow a White Rhino](https://freakonomics.com/podcast/how-to-grow-a-white-rhino/) with [Thomas Hildebrandt](https://en.wikipedia.org/wiki/Thomas_Hildebrandt); as German and dry as it gets but wholesome at the same time. The other 2 picks I would highly recommend is [Richard Dawkins on God, Genes, and Murderous Baby Cuckoos](https://freakonomics.com/podcast/richard-dawkins-on-god-genes-and-murderous-baby-cuckoos/) and [The Language of the Universe](https://freakonomics.com/podcast/the-language-of-the-universe/).
