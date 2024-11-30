@@ -21,7 +21,7 @@ Two opposing sides of our natures:
 
 ### Takeaways
 
-Rougly rephrased takeways from the last chapter of the book:
+Roughly rephrased takeways from the last chapter of the book:
 
 1. _We don't live for happiness, we live for holiness_
   - we seek to live live of purpose, righteousness, and virtue, not just for pleasure
