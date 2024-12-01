@@ -6,7 +6,7 @@ draft: true
 tags: ["journal","writing"]
 ---
 
-Long time no see. I've been spending time on sideprojects[^wiki] [^esp32] completely skipping the monthly posts. A lot has happened in last few months, vacation, races, and more. I still write, but mostly short posts to the [Atoms]({{<ref "/atoms" >}}) section which is better suited for short posts on random topics.
+I've been spending time on sideprojects[^wiki] [^esp32], completely skipping the monthly posts. A lot has happened in last few months, vacation, races, and more. I still write, but mostly short posts to the [Atoms]({{<ref "/atoms" >}}) section which is better suited for short posts on random topics.
 
 ## Reading
 

@@ -6,53 +6,27 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-On 8th May I ran my [second Marathon](https://www.strava.com/activities/7107250564) after 2 years.
-I went into it with _simple_ goal of finnishing under 3 hours, not very confidently
-to be honest, and I managed to do so by the margin of 10 seconds.
-It was hard, and long, but most importantly hard. First 30k went smoothly
-but every easy kilometer made me more afraid of what is to come in the last 12k
-where everything is decided. Last 11k were the hardest and last 6k I my quads
-were in cramps.
+On 8th May I ran my [second Marathon](https://www.strava.com/activities/7107250564) after 2 years. I went into it with _simple_ goal of finishing under 3 hours, not very confidently to be honest, and I managed to do so by the margin of 10 seconds. It was hard, and long, but most importantly hard. First 30k went smoothly but every easy kilometer made me more afraid of what is to come in the last 12k where everything is decided. Last 11k were the hardest and last 6k I my quads were in cramps.
 
-The best decision was slowing down in the initial kilometers when the pacer
-for 3:00:00 time ran at higher pace around 4:05 min/km. And it paid off over
-the course of the Marathon when many people started slowly fading out while
-I kept my steady pace. I am very happy with the result, although I probably won't aim
-for anything faster anytime soon. (with Berlin marathon in September I am sure I will
-change my mind though).
+The best decision was slowing down in the initial kilometers when the pacer for 3:00:00 time ran at higher pace around 4:05 min/km. And it paid off over the course of the Marathon when many people started slowly fading out while I kept my steady pace. I am very happy with the result, although I probably won't aim for anything faster anytime soon. (with Berlin marathon in September I am sure I will change my mind though).
 
-Special thanks goes to Dominik who supported me during the Marathon and made this whole
-thing work.
+Special thanks goes to Dominik who supported me during the Marathon and made this whole thing work.
 
 <center>＊</center>
 
 Second week of May we had Hack Week with SumUp in Portugal.
-Initially, I was hesitant to come but now I am _very_ glad I did.
-It was incredible. We had awesome team and worked on the [SumUp for Developers](https://developer.sumup.com/)
-project trying to bring our public API to better shape.
-I met a lot of people that I knew until this point by just their Slack handles
+Initially, I was hesitant to come but now I am _very_ glad I did. It was incredible. We had awesome team and worked on the [SumUp for Developers](https://developer.sumup.com/) project trying to bring our public API to better shape. I met a lot of people that I knew until this point by just their Slack handles
 and everyone, without exceptions, was friendly and fun to talk with.[^0]
 
-Week of socializing was more than I did cumulatively over last 2 years.
-Little step outside of the comfort zone but I learned a lot of intersting life
-stories of colleagues, something we wouldn't usually talk about during our
-daily interactions. I build respect and admiration for many of the people I met
-and it left we contemplating: _what do I want to do with my life?_
+Week of socializing was more than I did cumulatively over last 2 years. Little step outside the comfort zone but I learned a lot of intersting life stories of colleagues, something we wouldn't usually talk about during our daily interactions. I build respect and admiration for many of the people I met and it left we contemplating: _what do I want to do with my life?_
 
 {{<cite "...">}}
-If you are drinking Jägerbombs at your wedding you are too young to be getting merried.
+If you are drinking Jägerbombs at your wedding you are too young to be getting married.
 {{</cite>}}
 
 <center>＊</center>
 
-On 21st and 22nd we raced the [Run Labe Run](https://runlaberun.cz/) race. 377.5 km relay
-along the Labe river in team of 9 people. Everyone had 4 segments of varying length
-from short easy segments at around 7km, to hilly long segments of 14km+.
-We placed 9th out of 83 teams which is incredbile and we had a lot of fun.
-I managed to run my 5k and 10k PB at 18:57 and 38:57. The race was tough, I ran
-most of the segments at >163 BPM and managed to get 2:30 hours of sleep during the weekend.
-On the positive note it was a great leg-check before the Val d'Aran which now seems
-harder than ever, but hopefully doable.
+On 21st and 22nd we raced the [Run Labe Run](https://runlaberun.cz/) race. 377.5 km relay along the Labe river in team of 9 people. Everyone had 4 segments of varying length from short easy segments at around 7km, to hilly long segments of 14km+. We placed 9th out of 83 teams which is incredbile and we had a lot of fun. I managed to run my 5k and 10k PB at 18:57 and 38:57. The race was tough, I ran most of the segments at >163 BPM and managed to get 2:30 hours of sleep during the weekend. On the positive note it was a great leg-check before the Val d'Aran which now seems harder than ever, but hopefully doable.
 
 ## Reading
 
@@ -104,6 +78,5 @@ Other than that I enjoyed following songs this month:
 
 ## Stats
 
-[^0]: Special thanks to Ena, Stepan, Jullien, Connor, Vinny, Nico, and others that made
-  the project work and thanks to whom I had more fun than I could possibly want.
+[^0]: Special thanks to Ena, Stepan, Jullien, Connor, Vinny, Nico, and others that made the project work and thanks to whom I had more fun than I could possibly want.
 

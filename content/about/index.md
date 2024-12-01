@@ -26,7 +26,7 @@ In the 3 years so far I have contributed to building a company-wide SSO (Single 
 
 At Kiwi our team's responsibility was developing core infrastructure and services with speed and maintainability as the primary goal. Our services served thousands of requests per second and served as the base for the transportation search engine. During my time at Kiwi I grew my experience and knowledge thanks to awesome team and mentorship from other skilled people in the company.
 
-My contributions specifically included initiating gRPC adoption across the company, helping build internal golang packages
+My contributions included initiating gRPC adoption across the company, helping build internal golang packages
 for cross-team usage, and developing multiple internal core APIs supporting search search functionality serving 100M request every day.
 
 {{</details>}}
