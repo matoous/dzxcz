@@ -4,7 +4,7 @@ date: 2023-04-05
 slug: the_road_to_character
 draft: false
 author: "David Brooks"
-tags: ["life", "philosophy", "ethics", "morality", "reading"]
+tags: ["life", "philosophy", "reading"]
 ---
 
 ## Notes
