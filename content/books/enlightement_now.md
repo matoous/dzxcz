@@ -4,7 +4,7 @@ date: 2020-01-02
 slug: enlightenment_now
 draft: false
 author: "Steven Pinker"
-tags: ["life", "reading"]
+tags: ["environment", "life", "reading"]
 ---
 
 In 15 extensive chapters Steven Pinker makes a case for reason, science and humanism.

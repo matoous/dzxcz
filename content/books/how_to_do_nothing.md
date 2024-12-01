@@ -4,7 +4,7 @@ date: 2021-01-19
 slug: how_to_do_nothing
 draft: false
 author: "Jenny Odell"
-tags: ["philosophical", "life", "reading"]
+tags: ["philosophy", "life", "reading"]
 ---
 
 Not really a guide to _Doing Nothing_ or _Resisting the Attention Economy_ as a matter of fact
