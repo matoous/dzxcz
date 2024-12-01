@@ -41,6 +41,8 @@ After full circle, going from [Firefox](https://www.mozilla.org/en-US/firefox/ne
 
 [Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
 
+For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) I use [iA Writer](https://ia.net/writer). It's an exceptionally well built writing software that doesn't get in your way when writing. Built-in syntax highlight and style checking means one can focus on the content and iA Writer takes care of typos, common clichés, or redundancies. 
+
 ### Mac setup
 
 - [configure TouchID for sudo](https://apple.stackexchange.com/a/306324)
