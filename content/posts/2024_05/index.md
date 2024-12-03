@@ -2,11 +2,11 @@
 title: "May"
 date: 2024-06-01
 slug: may_2024
-draft: true
+draft: false
 tags: ["journal","writing"]
 ---
 
-I've been spending time on sideprojects[^wiki] [^esp32], completely skipping the monthly posts. A lot has happened in last few months, vacation, races, and more. I still write, but mostly short posts to the [Atoms]({{<ref "/atoms" >}}) section which is better suited for short posts on random topics.
+I've been spending time on side-projects[^wiki] [^esp32], skipping writing, and thus the monthly posts, yet again. A lot has happened in last few months, vacation, races, and more. The only part of this website I managed to tend to are the short posts in the [Atoms]({{<ref "/atoms" >}}) section which is better suited for random topics and low effort brain dumbs.
 
 ## Reading
 
@@ -20,11 +20,11 @@ I've been spending time on sideprojects[^wiki] [^esp32], completely skipping the
 
 ## Watching
 
-- [A THOUSAND SUNS - scifi short film anthology](https://youtu.be/vfHh07ziXsU?si=x2viiXMiZtSoPwVn) is a series of youtube videos by A Thousand Suns studio. Similar in concept to [Love, Death & Robots](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots) with every short film in a completely different settings. For the youtube format, the films are of exceptional quality and I would love to see what could be achieved with similar concept in longer form.
+- [A THOUSAND SUNS - sci-fi short film anthology](https://youtu.be/vfHh07ziXsU?si=x2viiXMiZtSoPwVn) is a series of youtube videos by A Thousand Suns studio. Similar in concept to [Love, Death & Robots](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots) with every short film in a completely different settings. For the youtube format, the films are of exceptional quality and I would love to see what could be achieved with similar concept in longer form.
 
 ## Listening
 
 - [Sub Focus, Dimension, Culture Shock & 1991 | New York Livestream | WORSHIP x DNBNL x UKF On Air](https://youtu.be/2WxTPNdsCxU?si=Yi2r6K3OIEcZh4xf). I wish these sets were on Spotify so I can listen to them on my runs, but I am yet to find justification for paying for YouTube subscription.
 
 [^wiki]: [Wiki redesign]({{<ref "/atoms/wiki_redesign" >}})
-[^esp32] Toying with ESP, the only write-up I managed to put up so far was [Running Zephyr on ESP32]({{<ref "/atoms/zephyr_on_esp32" >}})
+[^esp32] Toying with ESP, briefly summarized in [Running Zephyr on ESP32]({{<ref "/atoms/zephyr_on_esp32" >}})
