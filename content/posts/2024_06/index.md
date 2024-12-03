@@ -12,7 +12,7 @@ tags: ["journal","writing"]
 
 ## Reading
 
-Finished reading [_The Ministry for the Future_]({{< ref "/the_ministry_for_the_future" >}}), a thrilling mix of science, ecology, and fiction. It's a hefty book with 576 pages and unique style that works well with its premise.
+Finished reading [_The Ministry for the Future_]({{< ref "/books/the_ministry_for_the_future" >}}), a thrilling mix of science, ecology, and fiction. It's a hefty book with 576 pages and unique style that works well with its premise.
 
 ## Watching
 
