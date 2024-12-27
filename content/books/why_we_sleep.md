@@ -101,8 +101,7 @@ that debunks and disputes many claims in the book, to name a few:
 - No, two-thirds of adults in developed nations do not fail to obtain the recommended amount of sleep
 - and many more...
 
-I definitely recommend reading the blog post as well as the discussions
-linked in the first paragraph.
+I definitely recommend reading the blog post as well as the discussions linked in the first paragraph.
 
 ### Learn more about sleep
 

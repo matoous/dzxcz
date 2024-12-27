@@ -1,9 +1,11 @@
 <footer>
   <div>
-      {{ with .GitInfo }}
-      <a href="https://github.com/matoous/dzxcz/blob/main/content/{{ $.File.Path }}">{{ $.File.Path }}@{{ .AbbreviatedHash }}</a>,
-      <time datetime="{{ .AuthorDate.Format "2006-01-02" }}">{{ .AuthorDate.Format "2006-01-02" }}</time>
-      {{ end }}
+    {{ with .GitInfo }}
+    <a href="https://github.com/matoous/dzxcz/blob/main/content/{{ $.File.Path }}">
+      {{ $.File.Path }}@{{ .AbbreviatedHash }}
+    </a>,
+    <time datetime="{{ .AuthorDate.Format " 2006-01-02" }}">{{ .AuthorDate.Format "2006-01-02" }}</time>
+    {{ end }}
   </div>
   <div>
     © Matous Dzivjak, {{ now.Year }}
@@ -12,7 +14,7 @@
     Software Engineer @ <a href="https://sumup.com">SumUp</a>
   </div>
   <div>
-      <address>Berlin, Germany</address> · <address>Litomerice, Czech Republic</address>
+    <address>Berlin, Germany</address> · <address>Litomerice, Czech Republic</address>
   </div>
   <div>
   </div>
@@ -20,7 +22,6 @@
     <a href="mailto:matousdzivjak@gmail.com">matousdzivjak@gmail.com</a> ·
     <a href="https://github.com/matoous">GitHub</a> ·
     <a href="https://keybase.io/matousdz">Keybase</a> ·
-    <a href="https://www.linkedin.com/in/matous-dzivjak/">LinkedIn</a> ·
     <a href="https://www.instagram.com/matousdz/">Instagram</a>
   </div>
 </footer>
