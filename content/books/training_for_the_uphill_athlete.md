@@ -1,10 +1,18 @@
 ---
-title: "Training for the Uphill Athlete"
+author: Steve House, Scott Johnston, Kilian Jornet
+author_url: https://en.wikipedia.org/wiki/Steve_House_(climber)
+book_title: 'Training for the Uphill Athlete: A Manual for Mountain Runners and Ski
+  Mountaineers'
+book_url: https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century
 date: 2023-01-24
-slug: "training_for_the_uphill_athlete"
 draft: false
-author: "Steve House, Scott Johnston, Kilian Jornet"
-tags: ["sports", "reading"]
+isbn10: '1938340841'
+isbn13: '9781938340840'
+slug: training_for_the_uphill_athlete
+tags:
+- sports
+- reading
+title: Training for the Uphill Athlete
 ---
 
 Training for the Uphill Athlete is book focusing on the endurance athlete physiology and training
@@ -22,9 +30,3 @@ as there's no one-size-fits-all.
 - 4 week blocks with 3 weeks of intensity and one recovery work well.
 - There are great recommendations for training plans in the book that wouldn't fit here.
 
-### Info
-
-Title: [Training for the Uphill Athlete: A Manual for Mountain Runners and Ski Mountaineers](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century)\
-Author: [Steve House](https://en.wikipedia.org/wiki/Steve_House_(climber)), Scott Johnston, [Kilian Jornet](https://en.wikipedia.org/wiki/K%C3%ADlian_Jornet_Burgada)\
-ISBN10: 1938340841\
-ISBN13: 9781938340840

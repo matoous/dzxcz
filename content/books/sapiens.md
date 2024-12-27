@@ -1,10 +1,18 @@
 ---
-title: "Sapiens: A Brief History of Humankind"
+author: Yuval Noah Harari
+author_url: https://en.wikipedia.org/wiki/Yuval_Noah_Harari
+book_title: 'Sapiens: A Brief History of Humankind'
+book_url: https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind
 date: 2020-11-03
-slug: sapiens
 draft: false
-author: "Yuval Noah Harari"
-tags: ["history", "science", "reading"]
+isbn10: 0062316095
+isbn13: '9780062316097'
+slug: sapiens
+tags:
+- history
+- science
+- reading
+title: 'Sapiens: A Brief History of Humankind'
 ---
 
 Modern society is shaped by [capitalism](https://en.wikipedia.org/wiki/Capitalism) and
@@ -81,9 +89,3 @@ and better of than we were 70,000 years ago? In the essence of scientific revolu
 to say that we don't know. Let's just hope that we are building better future not only for us
 but also for other species.
 
-### Info
-
-Title: [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)\
-Author: [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)\
-ISBN10: 0062316095\
-ISBN13: 9780062316097

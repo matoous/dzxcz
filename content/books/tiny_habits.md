@@ -1,18 +1,15 @@
 ---
-title: "Tiny Habits"
+author: Bj Fogg PhD
+author_url: https://en.wikipedia.org/wiki/Vaclav_Smil
 date: 2023-05-18
-slug: tiny_habits
 draft: false
-author: "Bj Fogg PhD"
-tags: ["life", "reading"]
+isbn10: 0593297067
+isbn13: '9780593297063'
+slug: tiny_habits
+tags:
+- life
+- reading
+title: Tiny Habits
 ---
 
-
-
-### Info
-
-Title: How the World Really Works\
-Author: [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smi)\
-ISBN13: 9780593297063
-ISBN10: 0593297067
-
+TODO

@@ -1,10 +1,17 @@
 ---
-title: "The Three-Body Problem"
+author: Cixin Liu
+author_url: https://en.wikipedia.org/wiki/Liu_Cixin
+book_title: The Three-Body Problem
+book_url: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 date: 2021-01-23
-slug: the_three-body_problem
 draft: false
-author: "Cixin Liu"
-tags: ["sci-fi", "reading"]
+isbn10: '7536692935'
+isbn13: '9787536692930'
+slug: the_three-body_problem
+tags:
+- sci-fi
+- reading
+title: The Three-Body Problem
 ---
 
 The Three-Body Problem hit the right spot for me and placed itself on the list
@@ -30,11 +37,4 @@ fictional book.
 [^3]: https://en.wikipedia.org/wiki/Particle_physics
 [^4]: https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
 [^5]: https://en.wikipedia.org/wiki/Von_Neumann_architecture
-
-### Info
-
-Title: [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))\
-Author: [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)\
-ISBN10: 7536692935\
-ISBN13: 9787536692930
 

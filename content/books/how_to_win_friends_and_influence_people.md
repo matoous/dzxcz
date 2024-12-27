@@ -1,11 +1,19 @@
 ---
-title: "How to Win Friends and Influence People"
+author: Dale Carnegie
+author_url: https://en.wikipedia.org/wiki/Dale_Carnegie
+book_title: How to Win Friends and Influence People
+book_url: https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
 date: 2022-02-03
-slug: how_to_win_friends_and_influence_people
 draft: false
-author: "Dale Carnegie"
-tags: ["life", "reading"]
+isbn10: '1439167346'
+isbn13: '9781439167342'
+slug: how_to_win_friends_and_influence_people
+tags:
+- life
+- reading
+title: How to Win Friends and Influence People
 ---
+
 
 _How to Win Friends and Influence People_ is book about things that we all know deep down there
 but need to be reminded of from time to time. The point the book is trying to convey boils down
@@ -62,9 +70,3 @@ but the overall tone is heartwarming and the takeaways are true to the heart.
   - Make the other person happy doing the things you suggest; consider what they gain from it and specifically convey it when making a request.
 
 
-### Info
-
-Title: [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)\
-Author: [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)\
-ISBN10: 1439167346\
-ISBN13: 9781439167342

@@ -1,11 +1,18 @@
 ---
-title: "The Hard Thing about Hard Things"
+author: Ben Horowitz
+author_url: https://en.wikipedia.org/wiki/Ben_Horowitz
+book_title: 'The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers'
 date: 2020-06-19
-slug: the_hard_thing_about_the_hard_things
 draft: false
-author: "Ben Horowitz"
-tags: ["business", "reading"]
+isbn10: '0062273205'
+isbn13: '9780547265452'
+slug: the_hard_thing_about_the_hard_things
+tags:
+- business
+- reading
+title: The Hard Thing about Hard Things
 ---
+
 
 _The Hard Thing about the Hard Things_ is book full of hard to swallow facts of running a successful business.
 Ben Horowitz with brutal honesty describes what all can go wrong, how to avoid it, and that eventually
@@ -22,9 +29,3 @@ that can be adopted on many more places than just technological companies. The b
 a vast amount of topics so everyone will find a useful piece for himself. In the end you will know
 that there are no easy answers, but at least you can learn from mistakes of others.
 
-### Info
-
-Title: The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \
-Author: [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz)\
-ISBN10: 0062273205\
-ISBN13: 9780547265452

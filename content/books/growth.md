@@ -1,10 +1,17 @@
 ---
-title: "Growth"
+author: Vaclav Smil
+author_url: https://en.wikipedia.org/wiki/Vaclav_Smil
+book_title: Growth
+book_url: https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century
 date: 2021-04-16
-slug: "growth"
 draft: false
-author: "Vaclav Smil"
-tags: ["economics", "reading"]
+isbn10: 0262042835
+isbn13: '9780262042833'
+slug: growth
+tags:
+- economics
+- reading
+title: Growth
 ---
 
 Growth is a book by Vaclav Smil that examines the ways in which human societies have grown and developed over time,
@@ -20,9 +27,3 @@ hindered growth, such as resource constraints, environmental degradation, and so
 Despite the book's length and technical nature, it is written in an engaging and accessible style that makes it a
 fascinating and informative read. Still, I did not finish the entire book and hope to come back to it one day.
 
-### Info
-
-Title: [Growth](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century)\
-Author: [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smi)\
-ISBN10: 0262042835\
-ISBN13: 9780262042833

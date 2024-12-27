@@ -1,10 +1,18 @@
 ---
-title: "The Design of Everyday Things"
+author: Don Norman
+author_url: https://en.wikipedia.org/wiki/Don_Norman
+book_title: The Design of Everyday Things
+book_url: https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things
 date: 2024-02-14
-slug: "the_design_of_everyday_things"
 draft: false
-author: "Don Norman"
-tags: ["design", "life", "reading"]
+isbn10: '0465067107'
+isbn13: '9780465067107'
+slug: the_design_of_everyday_things
+tags:
+- design
+- life
+- reading
+title: The Design of Everyday Things
 ---
 
 ## Notes
@@ -15,9 +23,3 @@ tags: ["design", "life", "reading"]
 
 [The Design of Everyday Things — Book Summary & Notes](https://elvischidera.com/2022-06-24-design-everyday-things)
 
-### Info
-
-Title: [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)\
-Author: [Don Norman](https://en.wikipedia.org/wiki/Don_Norman)\
-ISBN10: 0465067107\
-ISBN13: 9780465067107

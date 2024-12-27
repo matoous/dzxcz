@@ -1,10 +1,16 @@
 ---
-title: "High Output Management"
+author: Andrew S. Grove
+author_url: https://en.wikipedia.org/wiki/Andrew_Grove
+book_title: High Output Management
 date: 2023-02-24
-slug: high_output_management
 draft: false
-author: "Andrew S. Grove"
-tags: ["work", "reading"]
+isbn10: 0679762884
+isbn13: '9780679762881'
+slug: high_output_management
+tags:
+- work
+- reading
+title: High Output Management
 ---
 
 ## Notes
@@ -155,13 +161,3 @@ Tasks from the end of the book to practice what one has learned
 - define how you will monitor the next project that you delegate
 - define 3 _objectives_ for yourself and create _key indicators_ for all of them
 
-### Info
-
-Title: High Output Management\
-Author: Andrew S. Grove\
-ISBN10: 0679762884\
-ISBN13: 9780679762881
-
----
-
-Thanks for recommendation _Julien_!

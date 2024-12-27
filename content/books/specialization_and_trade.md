@@ -1,17 +1,15 @@
 ---
-title: "Specialization and Trade"
+author: Arnold Kling
+author_url: https://en.wikipedia.org/wiki/Arnold_Kling
 date: 2020-06-19
-slug: specialization_and_trade
 draft: true
-author: "Arnold Kling"
-tags: ["economics", "reading"]
+isbn10: 0143127799
+isbn13: '9780143127796'
+slug: specialization_and_trade
+tags:
+- economics
+- reading
+title: Specialization and Trade
 ---
 
-🚧 Work in progress 🚧
-
-### Info
-
-Title: Specialization and Trade: A Re-introduction to Economics\
-Author: [Arnold Kling](https://en.wikipedia.org/wiki/Arnold_Kling)\
-ISBN10: 0143127799\
-ISBN13: 9780143127796
+TODO

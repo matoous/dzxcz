@@ -1,10 +1,18 @@
 ---
-title: "The Road to Character"
+author: David Brooks
+author_url: https://en.wikipedia.org/wiki/David_Brooks_(commentator)
+book_title: The Road to Character
+book_url: https://en.wikipedia.org/wiki/The_Road_to_Character
 date: 2023-04-05
-slug: the_road_to_character
 draft: false
-author: "David Brooks"
-tags: ["life", "philosophy", "reading"]
+isbn10: 0-8129-9325-X
+isbn13: 978-0-8129-9325-7
+slug: the_road_to_character
+tags:
+- life
+- philosophy
+- reading
+title: The Road to Character
 ---
 
 ## Notes
@@ -50,11 +58,4 @@ Roughly rephrased takeways from the last chapter of the book:
 12. _No good life is possible unless it is organized around a vocation_
   - vocation is not found by looking within but by asking what life is asking of us
 13. Maturity is achieved by being better than you used to be, it is not comparative
-
-### Info
-
-Title: [The Road to Character](https://en.wikipedia.org/wiki/The_Road_to_Character)\
-Author: [David Brooks](https://en.wikipedia.org/wiki/David_Brooks_(commentator))
-ISBN10: 0-8129-9325-X\
-ISBN13: 978-0-8129-9325-7
 

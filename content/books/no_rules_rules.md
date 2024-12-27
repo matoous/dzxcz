@@ -1,10 +1,17 @@
 ---
-title: "No Rules Rules"
+author: Reed Hastings, Erin Meyer
+book_title: 'No Rules Rules: Netflix and the Culture of Reinvention'
 date: 2023-02-19
-slug: no_rules_rules
 draft: false
-author: "Reed Hastings, Erin Meyer"
-tags: ["work", "life", "engineering", "reading"]
+isbn10: 0593152387
+isbn13: '9780593152386'
+slug: no_rules_rules
+tags:
+- work
+- life
+- engineering
+- reading
+title: No Rules Rules
 ---
 
 ## Notes
@@ -77,9 +84,3 @@ tags: ["work", "life", "engineering", "reading"]
   * Loosely coupled organization should be a tree, not a pyramid. The boss is the root, holding up trunks - senior managers who support the outer branches where decisions are made.
   * If team is moving in the desired direction using the information they've received from you and others around you know that you're successfully leading with context.
   
-### Info
-
-Title: No Rules Rules: Netflix and the Culture of Reinvention\
-Author: Reed Hastings, Erin Meyer\
-ISBN10: 0593152387\
-ISBN13: 9780593152386

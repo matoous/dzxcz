@@ -6,7 +6,7 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-On the 8th of July I _attempted_ my first ultra race - [Ultratrail Val d'Aran](https://www.aranbyutmb.com/)
+On the 8th of July I _attempted_ my first ultra race - [Ultratrail Val d'Aran](https://valdaran.utmb.world/)
 by [UTMB](https://utmb.world/). The race took a place in Spain Pyrenees and was
 my first encounter with this part of Europe. I didn't train much for the race
 and to make the matter worse I franticly decided to catch up with the training

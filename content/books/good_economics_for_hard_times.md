@@ -1,10 +1,15 @@
 ---
-title: "Good Economics for Hard Times"
+author: Abhijit V. Banerjee, Esther Duflo
+author_url: https://en.wikipedia.org/wiki/Abhijit_Banerjee
 date: 2022-05-01
-slug: good_economics_for_hard_times
 draft: false
-author: "Abhijit V. Banerjee, Esther Duflo"
-tags: ["economics", "reading"]
+isbn10: '1610399501'
+isbn13: '9781610399500'
+slug: good_economics_for_hard_times
+tags:
+- economics
+- reading
+title: Good Economics for Hard Times
 ---
 
 Abhijit Banerjee and Esther Duflo are masters of their subject.
@@ -35,12 +40,5 @@ sense of being worthy and having purpose to their life.
   _relatively_ best at doing. Oposed to _Absolute advantage_ it suggests
   that even if one country is _absolutely_ best at producing everything
   it will still end up specializing in the product where they have _comparative advantage_.
-
-### Info
-
-Title: Good Economics for Hard Times: Better Answers to Our Biggest Problems\
-Author: [Abhijit V. Banerjee](https://en.wikipedia.org/wiki/Abhijit_Banerjee), [Esther Duflo](https://en.wikipedia.org/wiki/Esther_Duflo)\
-ISBN10: 1610399501\
-ISBN13: 9781610399500
 
 [^1]: https://ourworldindata.org/grapher/inequality-of-incomes-chartbook
