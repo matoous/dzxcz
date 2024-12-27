@@ -1,10 +1,17 @@
 ---
-title: "On Writing Well"
+author: William Zinsser
+author_url: https://en.wikipedia.org/wiki/William_Zinsser
+book_title: On Writing Well
 date: 2023-06-23
-slug: on_writing_well
 draft: false
-author: "William Zinsser"
-tags: ["literature", "writing", "reading"]
+isbn10: 0060891548
+isbn13: '9780060891541'
+slug: on_writing_well
+tags:
+- literature
+- writing
+- reading
+title: On Writing Well
 ---
 
 - Writing is strongest when it's simple and clear of clutter.
@@ -13,9 +20,3 @@ tags: ["literature", "writing", "reading"]
 - Leave the reader with **one** provocative thought that they didn’t have before.
 - Understated humor is the nonfiction writer's secret weapon.
 
-### Info
-
-Title: [On Writing Well](https://www.goodreads.com/en/book/show/53343)\
-Author: _[William Zinsser](https://en.wikipedia.org/wiki/WilliamZinsser)\
-ISBN10: 0060891548\
-ISBN13: 9780060891541

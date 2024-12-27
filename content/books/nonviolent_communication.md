@@ -1,10 +1,19 @@
 ---
-title: "Nonviolent Communication"
+author: Marshall B. Rosenberg
+author_url: https://en.wikipedia.org/wiki/Marshall_Rosenberg
+book_title: 'Nonviolent Communication: A Language of Life: Life-Changing Tools for
+  Healthy Relationships'
+book_url: https://en.wikipedia.org/wiki/Nonviolent_Communication
 date: 2020-10-18
-slug: nonviolent_communication
 draft: false
-author: "Marshall B. Rosenberg"
-tags: ["life", "communication", "reading"]
+isbn10: 189200528X
+isbn13: '9781892005281'
+slug: nonviolent_communication
+tags:
+- life
+- communication
+- reading
+title: Nonviolent Communication
 ---
 
 Nonviolent Communication by Marshall B. Rosenberg is an essential book on for anyone hoping to make
@@ -272,9 +281,3 @@ time to reflect on what they've just said.
 * "thank you" in NVC:
     "This is what you did, this is how I feel, this is the need of mine that was met."
 
-### Info
-
-Title: [Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships](https://en.wikipedia.org/wiki/Nonviolent_Communication) \
-Author: [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg)\
-ISBN10: 189200528X\
-ISBN13: 9781892005281

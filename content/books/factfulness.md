@@ -1,10 +1,16 @@
 ---
-title: "Factfulness"
+author: Hans Rosling
+author_url: https://en.wikipedia.org/wiki/Hans_Rosling
+book_title: 'Factfulness: Ten Reasons We''re Wrong About the World – and Why Things Are Better Than You Think'
+book_url: https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think
 date: 2020-01-03
-slug: factfulness
 draft: false
-author: "Hans Rosling"
-tags: ["life", "reading"]
+isbn13: '9781250107817'
+slug: factfulness
+tags:
+- life
+- reading
+title: Factfulness
 ---
 
 ## Notes
@@ -58,11 +64,5 @@ tags: ["life", "reading"]
   - take a breath and time, don't rush your decisions, evaluate
   - insist on the data
   - beware of predictions, future is uncertain ("_this stock can't go tits up_"[^tits_up])
-
-### Info
-
-Title: [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think)\
-Author: [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling)\
-ISBN13: 9781250107817
 
 [^tits_up]: https://idioms.thefreedictionary.com/go+tits+up

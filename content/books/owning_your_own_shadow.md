@@ -1,15 +1,14 @@
 ---
-title: "Owning Your Own Shadow"
+author: Robert A. Johnson
+author_url: https://en.wikipedia.org/wiki/Robert_A._Johnson_(psychotherapist)
 date: 2020-02-02
-slug: owning_your_own_shadow
 draft: false
-author: "Robert A. Johnson"
-tags: ["life", "reading"]
+isbn13: '9780062507549'
+slug: owning_your_own_shadow
+tags:
+- life
+- reading
+title: Owning Your Own Shadow
 ---
 
-### Info
-
-Title: Owning Your Own Shadow: Understanding the Dark Side of the Psyche\
-Author: [Robert A. Johnson](https://en.wikipedia.org/wiki/Robert_A._Johnson_(psychotherapist))\
-ISBN13: 9780062507549
-
+TODO

@@ -1,10 +1,17 @@
 ---
-title: "Thinking, Fast and Slow"
+author: Daniel Kahneman
+author_url: https://en.wikipedia.org/wiki/Daniel_Kahneman
+book_title: Thinking, Fast and Slow
+book_url: https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
 date: 2020-09-13
-slug: thinking_fast_and_slow
 draft: false
-author: "Daniel Kahneman"
-tags: ["life", "reading"]
+isbn10: 0606275649
+isbn13: '9780606275644'
+slug: thinking_fast_and_slow
+tags:
+- life
+- reading
+title: Thinking, Fast and Slow
 ---
 
 _Thinking, Fast and Slow_ is a book by _Daniel Kahneman_ that explores the ways in which the human mind processes
@@ -63,9 +70,3 @@ or [Nonviolent Communication]({{< ref "/books/nonviolent_communication" >}}).
     - once wrong assumption is "accepted" it triggers associative mechanism, spreading relative ideas through our system
     - loss aversion - we prefer no changes even if they would benefit us in the long run
 
-### Info
-
-Title: [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)\
-Author: [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)\
-ISBN10: 0606275649\
-ISBN13: 9780606275644

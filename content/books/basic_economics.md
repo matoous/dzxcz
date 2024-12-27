@@ -1,10 +1,17 @@
 ---
-title: "Basic Economics"
+author: Thomas Sowell
+author_url: https://en.wikipedia.org/wiki/Thomas_Sowell
+book_title: Basic Economics
+book_url: https://en.wikipedia.org/wiki/Basic_Economics
 date: 2020-02-22
-slug: basic_economics
 draft: false
-author: "Thomas Sowell"
-tags: ["economics", "reading"]
+isbn10: '0465060730'
+isbn13: '9780465060733'
+slug: basic_economics
+tags:
+- economics
+- reading
+title: Basic Economics
 ---
 
 Basic Economics by Thomas Sowell, with its 650 pages, doesn't exactly seem like
@@ -28,9 +35,3 @@ There's no book on economics I would currently recommend more.
 Whether you are interested in financial literacy or politics this book has a value
 for you, and you will most definitely find more interesting topics on your way through.
 
-### Info
-
-Title: Basic Economics: A Citizen's Guide to the Economy\
-Author: [Thomas Sowell](https://en.wikipedia.org/wiki/Thomas_Sowell)\
-ISBN10: 0465060730\
-ISBN13: 9780465060733

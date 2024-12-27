@@ -1,10 +1,16 @@
 ---
-title: "Economic Facts and Fallacies"
+author: Thomas Sowell
+author_url: https://en.wikipedia.org/wiki/Thomas_Sowell
+book_title: Economic Facts and Fallacies
 date: 2020-02-29
-slug: economic_facts_and_fallacies
 draft: false
-author: "Thomas Sowell"
-tags: ["economics", "reading"]
+isbn10: 0465003494
+isbn13: '9780465022038'
+slug: economic_facts_and_fallacies
+tags:
+- economics
+- reading
+title: Economic Facts and Fallacies
 ---
 
 Economic Facts and Fallacies is the second book by Thomas Sowell I have read, and I am again left in awe.
@@ -36,9 +42,3 @@ Economics Facts and Fallacies is a very educational and easy to read book for an
 knowledge of economics. After reading, you might change your view on many decisions made by governments,
 and will make you question a lot of claims made by politics and media.
 
-### Info
-
-Title: Economic Facts and Fallacies\
-Author: [Thomas Sowell](https://en.wikipedia.org/wiki/Thomas_Sowell)\
-ISBN10: 0465003494\
-ISBN13: 9780465022038

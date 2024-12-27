@@ -1,18 +1,16 @@
 ---
-title: "Making Work Visible"
+author: Dominica DeGrandis
+author_url: https://itrevolution.com/faculty/dominica-degrandis/
+book_title: 'Making Work Visible: Exposing Time Theft to Optimize Work & Flow'
 date: 2022-02-15
-slug: making_work_visible
 draft: true
-author: "Dominica DeGrandis"
-tags: ["work", "reading"]
+isbn10: '1942788150'
+isbn13: 978-1942788157
+slug: making_work_visible
+tags:
+- work
+- reading
+title: Making Work Visible
 ---
 
-
-## Summary
-
-### Info
-
-Title: [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712)\
-Author: [Dominica Degrandis](https://itrevolution.com/faculty/dominica-degrandis/)\
-ISBN10: 1942788150\
-ISBN13: 978-1942788157
+TODO

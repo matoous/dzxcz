@@ -1,10 +1,16 @@
 ---
-title: "How the World Really Works"
+author: Vaclav Smil
+author_url: https://en.wikipedia.org/wiki/Vaclav_Smi
+book_title: 'How the World Really Works: The Science Behind How We Got Here and Where We''re Going'
 date: 2023-05-18
-slug: how_the_world_really_works
 draft: false
-author: "Vaclav Smil"
-tags: ["science", "reading"]
+isbn10: 0593297067
+isbn13: '9780593297063'
+slug: how_the_world_really_works
+tags:
+- science
+- reading
+title: How the World Really Works
 ---
 
 > A realistic grasp of our past, present, and uncertain future is the best foundation for approaching the unknowable expanse of time before us. While we cannot be specific, we know that the most likely prospect is a mixture of progress and setbacks, of seemingly insurmountable difficulties and near-miraculous advances. The future, as ever, is not predetermied. Its outcome depends on our actions.
@@ -52,14 +58,6 @@ _How the World Really Works_ was a heavy, saddening but also prospective, and in
 - rapid decarbonization could only be achieved by making sacrifices utterly impalatable to the vast majority of people
 - the problem of _delayed gratification_ - even drastic reductions to emissions "will not show any convincing benefits for decades"
 
-### Info
-
-Title: How the World Really Works\
-Author: [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smi)\
-ISBN13: 9780593297063
-ISBN10: 0593297067
-
 ---
 
-- [Everything You Thought You Knew, and Why You’re Wrong](https://www.nytimes.com/2022/05/11/books/review/how-the-world-really-works-vaclev-smil.html), review by Nathaniel Rich
-
+- [everything you thought you knew, and why you’re wrong](https://www.nytimes.com/2022/05/11/books/review/how-the-world-really-works-vaclev-smil.html), review by Nathaniel Rich

@@ -1,10 +1,17 @@
 ---
-title: "Why We Sleep"
+author: Matthew Walker
+author_url: https://en.wikipedia.org/wiki/Matthew_Walker_(scientist)
+book_title: 'Why We Sleep: The New Science of Sleep and Dreams'
+book_url: https://en.wikipedia.org/wiki/Why_We_Sleep
 date: 2020-03-19
-slug: why_we_sleep
 draft: false
-author: "Matthew Walker"
-tags: ["health", "reading"]
+isbn10: 0141983760
+isbn13: '9780141983769'
+slug: why_we_sleep
+tags:
+- health
+- reading
+title: Why We Sleep
 ---
 
 In my first years of university, I often found myself doing homework up to the early morning hours
@@ -116,9 +123,3 @@ linked in the first paragraph.
 - \[1\] - [ Drowsy Driving ](https://www.nhtsa.gov/risky-driving/drowsy-driving)
 - \[2\] - [This Is the Best Temperature for Sleeping, According to Experts](https://www.health.com/condition/sleep/best-temperature-for-sleeping)
 
-### Info
-
-Title: [Why We Sleep: The New Science of Sleep and Dreams](https://en.wikipedia.org/wiki/Why_We_Sleep) \
-Author: [Matthew Walker](https://en.wikipedia.org/wiki/Matthew_Walker_(scientist))\
-ISBN10: 0141983760\
-ISBN13: 9780141983769

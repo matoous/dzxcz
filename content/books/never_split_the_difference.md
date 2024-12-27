@@ -1,10 +1,18 @@
 ---
-title: "Never Split the Difference"
+author: Christopher Voss
+author_url: https://en.wikipedia.org/wiki/Christopher_Voss
+book_title: 'Never Split the Difference: Negotiating As If Your Life Depended On It'
+book_url: https://en.wikipedia.org/wiki/Enlightenment_Now
 date: 2020-03-02
-slug: never_split_the_difference
 draft: false
-author: "Christopher Voss"
-tags: ["life", "communication", "reading"]
+isbn10: 0062407805
+isbn13: '9780062407801'
+slug: never_split_the_difference
+tags:
+- life
+- communication
+- reading
+title: Never Split the Difference
 ---
 
 In _Never Split the Difference_ Chris Voss, the author, explains why most of what we have been thought
@@ -61,9 +69,3 @@ following links:
 
 Or print the [Summary Cheat Sheet](https://www.famvestor.com/wp-content/uploads/2019/01/NeverSplitTheDifference-Negotiating-Techniques.pdf).
 
-### Info
-
-Title: [Never Split the Difference: Negotiating As If Your Life Depended On It](https://en.wikipedia.org/wiki/Enlightenment_Now)\
-Author: [Christopher Voss](https://en.wikipedia.org/wiki/Christopher_Voss)\
-ISBN10: 0062407805\
-ISBN13: 9780062407801

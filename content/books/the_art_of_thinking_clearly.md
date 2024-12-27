@@ -1,10 +1,17 @@
 ---
-title: "The Art of Thinking Clearly"
+author: Rolf Dobelli
+author_url: https://en.wikipedia.org/wiki/Rolf_Dobelli
+book_title: The Art of Thinking Clearly
+book_url: https://en.wikipedia.org/wiki/The_Art_of_Thinking_Clearly
 date: 2022-11-28
-slug: "the_art_of_thinking_clearly"
 draft: false
-author: "Rolf Dobelli"
-tags: ["life", "reading"]
+isbn10: 0062219693
+isbn13: '9780062219695'
+slug: the_art_of_thinking_clearly
+tags:
+- life
+- reading
+title: The Art of Thinking Clearly
 ---
 
 _The Art of Thinking Clearly_ is a book that provides practical tips for improving one's thinking and decision-making.
@@ -23,9 +30,3 @@ skills and avoid common mistakes in reasoning.
 
 _Thank you Ena._
 
-### Info
-
-Title: [The Art of Thinking Clearly](https://en.wikipedia.org/wiki/The_Art_of_Thinking_Clearly)\
-Author: [Rolf Dobelli](https://en.wikipedia.org/wiki/Rolf_Dobelli)\
-ISBN10: 0062219693\
-ISBN13: 9780062219695

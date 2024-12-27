@@ -1,10 +1,17 @@
 ---
-title: "Educated"
+author: Tara Westover
+author_url: https://en.wikipedia.org/wiki/Tara_Westover
+book_title: Educated
+book_url: https://en.wikipedia.org/wiki/Educated_(book)
 date: 2021-07-17
-slug: educated
 draft: false
-author: "Tara Westover"
-tags: ["memoir", "reading"]
+isbn10: 0399590501
+isbn13: '9780399590504'
+slug: educated
+tags:
+- memoir
+- reading
+title: Educated
 ---
 
 Tara was raised in a strict Mormon family, with bipolar father,
@@ -17,9 +24,3 @@ insane to be true. Heartwarming and heartbreaking at the same time.
 Memoir of how far can one get despite the odds and how much our
 family and childhood narrates our life.
 
-### Info
-
-Title: [Educated](https://en.wikipedia.org/wiki/Educated_(book)) \
-Author: [Tara Westover](https://en.wikipedia.org/wiki/Tara_Westover) \
-ISBN10: 0399590501 \
-ISBN13: 9780399590504

@@ -1,10 +1,18 @@
 ---
-title: "How to Do Nothing"
+author: Jenny Odell
+author_url: https://en.wikipedia.org/wiki/Jenny_Odell
+book_title: How to Do Nothing - Resisting the Attention Economy
+book_url: https://www.theguardian.com/lifeandstyle/2019/apr/02/jenny-odell-how-to-do-nothing-attention
 date: 2021-01-19
-slug: how_to_do_nothing
 draft: false
-author: "Jenny Odell"
-tags: ["philosophy", "life", "reading"]
+isbn10: '1612197493'
+isbn13: '9781612197494'
+slug: how_to_do_nothing
+tags:
+- philosophy
+- life
+- reading
+title: How to Do Nothing
 ---
 
 Not really a guide to _Doing Nothing_ or _Resisting the Attention Economy_ as a matter of fact
@@ -21,11 +29,4 @@ There is really no summary to this book as it flows from one concept to another 
 hard-to-grasp diversions to art, birds and nature. Would I recommend the book? I don't know.
 It wasn't my cup of tea yet I somehow unintentionally finished the book and learned to like it
 on the way.
-
-### Info
-
-Title: [How to Do Nothing - _Resisting the Attention Economy_](https://www.theguardian.com/lifeandstyle/2019/apr/02/jenny-odell-how-to-do-nothing-attention)\
-Author: [Jenny Odell](https://en.wikipedia.org/wiki/Jenny_Odell)\
-ISBN10: 1612197493\
-ISBN13: 9781612197494
 

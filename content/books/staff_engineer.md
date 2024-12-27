@@ -1,10 +1,17 @@
 ---
-title: "Staff Engineer"
+author: Will Larson
+author_url: https://lethain.com/
+book_title: Staff Engineer
 date: 2023-02-11
-slug: staff_engineer
 draft: false
-author: "Will Larson"
-tags: ["engineering", "work", "reading"]
+isbn10: '1736417916'
+isbn13: '9781736417911'
+slug: staff_engineer
+tags:
+- engineering
+- work
+- reading
+title: Staff Engineer
 ---
 
 [Staff Engineer](https://staffeng.com/) is a concise look at leadership beyond the management track.
@@ -87,13 +94,6 @@ what I would expect from engineers on any other level or even just decent human 
   - complication: why is the current situation _bad_
   - question: what is the core question to answer?
   - answer: what is your best solution/answer to the posed question?
-
-### Info
-
-Title: Staff Engineer: Leadership beyond the management track\
-Author: [Will Larson](https://lethain.com/)\
-ISBN10: 1736417916\
-ISBN13: 9781736417911
 
 [^1]: https://larahogan.me/blog/what-sponsorship-looks-like/
 [^2]: https://noidea.dog/glue

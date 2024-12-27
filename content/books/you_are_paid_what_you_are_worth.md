@@ -1,16 +1,15 @@
 ---
-title: "You're Paid What You're Worth"
-date: 2024-03-13
-slug: you_are_paid_what_you_are_worth
-draft: true
 author: Jake Rosenfeld
-tags: ["economics", "reading", "life"]
+date: 2024-03-13
+draft: true
+isbn10: ''
+isbn13: '9780674916593'
+slug: you_are_paid_what_you_are_worth
+tags:
+- economics
+- reading
+- life
+title: You're Paid What You're Worth
 ---
 
-
-### Info
-
-Title: [You're Paid What You're Worth: And Other Myths of the Modern Economy]()\
-Author: [Jake Rosenfeld]()\
-ISBN10: \
-ISNB13:
+TODO

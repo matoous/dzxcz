@@ -1,10 +1,17 @@
 ---
-title: "Death's End"
+author: Cixin Liu
+author_url: https://en.wikipedia.org/wiki/Liu_Cixin
+book_title: Death's End
+book_url: https://en.wikipedia.org/wiki/Death%27s_End
 date: 2024-04-05
-slug: deaths_end
 draft: false
-author: "Cixin Liu"
-tags: ["sci-fi", "reading"]
+isbn10: '0765377101'
+isbn13: '9780765377104'
+slug: deaths_end
+tags:
+- sci-fi
+- reading
+title: Death's End
 ---
 
 _Death's End_ is the last chapter in the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) trilogy by Cixin Liu. I read the first book [The Three-Body Problem](({{< ref "/books/the_three-body_problem" >}})) back in 2021. Returned to the series in 2023 with [The Dark Forest](({{< ref "/books/the_dark_forest" >}})) and finally decided to read the last book in series after the Netflix adaptation came out.
@@ -13,9 +20,3 @@ I was putting _Death's End_ aside for a long time. The book sat at my office tab
 
 Parts of _Death's End_ I have spoiled for myself reading more about the trilogy on the internet. Yet, it enticed me in a way that I finished to book in 2 days. _Death's End_ brings the story to even grander scale picking up where _The Dark Forest_ left. As with the previous books, it is a capitative read evoking unease from beginning till the end. Now it's time to wait for how will the [Netflix adaptation](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series)) wrestle with the enormous scale of the book.
 
-### Info
-
-Title: [Death's End](https://en.wikipedia.org/wiki/Death%27s_End)\
-Author: [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)\
-ISBN10: 0765377101\
-ISBN13:	9780765377104

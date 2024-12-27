@@ -1,10 +1,18 @@
 ---
-title: "Not the End of the World"
+author: Hannah Ritchie
+author_url: https://en.wikipedia.org/wiki/Hannah_Ritchie
+book_title: 'Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet'
 date: 2024-12-01
-slug: "not_the_end_of_the_world"
 draft: false
-author: "Hannah Ritchie"
-tags: ["environment", "life", "reading"]
+isbn10: 031653675X
+isbn13: '9781784745004'
+slug: not_the_end_of_the_world
+tags:
+- environment
+- life
+- reading
+- sci-fi
+title: Not the End of the World
 ---
 
 Hannah Ritchie works at [Our World in Data](https://ourworldindata.org/) that compiles and publishes datasets on large global problems such as poverty, climate change, diseases, war, or inequality so it shouldn't come as a surprise that her book _Not the End of the World_ is based in numbers and science. The book is thoughtful and concise journey through 7 major environmental problems - air pollution, climate change, deforestation, food, biodiversity loss, ocean plastics, and overfishing; each chapter explaining current state, how we got there, and what can we do to ensure a sustainable future.
@@ -21,9 +29,3 @@ The optimism in _Not the End of the World_ in infectious and reminds me of [Enli
 
 If you find these topics interesting _Our World in Data_ has a daily data insight and biweekly digest newsletter that you can subscribe to on [ourworldindata.org](https://ourworldindata.org/). Alternatively, both can be accessed as an RSS feed.
 
-### Info
-
-Title: [Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)\
-Author: [Hannah Ritchie](https://en.wikipedia.org/wiki/Hannah_Ritchie)\
-ISBN10: 031653675X\
-ISBN13: 9781784745004

@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="book">
+<article>
   <header>
     <h1>{{ .Title }}</h1>
     <div class="author">
@@ -16,5 +16,33 @@
     </div>
   </header>
   {{ .Content }}
+  <div class="book-info">
+    <div class="book-title">
+      <div class="field-name">Book</div>
+      <div>
+        {{ if .Params.book_url }}
+        <a href="{{ .Params.book_url }}">{{ .Params.book_title }}</a>
+        {{ else }}
+        {{ .Params.book_title }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="book-author">
+      <div class="field-name">Author</div>
+      <div>
+        {{ if .Params.author_url }}
+        <a href="{{ .Params.author_url }}">{{ .Params.author }}</a>
+        {{ else }}
+        {{ .Params.author }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="book-isbn">
+      <div class="field-name">ISBN</div>
+      <div>
+        <a href="https://www.goodreads.com/search?q={{ .Params.isbn13 }}&search_type=books">{{ .Params.isbn13 }}</a>
+      </div>
+    </div>
+  </div>
 </article>
 {{ end }}
