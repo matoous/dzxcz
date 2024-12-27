@@ -148,7 +148,7 @@ code {
 
 footer {
   margin-top: 4em;
-  font-size: 0.875em;
+  font-size: 0.750rem;
   color: var(--light);
   grid-area: footer;
   padding: 1.6em;
@@ -301,7 +301,6 @@ article {
 
   .author {
     color: var(--light);
-    font-size: 1.1em;
   }
 
   .meta {
@@ -586,34 +585,15 @@ sup a {
 }
 
 .book-info {
-  align-items: stretch;
-  display: grid;
-  grid-template:
-    "title title"
-    "author isbn";
-  grid-template-columns: 1fr 1fr;
   margin-top: 4em;
   font-size: .75rem;
-  text-align: center;
-  place-items: center;
   row-gap: 1rem;
   column-gap: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
 }
 
 .field-name {
   font-weight: bold;
-}
-
-.book-title {
-  grid-area: title;
-}
-
-.book-author {
-  grid-area: author;
-  justify-self: end;
-}
-
-.book-isbn {
-  grid-area: isbn;
-  justify-self: start;
 }

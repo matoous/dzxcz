@@ -18,4 +18,4 @@ build: clean ## Build the website
 
 .PHONY: lint
 lint: build ## Lint the website
-	lychee ./public/ --base 'https://dzx.cz' --remap 'dzx.com ./public' --exclude 'linkedin.com' --require-https
+	lychee ./public/ --base 'https://dzx.cz' --remap 'dzx.com ./public' --require-https
