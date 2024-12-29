@@ -8,7 +8,9 @@ draft: false
 isbn13: '9781250107817'
 slug: factfulness
 tags:
-- life
+- science
+- psychology
+- economics
 - reading
 title: Factfulness
 ---

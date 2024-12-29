@@ -10,6 +10,7 @@ isbn13: '9780062334510'
 slug: seveneves
 tags:
 - sci-fi
+- fiction
 - reading
 title: Seveneves
 ---

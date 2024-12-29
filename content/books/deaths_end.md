@@ -10,6 +10,7 @@ isbn13: '9780765377104'
 slug: deaths_end
 tags:
 - sci-fi
+- fiction
 - reading
 title: Death's End
 ---
