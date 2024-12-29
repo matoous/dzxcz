@@ -10,6 +10,7 @@ isbn13: '9781497644892'
 slug: capital
 tags:
 - economics
+- politics
 - reading
 title: Capital in the Twenty-First Century
 ---
