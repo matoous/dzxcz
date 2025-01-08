@@ -20,10 +20,14 @@ I got nerd sniped learning more about aviation. After reading the _Hard Landing_
 
 The other deep dive this month was toying with [Bevy](https://bevyengine.org) and learning more about game development. The highlight of which is [Rendering Tiny Glades With Entirely Too Much Ray Marching](https://youtu.be/jusWW2pPnA0?si=Q3DBdH62XvVW8tgf) talk by [Tomasz Stachowiak](https://github.com/h3r2tic), one of the people behind [Tiny Glade](https://en.wikipedia.org/wiki/Tiny_Glade).
 
-Last but not least, Decembed is the time of the [Chaos Computer Club](https://media.ccc.de). I am still catching up with the most interesting talks, one that I finished though and enjoyed in particular is [Self Models of Loving Grace](https://media.ccc.de/v/38c3-self-models-of-loving-grace) by [Joscha Bach](https://en.wikipedia.org/wiki/Joscha_Bach).
+Last but not least, December is the time of the [Chaos Computer Club](https://media.ccc.de). I am still catching up with the most interesting talks, one that I finished though and enjoyed in particular is [Self Models of Loving Grace](https://media.ccc.de/v/38c3-self-models-of-loving-grace) by [Joscha Bach](https://en.wikipedia.org/wiki/Joscha_Bach).
 
 <iframe width="780" height="440" src="https://media.ccc.de/v/38c3-self-models-of-loving-grace/oembed" frameborder="0" allowfullscreen></iframe>
+
+And there's more fun stuff too such as [We've not been trained for this: life after the Newag DRM disclosure](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure), [Hacking yourself a satellite - recovering BEESAT-1](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1), or [From Pegasus to Predator - The evolution of Commercial Spyware on iOS](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios).
 
 ## Listening
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VPBc1316Tro?si=gVvnbbv7grFz7jYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Liquicity Year Mix is going on since [2012](https://youtu.be/HW-heSo9580?si=ubUOAa2K2hcKDZJM).

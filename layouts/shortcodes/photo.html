@@ -1,0 +1,14 @@
+{{ with .Get "alt" }}
+{{ else }}
+{{ errorf "missing attribute 'alt': %s" .Position }}
+{{ end }}
+
+<figure>
+  <picture>
+    <source srcset="https://photos.dzx.cz/{{ .Get "id" }}_1024.webp" type="image/webp">
+    <img alt="" loading="lazy" src="https://photos.dzx.cz/{{ .Get "id" }}_1024.jpg" loading="lazy">
+  </picture>
+  <figcaption>
+    {{ with .Get "caption" }}{{.}}{{ end }}
+  </figcaption>
+</figure>
