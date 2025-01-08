@@ -94,6 +94,8 @@ fn main() {
                 }
             }
         }
+    } else {
+        files.push(args.dir);
     }
 
     files.sort_by_key(|file| {
