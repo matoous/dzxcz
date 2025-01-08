@@ -2,9 +2,13 @@
 title: "November"
 date: 2024-12-01
 slug: november_2024
-draft: true
+draft: false
 tags: ["journal","writing"]
 ---
+
+I am back from my 40 day sabbatical in New Zealand. In [Some notes on New Zealand]({{< ref "/posts/notes_on_new_zealand" >}}) I wrote about a few random things that stood out to me but the best story if New Zealand is told by [photos](https://dzx.cz/photos/). It's a magnificent country with wonderful people, I wouldn't mind living there weren't it so far from pretty much everything.
+
+{{< photo id="nz_0021" alt="Forest path, a section of the Kepler Track in New Zealand." caption="Kepler Track, New Zealand" >}}
 
 ## Reading
 
@@ -14,7 +18,7 @@ The [2024 United States presidential election](https://en.wikipedia.org/wiki/202
 
 Observing, even from the safe haven of Europe, one can't help but feel sad about the lost values, progress thrown away, and the degradation of baseline of what strong leaders should be. David Brooks's [_The Road to Character_]({{< ref "/books/the_road_to_character" >}}) talks about selfless heroes in our history and I wish USA gets back to having their president worth the list.
 
-(wip) [The ultra-selfish gene](https://www.worksinprogress.news/p/the-ultra-selfish-gene) by Mathias Kirk Bonde in the [Work in Progress](https://www.worksinprogress.news) news.
+[The ultra-selfish gene](https://www.worksinprogress.news/p/the-ultra-selfish-gene) by Mathias Kirk Bonde in the [Work in Progress](https://www.worksinprogress.news) news reminded me of [The Gene]({{< ref "/books/the_gene" >}}) for which I still didn't finish a write up.
 
 ## Listening
 
@@ -24,6 +28,6 @@ Observing, even from the safe haven of Europe, one can't help but feel sad about
 
 ## Watching
 
-The 8th longest flight in the world from Auckland to Dubai provides just enough time (17 hours and 25 minutes to be exact) to rewatch the [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)) trilogy in extended edition. Unfortunatelly, Emirate's onboard entertainment had only the theatrical release which had to do. Next month I am flying to Brazil (12 hours to São Paulo) which leaves me with the only other thing on _worth re-watching_ list - [Band of Brothers](https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)).
+The 8th longest flight in the world from Auckland to Dubai provides just enough time (17 hours and 25 minutes to be exact) to rewatch the [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)) trilogy in extended edition. Unfortunately, Emirate's onboard entertainment had only the theatrical release which had to do. Next month I am flying to Brazil (12 hours to São Paulo) which leaves me with the only other thing on _worth re-watching_ list - [Band of Brothers](https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)).
 
 [^scuba]: For further reading, [Scuba: Diving into Data at Facebook](https://research.facebook.com/publications/scuba-diving-into-data-at-facebook/) is a longer technical dive into the observability infrastructure at Meta.
