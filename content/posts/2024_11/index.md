@@ -6,7 +6,7 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-I am back from my 40 day sabbatical in New Zealand. In [Some notes on New Zealand]({{< ref "/posts/notes_on_new_zealand" >}}) I wrote about a few random things that stood out to me but the best story if New Zealand is told by [photos](https://dzx.cz/photos/). It's a magnificent country with wonderful people, I wouldn't mind living there weren't it so far from pretty much everything.
+I am back from my 40 day sabbatical in New Zealand. In [Some notes on New Zealand]({{< ref "/posts/notes_on_new_zealand" >}}) I wrote about a few random things that stood out to me but the best story of New Zealand is told by [photos](https://dzx.cz/photos/). It's a magnificent country with wonderful people, I wouldn't mind living there weren't it so far from pretty much everything.
 
 {{< photo id="nz_0021" alt="Forest path, a section of the Kepler Track in New Zealand." caption="Kepler Track, New Zealand" >}}
 
