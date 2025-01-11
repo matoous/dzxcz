@@ -8,8 +8,7 @@
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     <li>
-      <a class="{{if (eq $currentPage.RelPermalink .URL) }}active{{end}}" href="{{ .URL | absLangURL }}"
-        title="{{ .Title }}">
+      <a class="{{if eq $currentPage.RelPermalink .URL }}active{{end}}{{if hasPrefix .URL "https" }}external{{end}}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">
         {{ .Name }}
       </a>
     </li>
