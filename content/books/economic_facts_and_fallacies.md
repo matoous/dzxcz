@@ -1,6 +1,4 @@
 ---
-author: Thomas Sowell
-author_url: https://en.wikipedia.org/wiki/Thomas_Sowell
 book_title: Economic Facts and Fallacies
 date: 2020-02-29
 draft: false
@@ -11,7 +9,11 @@ tags:
 - economics
 - reading
 title: Economic Facts and Fallacies
+authors:
+- name: Thomas Sowell
+  url: https://en.wikipedia.org/wiki/Thomas_Sowell
 ---
+
 
 Economic Facts and Fallacies is the second book by Thomas Sowell I have read, and I am again left in awe.
 The book repeats many themes already touched in [Basic Economics]({{< ref "/books/basic_economics" >}}) but explains them more in-depth.

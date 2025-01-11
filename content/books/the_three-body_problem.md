@@ -1,6 +1,4 @@
 ---
-author: Cixin Liu
-author_url: https://en.wikipedia.org/wiki/Liu_Cixin
 book_title: The Three-Body Problem
 book_url: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 date: 2021-01-23
@@ -12,7 +10,11 @@ tags:
 - sci-fi
 - reading
 title: The Three-Body Problem
+authors:
+- name: Cixin Liu
+  url: https://en.wikipedia.org/wiki/Liu_Cixin
 ---
+
 
 The Three-Body Problem hit the right spot for me and placed itself on the list
 of _finished in a day or so_ books. I attribute that mostly to the book being more

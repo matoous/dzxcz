@@ -1,6 +1,4 @@
 ---
-author: Jeff Hawkins
-author_url: https://en.wikipedia.org/wiki/Jeff_Hawkins
 book_url: https://www.goodreads.com/book/show/54503521-a-thousand-brains
 date: 2025-01-01
 draft: true
@@ -12,6 +10,10 @@ tags:
 - philosophy
 - reading
 title: A Thousand Brains
+authors:
+- name: Jeff Hawkins
+  url: https://en.wikipedia.org/wiki/Jeff_Hawkins
 ---
+
 
 TODO

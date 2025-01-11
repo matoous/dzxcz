@@ -1,6 +1,4 @@
 ---
-author: Dale Carnegie
-author_url: https://en.wikipedia.org/wiki/Dale_Carnegie
 book_title: How to Win Friends and Influence People
 book_url: https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People
 date: 2022-02-03
@@ -12,7 +10,11 @@ tags:
 - life
 - reading
 title: How to Win Friends and Influence People
+authors:
+- name: Dale Carnegie
+  url: https://en.wikipedia.org/wiki/Dale_Carnegie
 ---
+
 
 
 _How to Win Friends and Influence People_ is book about things that we all know deep down there

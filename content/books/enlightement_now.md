@@ -1,6 +1,4 @@
 ---
-author: Steven Pinker
-author_url: https://en.wikipedia.org/wiki/Steven_Pinker
 book_title: 'Enlightenment Now: The Case for Reason, Science, Humanism, and Progress'
 book_url: https://en.wikipedia.org/wiki/Enlightenment_Now
 date: 2020-01-02
@@ -13,7 +11,11 @@ tags:
 - life
 - reading
 title: Enlightenment Now
+authors:
+- name: Steven Pinker
+  url: https://en.wikipedia.org/wiki/Steven_Pinker
 ---
+
 
 In 15 extensive chapters Steven Pinker makes a case for reason, science and humanism.
 Each chapter describes a measure of civilization well-being, be it life expectancy,

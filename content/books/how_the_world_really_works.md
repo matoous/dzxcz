@@ -1,7 +1,6 @@
 ---
-author: Vaclav Smil
-author_url: https://en.wikipedia.org/wiki/Vaclav_Smi
-book_title: 'How the World Really Works: The Science Behind How We Got Here and Where We''re Going'
+book_title: 'How the World Really Works: The Science Behind How We Got Here and Where
+  We''re Going'
 date: 2023-05-18
 draft: false
 isbn10: 0593297067
@@ -11,7 +10,11 @@ tags:
 - science
 - reading
 title: How the World Really Works
+authors:
+- name: Vaclav Smil
+  url: https://en.wikipedia.org/wiki/Vaclav_Smi
 ---
+
 
 > A realistic grasp of our past, present, and uncertain future is the best foundation for approaching the unknowable expanse of time before us. While we cannot be specific, we know that the most likely prospect is a mixture of progress and setbacks, of seemingly insurmountable difficulties and near-miraculous advances. The future, as ever, is not predetermied. Its outcome depends on our actions.
 

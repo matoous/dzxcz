@@ -1,5 +1,4 @@
 ---
-author: Reed Hastings, Erin Meyer
 book_title: 'No Rules Rules: Netflix and the Culture of Reinvention'
 date: 2023-02-19
 draft: false
@@ -12,7 +11,11 @@ tags:
 - engineering
 - reading
 title: No Rules Rules
+authors:
+- name: Reed Hastings, Erin Meyer
+  url: null
 ---
+
 
 ## Notes
 

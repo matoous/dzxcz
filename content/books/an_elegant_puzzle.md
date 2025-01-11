@@ -1,6 +1,4 @@
 ---
-author: Will Larson
-author_url: https://lethain.com/
 book_title: 'An Elegant Puzzle: Systems of Engineering Management'
 book_url: https://lethain.com/elegant-puzzle/
 date: 2025-01-01
@@ -14,5 +12,9 @@ tags:
 - leadership
 - reading
 title: An Elegant Puzzle
+authors:
+- name: Will Larson
+  url: https://lethain.com/
 ---
+
 

@@ -1,6 +1,4 @@
 ---
-author: Douglas Adams
-author_url: https://en.wikipedia.org/wiki/Douglas_Adams
 book_title: The Hitchhiker's Guide to the Galaxy
 book_url: https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
 date: 2020-11-27
@@ -14,7 +12,11 @@ tags:
 - fiction
 - reading
 title: The Hitchhiker's Guide to the Galaxy
+authors:
+- name: Douglas Adams
+  url: https://en.wikipedia.org/wiki/Douglas_Adams
 ---
+
 
 
 I am pretty late to the party with this book but as the saying goes; _Better late, than never_.

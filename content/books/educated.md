@@ -1,6 +1,4 @@
 ---
-author: Tara Westover
-author_url: https://en.wikipedia.org/wiki/Tara_Westover
 book_title: Educated
 book_url: https://en.wikipedia.org/wiki/Educated_(book)
 date: 2021-07-17
@@ -12,7 +10,11 @@ tags:
 - memoir
 - reading
 title: Educated
+authors:
+- name: Tara Westover
+  url: https://en.wikipedia.org/wiki/Tara_Westover
 ---
+
 
 Tara was raised in a strict Mormon family, with bipolar father,
 sociopathic brother, and mother that turned her back on anything that

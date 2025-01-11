@@ -1,5 +1,4 @@
 ---
-author: Peter D. Kaufman
 book_title: Poor Charlie's Almanack
 book_url: https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack
 date: 2024-05-11
@@ -11,6 +10,10 @@ tags:
 - economics
 - reading
 title: Poor Charlie's Almanack
+authors:
+- name: Peter D. Kaufman
+  url: null
 ---
+
 
 TODO

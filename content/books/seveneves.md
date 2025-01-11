@@ -1,6 +1,4 @@
 ---
-author: Neal Stephenson
-author_url: https://en.wikipedia.org/wiki/Neal_Stephenson
 book_title: Seveneves
 book_url: https://en.wikipedia.org/wiki/Seveneves
 date: 2024-12-29
@@ -13,7 +11,11 @@ tags:
 - fiction
 - reading
 title: Seveneves
+authors:
+- name: Neal Stephenson
+  url: https://en.wikipedia.org/wiki/Neal_Stephenson
 ---
+
 
 Seveneves is an incredibly rich and thrilling speculative fiction by Neal Stephenson. It's 860 pages long but stays captivating through out, only easing towards the last chapter that could be a standalone novel on its own.
 

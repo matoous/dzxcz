@@ -1,7 +1,6 @@
 ---
-author: Hannah Ritchie
-author_url: https://en.wikipedia.org/wiki/Hannah_Ritchie
-book_title: 'Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet'
+book_title: 'Not the End of the World: How We Can Be the First Generation to Build
+  a Sustainable Planet'
 date: 2024-12-01
 draft: false
 isbn10: 031653675X
@@ -13,7 +12,11 @@ tags:
 - reading
 - sci-fi
 title: Not the End of the World
+authors:
+- name: Hannah Ritchie
+  url: https://en.wikipedia.org/wiki/Hannah_Ritchie
 ---
+
 
 Hannah Ritchie works at [Our World in Data](https://ourworldindata.org/) that compiles and publishes datasets on large global problems such as poverty, climate change, diseases, war, or inequality so it shouldn't come as a surprise that her book _Not the End of the World_ is based in numbers and science. The book is thoughtful and concise journey through 7 major environmental problems - air pollution, climate change, deforestation, food, biodiversity loss, ocean plastics, and overfishing; each chapter explaining current state, how we got there, and what can we do to ensure a sustainable future.
 

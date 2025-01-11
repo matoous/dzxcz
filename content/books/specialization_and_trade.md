@@ -1,6 +1,4 @@
 ---
-author: Arnold Kling
-author_url: https://en.wikipedia.org/wiki/Arnold_Kling
 date: 2020-06-19
 draft: true
 isbn10: 0143127799
@@ -10,6 +8,10 @@ tags:
 - economics
 - reading
 title: Specialization and Trade
+authors:
+- name: Arnold Kling
+  url: https://en.wikipedia.org/wiki/Arnold_Kling
 ---
+
 
 TODO

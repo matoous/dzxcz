@@ -1,6 +1,4 @@
 ---
-author: Cixin Liu
-author_url: https://en.wikipedia.org/wiki/Liu_Cixin
 book_title: Death's End
 book_url: https://en.wikipedia.org/wiki/Death%27s_End
 date: 2024-04-05
@@ -13,7 +11,11 @@ tags:
 - fiction
 - reading
 title: Death's End
+authors:
+- name: Cixin Liu
+  url: https://en.wikipedia.org/wiki/Liu_Cixin
 ---
+
 
 _Death's End_ is the last chapter in the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) trilogy by Cixin Liu. I read the first book [The Three-Body Problem](({{< ref "/books/the_three-body_problem" >}})) back in 2021. Returned to the series in 2023 with [The Dark Forest](({{< ref "/books/the_dark_forest" >}})) and finally decided to read the last book in series after the Netflix adaptation came out.
 

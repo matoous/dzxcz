@@ -1,6 +1,4 @@
 ---
-author: Steven D. Levitt
-author_url: https://en.wikipedia.org/wiki/Steven_Levitt
 book_title: 'Freakonomics: A Rogue Economist Exploresjthe Hidden Side of Everything'
 book_url: https://en.wikipedia.org/wiki/Freakonomics
 date: 2021-11-24
@@ -12,6 +10,10 @@ tags:
 - economics
 - reading
 title: Freakonomics
+authors:
+- name: Steven D. Levitt
+  url: https://en.wikipedia.org/wiki/Steven_Levitt
 ---
+
 
 TODO

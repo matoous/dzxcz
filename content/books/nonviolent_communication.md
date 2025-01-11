@@ -1,6 +1,4 @@
 ---
-author: Marshall B. Rosenberg
-author_url: https://en.wikipedia.org/wiki/Marshall_Rosenberg
 book_title: 'Nonviolent Communication: A Language of Life: Life-Changing Tools for
   Healthy Relationships'
 book_url: https://en.wikipedia.org/wiki/Nonviolent_Communication
@@ -14,7 +12,11 @@ tags:
 - communication
 - reading
 title: Nonviolent Communication
+authors:
+- name: Marshall B. Rosenberg
+  url: https://en.wikipedia.org/wiki/Marshall_Rosenberg
 ---
+
 
 Nonviolent Communication by Marshall B. Rosenberg is an essential book on for anyone hoping to make
 life easier and more enjoyable for himself and people around. The book is plentiful in examples

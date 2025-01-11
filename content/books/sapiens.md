@@ -1,6 +1,4 @@
 ---
-author: Yuval Noah Harari
-author_url: https://en.wikipedia.org/wiki/Yuval_Noah_Harari
 book_title: 'Sapiens: A Brief History of Humankind'
 book_url: https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind
 date: 2020-11-03
@@ -13,7 +11,11 @@ tags:
 - science
 - reading
 title: 'Sapiens: A Brief History of Humankind'
+authors:
+- name: Yuval Noah Harari
+  url: https://en.wikipedia.org/wiki/Yuval_Noah_Harari
 ---
+
 
 Modern society is shaped by [capitalism](https://en.wikipedia.org/wiki/Capitalism) and
 [consumerism](https://en.wikipedia.org/wiki/Consumerism). Expensive fashion, travel and social

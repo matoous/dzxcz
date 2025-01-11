@@ -1,6 +1,4 @@
 ---
-author: Christopher Voss
-author_url: https://en.wikipedia.org/wiki/Christopher_Voss
 book_title: 'Never Split the Difference: Negotiating As If Your Life Depended On It'
 book_url: https://en.wikipedia.org/wiki/Enlightenment_Now
 date: 2020-03-02
@@ -13,7 +11,11 @@ tags:
 - communication
 - reading
 title: Never Split the Difference
+authors:
+- name: Christopher Voss
+  url: https://en.wikipedia.org/wiki/Christopher_Voss
 ---
+
 
 In _Never Split the Difference_ Chris Voss, the author, explains why most of what we have been thought
 about negotiation is wrong and that concepts such as fairness and rational decisions do not exist.

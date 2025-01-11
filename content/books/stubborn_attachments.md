@@ -1,7 +1,6 @@
 ---
-author: Tyler Cowen
-author_url: https://en.wikipedia.org/wiki/Tyler_Cowen
-book_title: 'Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals'
+book_title: 'Stubborn Attachments: A Vision for a Society of Free, Prosperous, and
+  Responsible Individuals'
 book_url: https://press.stripe.com/stubborn-attachments
 date: 2024-03-29
 draft: false
@@ -14,6 +13,10 @@ tags:
 - life
 title: 'Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible
   Individuals'
+authors:
+- name: Tyler Cowen
+  url: https://en.wikipedia.org/wiki/Tyler_Cowen
 ---
+
 
 TODO

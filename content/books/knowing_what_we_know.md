@@ -1,7 +1,6 @@
 ---
-author: Simon Winchester
-author_url: https://en.wikipedia.org/wiki/Simon_Winchester
-book_title: 'Knowing What We Know: The Transmission of Knowledge: From Ancient Wisdom to Modern Magic'
+book_title: 'Knowing What We Know: The Transmission of Knowledge: From Ancient Wisdom
+  to Modern Magic'
 date: 2024-11-01
 draft: false
 isbn10: 0008484406
@@ -10,7 +9,11 @@ slug: knowing_what_we_know
 tags:
 - reading
 title: Knowing What We Know
+authors:
+- name: Simon Winchester
+  url: https://en.wikipedia.org/wiki/Simon_Winchester
 ---
+
 
 Simon Winchester's _Knowing What We Know_ takes you through history of _knowledge_ from ancient clay tablets through the adoption of GPS to inception of Wikipedia. It's a thorough examination of how we acquire, pass, and retain knowledge and how has this changed through human history.
 
