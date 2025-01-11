@@ -73,14 +73,14 @@ menu:
     title: Etc.
     url: /etc/
     weight: 7
-  - identifier: wiki
-    name: Wiki
-    url: https://wiki.dzx.cz
-    weight: 8
   - identifier: photos
     name: Photos
     title: Photos
     url: /photos/
+    weight: 8
+  - identifier: wiki
+    name: Wiki
+    url: https://wiki.dzx.cz
     weight: 9
 
 params:

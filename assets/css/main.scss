@@ -234,6 +234,13 @@ nav {
           content: '←';
         }
       }
+
+      &.external {
+
+        &::after {
+          content: '↗';
+        }
+      }
     }
   }
 
