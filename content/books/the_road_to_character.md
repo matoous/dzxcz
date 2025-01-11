@@ -1,6 +1,4 @@
 ---
-author: David Brooks
-author_url: https://en.wikipedia.org/wiki/David_Brooks_(commentator)
 book_title: The Road to Character
 book_url: https://en.wikipedia.org/wiki/The_Road_to_Character
 date: 2023-04-05
@@ -13,7 +11,11 @@ tags:
 - philosophy
 - reading
 title: The Road to Character
+authors:
+- name: David Brooks
+  url: https://en.wikipedia.org/wiki/David_Brooks_(commentator)
 ---
+
 
 ## Notes
 

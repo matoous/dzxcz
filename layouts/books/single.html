@@ -3,7 +3,10 @@
   <header>
     <h1>{{ .Title }}</h1>
     <div class="author">
-      by {{ .Params.Author }}
+      by {{ range $index, $tag := .Params.authors }}
+      {{- if $index }}, {{ end }}
+      {{- .name }}
+      {{- end }}
     </div>
     <div class="meta">
       <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
@@ -30,11 +33,14 @@
     <div class="book-author">
       <div class="field-name">Author</div>
       <div>
-        {{ if .Params.author_url }}
-        <a href="{{ .Params.author_url }}">{{ .Params.author }}</a>
-        {{ else }}
-        {{ .Params.author }}
-        {{ end }}
+        {{- range $index, $tag := .Params.authors }}
+        {{- if $index }}, {{ end }}
+        {{- if .url }}
+        <a href="{{ .url }}">{{ .name }}</a>
+        {{- else }}
+        {{- .name }}
+        {{- end }}
+        {{- end }}
       </div>
     </div>
     <div class="book-isbn">

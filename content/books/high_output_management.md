@@ -1,6 +1,4 @@
 ---
-author: Andrew S. Grove
-author_url: https://en.wikipedia.org/wiki/Andrew_Grove
 book_title: High Output Management
 date: 2023-02-24
 draft: false
@@ -11,7 +9,11 @@ tags:
 - work
 - reading
 title: High Output Management
+authors:
+- name: Andrew S. Grove
+  url: https://en.wikipedia.org/wiki/Andrew_Grove
 ---
+
 
 ## Notes
 

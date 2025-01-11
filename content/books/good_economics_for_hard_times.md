@@ -1,6 +1,4 @@
 ---
-author: Abhijit V. Banerjee, Esther Duflo
-author_url: https://en.wikipedia.org/wiki/Abhijit_Banerjee
 date: 2022-05-01
 draft: false
 isbn10: '1610399501'
@@ -10,7 +8,11 @@ tags:
 - economics
 - reading
 title: Good Economics for Hard Times
+authors:
+- name: Abhijit V. Banerjee, Esther Duflo
+  url: https://en.wikipedia.org/wiki/Abhijit_Banerjee
 ---
+
 
 Abhijit Banerjee and Esther Duflo are masters of their subject.
 In _Good Economics for Hard Times_ they examine the most pressing issues

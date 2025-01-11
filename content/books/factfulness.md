@@ -1,7 +1,6 @@
 ---
-author: Hans Rosling
-author_url: https://en.wikipedia.org/wiki/Hans_Rosling
-book_title: 'Factfulness: Ten Reasons We''re Wrong About the World – and Why Things Are Better Than You Think'
+book_title: "Factfulness: Ten Reasons We're Wrong About the World \u2013 and Why Things\
+  \ Are Better Than You Think"
 book_url: https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think
 date: 2020-01-03
 draft: false
@@ -13,7 +12,11 @@ tags:
 - economics
 - reading
 title: Factfulness
+authors:
+- name: Hans Rosling
+  url: https://en.wikipedia.org/wiki/Hans_Rosling
 ---
+
 
 ## Notes
 

@@ -1,6 +1,4 @@
 ---
-author: Thomas Piketty
-author_url: https://en.wikipedia.org/wiki/John_Brooks_(writer)
 book_title: Capital in the Twenty-First Century
 book_url: https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century
 date: 2020-11-04
@@ -13,7 +11,11 @@ tags:
 - politics
 - reading
 title: Capital in the Twenty-First Century
+authors:
+- name: Thomas Piketty
+  url: https://en.wikipedia.org/wiki/John_Brooks_(writer)
 ---
+
 
 ## Key Takeaways
 

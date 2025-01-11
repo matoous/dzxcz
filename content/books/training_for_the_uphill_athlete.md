@@ -1,6 +1,4 @@
 ---
-author: Steve House, Scott Johnston, Kilian Jornet
-author_url: https://en.wikipedia.org/wiki/Steve_House_(climber)
 book_title: 'Training for the Uphill Athlete: A Manual for Mountain Runners and Ski
   Mountaineers'
 book_url: https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century
@@ -13,7 +11,11 @@ tags:
 - sports
 - reading
 title: Training for the Uphill Athlete
+authors:
+- name: Steve House, Scott Johnston, Kilian Jornet
+  url: https://en.wikipedia.org/wiki/Steve_House_(climber)
 ---
+
 
 Training for the Uphill Athlete is book focusing on the endurance athlete physiology and training
 written by the biggest names in the field. First chapter breaks down the important scientific concepts behind sporting

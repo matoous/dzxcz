@@ -1,6 +1,4 @@
 ---
-author: Matthew Walker
-author_url: https://en.wikipedia.org/wiki/Matthew_Walker_(scientist)
 book_title: 'Why We Sleep: The New Science of Sleep and Dreams'
 book_url: https://en.wikipedia.org/wiki/Why_We_Sleep
 date: 2020-03-19
@@ -12,7 +10,11 @@ tags:
 - health
 - reading
 title: Why We Sleep
+authors:
+- name: Matthew Walker
+  url: https://en.wikipedia.org/wiki/Matthew_Walker_(scientist)
 ---
+
 
 In my first years of university, I often found myself doing homework up to the early morning hours
 and then sleeping a few hours and starting the new day as if nothing happened.

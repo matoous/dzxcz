@@ -1,6 +1,4 @@
 ---
-author: Nadia Eghbal
-author_url: https://en.wikipedia.org/wiki/Neal_Stephenson
 book_title: 'Working in Public: The Making and Maintenance of Open Source Software'
 date: 2025-01-01
 draft: true
@@ -11,6 +9,10 @@ tags:
 - programming
 - reading
 title: Working in Public
+authors:
+- name: Nadia Eghbal
+  url: https://en.wikipedia.org/wiki/Neal_Stephenson
 ---
+
 
 TODO

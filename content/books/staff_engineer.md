@@ -1,6 +1,4 @@
 ---
-author: Will Larson
-author_url: https://lethain.com/
 book_title: Staff Engineer
 date: 2023-02-11
 draft: false
@@ -12,7 +10,11 @@ tags:
 - work
 - reading
 title: Staff Engineer
+authors:
+- name: Will Larson
+  url: https://lethain.com/
 ---
+
 
 [Staff Engineer](https://staffeng.com/) is a concise look at leadership beyond the management track.
 The book was written by [Will Larson](https://lethain.com/) who worked at companies such as Stripe or Uber.

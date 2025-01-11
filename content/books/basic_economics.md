@@ -1,6 +1,4 @@
 ---
-author: Thomas Sowell
-author_url: https://en.wikipedia.org/wiki/Thomas_Sowell
 book_title: Basic Economics
 book_url: https://en.wikipedia.org/wiki/Basic_Economics
 date: 2020-02-22
@@ -12,7 +10,11 @@ tags:
 - economics
 - reading
 title: Basic Economics
+authors:
+- name: Thomas Sowell
+  url: https://en.wikipedia.org/wiki/Thomas_Sowell
 ---
+
 
 Basic Economics by Thomas Sowell, with its 650 pages, doesn't exactly seem like
 _basic_ even for someone with high quotient. But after all, I went through the

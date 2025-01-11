@@ -1,6 +1,4 @@
 ---
-author: Daniel Kahneman
-author_url: https://en.wikipedia.org/wiki/Daniel_Kahneman
 book_title: Thinking, Fast and Slow
 book_url: https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
 date: 2020-09-13
@@ -12,7 +10,11 @@ tags:
 - life
 - reading
 title: Thinking, Fast and Slow
+authors:
+- name: Daniel Kahneman
+  url: https://en.wikipedia.org/wiki/Daniel_Kahneman
 ---
+
 
 _Thinking, Fast and Slow_ is a book by _Daniel Kahneman_ that explores the ways in which the human mind processes
 information and makes decisions. The book is divided into two parts, each focusing on one _system_ of the human thinking.

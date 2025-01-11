@@ -1,6 +1,4 @@
 ---
-author: Simon Singh
-author_url: https://en.wikipedia.org/wiki/Simon_Singh
 book_title: The Code Book
 book_url: https://en.wikipedia.org/wiki/The_Code_Book
 date: 2025-01-01
@@ -12,6 +10,10 @@ tags:
 - cryptography
 - reading
 title: The Code Book
+authors:
+- name: Simon Singh
+  url: https://en.wikipedia.org/wiki/Simon_Singh
 ---
+
 
 TODO

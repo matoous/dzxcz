@@ -1,6 +1,4 @@
 ---
-author: Thomas Lin
-author_url: https://mitpress.mit.edu/author/thomas-lin-29988/
 book_title: Alice and Bob Meet the Wall of Fire
 book_url: https://mitpress.mit.edu/9780262536349/alice-and-bob-meet-the-wall-of-fire/
 date: 2023-12-16
@@ -13,7 +11,11 @@ tags:
 - physics
 - reading
 title: 'Alice and Bob Meet the Wall of Fire '
+authors:
+- name: Thomas Lin
+  url: https://mitpress.mit.edu/author/thomas-lin-29988/
 ---
+
 
 
 TODO

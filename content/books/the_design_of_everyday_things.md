@@ -1,6 +1,4 @@
 ---
-author: Don Norman
-author_url: https://en.wikipedia.org/wiki/Don_Norman
 book_title: The Design of Everyday Things
 book_url: https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things
 date: 2024-02-14
@@ -13,7 +11,11 @@ tags:
 - life
 - reading
 title: The Design of Everyday Things
+authors:
+- name: Don Norman
+  url: https://en.wikipedia.org/wiki/Don_Norman
 ---
+
 
 ## Notes
 

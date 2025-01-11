@@ -1,6 +1,4 @@
 ---
-author: Scott Adams
-author_url: https://en.wikipedia.org/wiki/Scott_Adams
 book_title: How To Fail at Almost Everything and Still Win Big
 book_url: https://en.wikipedia.org/wiki/How_To_Fail_at_Almost_Everything_and_Still_Win_Big
 date: 2020-01-20
@@ -12,6 +10,10 @@ tags:
 - entrepreneurship
 - reading
 title: How To Fail at Almost Everything And Still Win Big
+authors:
+- name: Scott Adams
+  url: https://en.wikipedia.org/wiki/Scott_Adams
 ---
+
 
 

@@ -1,6 +1,4 @@
 ---
-author: Kim Stanley Robinson
-author_url: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson
 book_title: The Ministry for the Future
 book_url: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 date: 2024-06-08
@@ -15,7 +13,11 @@ tags:
 - economics
 - reading
 title: The Ministry for the Future
+authors:
+- name: Kim Stanley Robinson
+  url: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson
 ---
+
 
 _The Ministry for the Future_ is a literal masterpiece, a speculative fiction taking a look at the next 30 years of planet Earth and our effects on it. Scary and sad in its positive outloook that seems every so less likely with where we heading.
 

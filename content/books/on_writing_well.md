@@ -1,6 +1,4 @@
 ---
-author: William Zinsser
-author_url: https://en.wikipedia.org/wiki/William_Zinsser
 book_title: On Writing Well
 date: 2023-06-23
 draft: false
@@ -12,7 +10,11 @@ tags:
 - writing
 - reading
 title: On Writing Well
+authors:
+- name: William Zinsser
+  url: https://en.wikipedia.org/wiki/William_Zinsser
 ---
+
 
 - Writing is strongest when it's simple and clear of clutter.
 - Make every sentence do useful work.

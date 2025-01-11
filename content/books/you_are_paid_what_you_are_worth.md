@@ -1,5 +1,4 @@
 ---
-author: Jake Rosenfeld
 date: 2024-03-13
 draft: true
 isbn10: ''
@@ -10,6 +9,10 @@ tags:
 - reading
 - life
 title: You're Paid What You're Worth
+authors:
+- name: Jake Rosenfeld
+  url: null
 ---
+
 
 TODO
