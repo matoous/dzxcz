@@ -11,12 +11,10 @@ tags:
 - economics
 - reading
 - life
-title: 'Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible
-  Individuals'
+title: Stubborn Attachments
 authors:
 - name: Tyler Cowen
   url: https://en.wikipedia.org/wiki/Tyler_Cowen
 ---
-
 
 TODO
