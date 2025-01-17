@@ -6,7 +6,7 @@ draft: false
 tags: ["journal","writing"]
 ---
 
-After coming back from New Zealand I managed to warm down at home (technically cool down, it's Berlin after all) for 8 days before heading to São Paulo for a tribe off site. 2025 will be a busy year with multiple large initiatives by the main personal goal of 2024 is to bring SumUp closer to representative state when it comes to developer experience. Our [developer website](https://developer.sumup.com/) needs a breath of fresh air and robust SDKs for integrators are a must to hide the low quality of our APIs and make it easier to migrate to newer - better - versions in the future.
+Coming back from New Zealand I managed to warm up at home (technically cool down, it's Berlin after all) for 8 days before heading to São Paulo for a tribe off-site. 2025 will be a busy year with multiple large initiatives but the main personal goal of 2024 is to bring SumUp closer to representative state when it comes to developer experience. Our [developer website](https://developer.sumup.com/) needs a breath of fresh air and robust SDKs for integrators are a must to hide the low quality of our APIs and make it easier to migrate to newer - better - versions in the future.
 
 {{< photo id="cz_0000" alt="Frosty fall leaves." caption="Frosty leaves during a hike to Lovos, Czech Republic." >}}
 
