@@ -1,8 +1,8 @@
 ---
 book_title: The Elements of Style
 book_url: https://en.wikipedia.org/wiki/The_Elements_of_Style
-date: 2025-02-01
-draft: true
+date: 2025-01-18
+draft: false
 isbn10: 0143112724
 isbn13: '9780143112723'
 slug: the_elements_of_style
@@ -17,11 +17,13 @@ authors:
   url: https://en.wikipedia.org/wiki/E._B._White
 ---
 
-TODO
+_The Elements of Style_, a century old at this point, is a handy reference of basic literary and grammar principles for writers. It's references as the main inspiration for William Zinsser's [On Writing Well](({{< ref "/books/on_writing_well" >}})) and  the most popular text assigned in syllabuses.
+
+One the internet, the opinions vary, between a the book being a must-read and it being outdated and containing inaccurate grammar advices. Nevertheless, it's a short read, and even if inaccurate it server well as a reminder of writing principles of the uttermost importance.
 
 ## Notes
 
-The Elements of Style is better kept at hand as a readers manual. Thus, the notes here are brief and reduced to what I personally found important.
+The Elements of Style is better kept at hand as a readers manual. Thus, the notes here are brief and reduced to what I found important in particular. Core principle, obvious but often neglected, is: be clear, concise, put your self in the background, and rely on basic construct unless you are certain of what you are doing.
 
 ### Elementary rules
 
@@ -33,8 +35,8 @@ The Elements of Style is better kept at hand as a readers manual. Thus, the note
 
 ### Composition
 
-- Paragraph is the unit of composition
-- Use active voice
+- Paragraph is the unit of composition. Paragraph may be of any length as long as it holds together.
+- Use active voice, unless making a particular word of a sentence the subject calls for a passive voice.
 - Put statements in a positive form ("He was not keen of flavored coffee" should be replaced by "He disliked flavored coffee").
 - Use definitive, specific, concrete language
 - Omit needles words
@@ -43,7 +45,21 @@ The Elements of Style is better kept at hand as a readers manual. Thus, the note
 
 ### Form
 
+- Use exclamations sparingly, reserve them for true exclamations and commands.
+- Do not spell out numerals unless they are part of a dialogue
+- Use italics with capitalized initials for titles of literary work
+
+### Style
+
+- Work from a suitable design
+- Write with nouns and verbs
+- Revise, rewrite, do not overwrite. Diligently strike out words that do not add value to your writing.
+- Avoid qualifiers such as rather, very, little, pretty
+- Be clear - avoid fancy words, do not explain too much, do not construct awkward adverbs (tangledly -> in tangles), use orthodox spelling, and avoid shortcuts such as abbreviations unless readily understood
+
 ## Glossary
+
+Exhaustive glossary is at the end of the book. Following terms are relevant to the notes above.
 
 - _Appositive_ - a grammatical construction in which two elements, normally noun phrases, are placed side by side so one element identifies the other in a different way.
 	> My sister, Alice Smith, likes jelly beans.
