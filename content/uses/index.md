@@ -76,6 +76,7 @@ For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) 
 - [q](https://github.com/harelba/q) to run SQL over csv files
 - [rsync](https://linux.die.net/man/1/rsync) for synchronization between machines
 - [teleport](https://goteleport.com/) for access to clusters and machines
+- [ouch](https://github.com/ouch-org/ouch) for painless compression and decompression in the terminal
 
 ### Apps
 
