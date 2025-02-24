@@ -1,0 +1,151 @@
+extends: [[spectral:oas, recommended, "spectral:asyncapi", "spectral:arazzo"]]
+documentationUrl: https://github.com/sumup/openapi-lint
+
+rules:
+  must-use-snake-case-for-property-names:
+    message: Property name has to be ASCII snake_case
+    description: MUST property names must be ASCII snake_case
+    severity: error
+    given: $.paths.*.*["responses","requestBody"]..content..schema..properties.*~
+    then:
+      function: pattern
+      functionOptions:
+        match: ^[a-z_][a-z_0-9]*$
+
+  must-always-return-json-objects-as-top-level-data-structures:
+    message: 'Top-level data structure must be an object'
+    description: MUST always return JSON objects as top-level data structures
+    severity: error
+    given: $.paths.*.*["responses","requestBody"]..content..schema
+    then:
+      function: is-object-schema
+
+  must-use-lowercase-with-hypens-for-path-segements:
+    message: Path segments have to be lowercase separate words with hyphens
+    description: MUST use lowercase separate words with hyphens for path segments
+    severity: error
+    given: $.paths.*~
+    then:
+      function: pattern
+      functionOptions:
+        match: "^(/[a-z0-9]+(-[a-z0-9]+)*)+$"
+
+  must-use-normalized-paths-without-trailing-slash:
+    message: Path with trailing slash is not allowed
+    description: MUST use normalized paths without empty path segments and trailing slashes
+    severity: error
+    given: $.paths.*~
+    then:
+      function: pattern
+      functionOptions:
+        notMatch: /$
+
+  must-define-a-format-for-number-types:
+    message: Numeric properties must have valid format specified
+    description: MUST define a format for number and integer types
+    severity: error
+    given: $.paths.*.*..schema..properties..[?(@ && @.type=='number')]
+    then:
+      - field: format
+        function: defined
+      - field: format
+        function: pattern
+        functionOptions:
+          match: ^(float|double|decimal)$
+
+  must-define-a-format-for-integer-types:
+    message: Numeric properties must have valid format specified
+    description: MUST define a format for number and integer types
+    severity: error
+    given: $.paths.*.*..schema..properties..[?(@ && @.type=='integer')]
+    then:
+      - field: format
+        function: defined
+      - field: format
+        function: pattern
+        functionOptions:
+          match: ^(int32|int64|bigint)$
+
+  must-have-info-description:
+    message: Missing `info.description`.
+    description: MUST contain API meta information
+    severity: error
+    given: $.info
+    then:
+      field: description
+      function: truthy
+
+  must-have-info-contact-name:
+    message: Missing `info.contact.name`.
+    description: MUST contain API meta information [218]
+    severity: error
+    given: $.info
+    then:
+      field: contact.name
+      function: truthy
+
+  must-have-info-contact-url:
+    message: Missing `info.contact.url`.
+    description: MUST contain API meta information [218]
+    severity: error
+    given: $.info
+    then:
+      field: contact.url
+      function: truthy
+
+  ensure-servers:
+    description: "Ensure the OpenAPI spec defines servers for dev, stage, and live environments."
+    severity: error
+    given: $.servers[*]
+    then:
+      function: schema
+      functionOptions:
+        schema:
+          type: array
+          minItems: 3
+          uniqueItems: true
+          items:
+            type: object
+            properties:
+              url:
+                type: string
+              x-env:
+                type: string
+                enum: [dev, stage, live]
+            required:
+              - url
+              - x-env
+
+  ensure-info-contact-x-org:
+    description: "Ensure info.contact.x-org is defined with squad, tribe, and comm fields."
+    severity: error
+    given: $.info.contact["x-org"]
+    then:
+      function: schema
+      functionOptions:
+        schema:
+          type: object
+          required:
+            - squad
+            - tribe
+            - comm
+          properties:
+            squad:
+              type: string
+            tribe:
+              type: string
+            comm:
+              type: object
+              required:
+                - slack
+              properties:
+                slack:
+                  type: string
+
+  ensure-tags-x-core-objects:
+    description: "Ensure each tag defines x-core-objects."
+    severity: error
+    given: $.tags[*]
+    then:
+      field: x-core-objects
+      function: truthy
