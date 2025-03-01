@@ -1,6 +1,4 @@
 ---
-author: Darrell Huff
-author_url: https://en.wikipedia.org/wiki/Darrell_Huff
 book_title: "How To Lie With Statistics"
 title: "How To Lie With Statistics"
 date: 2020-11-26
@@ -9,6 +7,9 @@ draft: false
 author: Darrell Huff
 isbn13: 9780393310726
 tags: ["statistics", "life", "reading"]
+authors:
+- name: Darrell Huff
+  url: https://en.wikipedia.org/wiki/Darrell_Huff
 ---
 
 ## Summary
