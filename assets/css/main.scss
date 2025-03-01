@@ -286,17 +286,15 @@ header {
   margin: 2rem 0;
 
   h1 {
-    font-size: 3.6rem;
+    font-size: 3.0rem;
     margin: 0;
   }
 }
 
 
 article {
-  header {
-    h1 {
-      line-height: 1em;
-    }
+  header h1 {
+    line-height: 1em;
   }
 
   iframe {
@@ -304,6 +302,8 @@ article {
   }
 
   .author {
+    display: block;
+    font-style: italic;
     color: var(--light);
   }
 

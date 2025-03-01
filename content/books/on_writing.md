@@ -13,7 +13,7 @@ authors:
   url: https://en.wikipedia.org/wiki/Stephen_King
 ---
 
-I find it hard to write about books I read. Damn, I find it hard to write about other things too. My best output to this date are technical work-related document. What I can say for certainty though, is that Stephen King's writing is a delight.
+I find it hard to write about books I read. Damn, I find it hard to write about other things too. My best output to this date are technical work-related documents. What I can say for certainty though, is that Stephen King's writing is a delight.
 
 _On Writing_ is a memoir, guide for aspiring writers, and a showcase of what mastering the craft means. It starts with snippets of Stephen's life, from childhood to adolescence. From wiping his ass with poison ivy, to facing his alcohol and drug addiction. And all of it is fun, honest, and not nearly as long as I would love it to be.
 

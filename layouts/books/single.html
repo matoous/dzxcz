@@ -1,13 +1,15 @@
 {{ define "main" }}
 <article>
   <header>
-    <h1>{{ .Title }}</h1>
-    <div class="author">
-      by {{ range $index, $tag := .Params.authors }}
-      {{- if $index }}, {{ end }}
-      {{- .name }}
-      {{- end }}
-    </div>
+    <h1>
+      {{ .Title }}
+      <span class="author">
+        by {{ range $index, $tag := .Params.authors }}
+        {{- if $index }}, {{ end }}
+        {{- .name }}
+        {{- end }}
+      </span>
+    </h1>
     <div class="meta">
       <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{ range $i, $tag := (.GetTerms "tags") }}
