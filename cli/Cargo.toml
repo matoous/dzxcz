@@ -9,7 +9,7 @@ name = "dzx"
 path = "src/main.rs"
 
 [dependencies]
-clap = { version = "4.5.26", features = [
+clap = { version = "4.5.35", features = [
   "derive",
   "string",
   "env",
