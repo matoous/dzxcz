@@ -11,4 +11,4 @@ tags: ["journal","writing"]
 - [I Tasted Honda's Spicy Rodent-Repelling Tape](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 - [Modern Day Oracles or Bullshit Machines?](https://thebullshitmachines.com) - _How to thrive in a ChatGPT world_
 - [Obscure Islands I Find Interesting](https://amanvir.com/obscure-islands)
-
+- [the ‘return to office’ lies](https://blog.avas.space/rto/)
