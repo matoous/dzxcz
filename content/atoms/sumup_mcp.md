@@ -3,7 +3,7 @@ title: SumUp Agent Toolkit
 date: 2025-04-11
 ---
 
-Every second Friday at some is a Hackday - a day to spend on learning, side-projects, and hacking. For me this usually meant working on our SDKs and developer portal. [SumUp Agent Toolkit](https://github.com/sumup/sumup-agent-toolkit/) is the latest addition, an SDK for agentic workflows build on top of our [Typescript SDK](https://github.com/sumup/sumup-ts). It supports [LangChain](https://www.langchain.com/), [AI SDK](https://sdk.vercel.ai/), and [OpenAI](https://github.com/openai/openai-node) as well as [Model Context Protocol](https://modelcontextprotocol.io/introduction) which is all the rage at the moment.
+Every second Friday at SumUp it's a Hackday - a day to spend on learning, side-projects, and hacking. For me this usually meant working on our SDKs and developer portal. [SumUp Agent Toolkit](https://github.com/sumup/sumup-agent-toolkit/) is the latest addition, an SDK for agentic workflows build on top of our [Typescript SDK](https://github.com/sumup/sumup-ts). It supports [LangChain](https://www.langchain.com/), [AI SDK](https://sdk.vercel.ai/), and [OpenAI](https://github.com/openai/openai-node) as well as [Model Context Protocol](https://modelcontextprotocol.io/introduction) which is all the rage at the moment.
 
 It was fun to build, the most complicated part was to figure out types for the shared module with tool definitions, where after some back and forth this seemed to do the trick:
 

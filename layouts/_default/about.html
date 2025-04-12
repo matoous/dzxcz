@@ -2,8 +2,10 @@
 <article>
   <figure>
     <picture>
-      <img alt="Profile picture, photoshoot with a friend" class="profile-picture" src="/profile.jpg"
-        srcset="/profile-2x.jpg 2x" />
+      <source srcset="/profile.webp 1x, /profile-2x.webp 2x" type="image/webp" />
+      <source srcset="/profile.jpg 1x, /profile-2x.jpg 2x" type="image/jpeg" />
+      <img src="/profile.jpg" alt="Profile picture, photoshoot with a friend" class="profile-picture" loading="lazy"
+        decoding="async" />
     </picture>
   </figure>
   {{ .Content }}
