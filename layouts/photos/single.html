@@ -30,7 +30,7 @@
     </a>
     <div class="meta">
       <div class="navigation">
-        {{ $pages := where .Site.Pages "Section" "photos" }}
+        {{ $pages := .CurrentSection.Pages.ByWeight }}
         <div>
           {{ with $pages.Next . }}
           <a href="{{ .RelPermalink }}">Previous</a>

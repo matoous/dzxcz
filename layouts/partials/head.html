@@ -1,9 +1,15 @@
 <meta charset="utf-8">
 <meta name="HandheldFriendly" content="True">
 <meta content="width=device-width,minimum-scale=1" name="viewport">
+{{ if .Description }}
+<meta content="{{ .Description }}" name="description">
+<meta content="{{ .Description }}" name="twitter:description">
+<meta content="{{ .Description }}" name="og:description">
+{{ else }}
 <meta content="{{ .Site.Params.Description }}" name="description">
 <meta content="{{ .Site.Params.Description }}" name="twitter:description">
 <meta content="{{ .Site.Params.Description }}" name="og:description">
+{{ end }}
 <meta content="dzx.cz" property="og:site_name">
 <meta content="matousdzivjak@gmail.com" property="og:email">
 <meta content="blog" property="og:type">

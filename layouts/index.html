@@ -1,7 +1,41 @@
 {{ define "main" }}
-<p>
-  Hi! I'm <a href="/about">Matous</a>, software engineer, hybrid athlete and passionate cook. Sometimes I also write. ↓
-</p>
-{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{ partial "listing.html" $pages }}
+<div class="index">
+  <p>
+    Hi! I'm <a href="/about">Matous</a>, software engineer, hybrid athlete and passionate cook. Sometimes I also write.
+    ↓
+  </p>
+  <section class="listing">
+    {{ range where site.RegularPages "Type" "in" site.Params.mainSections | first 10 }}
+    <a href="{{.Permalink}}">
+      {{.Title}}
+      {{ with .Params.authors }}
+      <span>
+        by {{ range $index, $tag := . }}{{ if $index }}, {{ end }}{{ .name }}{{ end }}
+      </span>
+      {{ end }}
+    </a>
+    <time datetime="{{ .Date.Format " 2006-01-02" }}" class="📅">{{.Date.Format "2006-01-02"}}</time>
+    {{ end }}
+  </section>
+  <a class="section-link" href="/atoms">Atoms →</a>
+  <section class="listing">
+    {{ range where site.RegularPages "Type" "in" "atoms" | first 5 }}
+    <a href="{{.Permalink}}">
+      {{.Title}}
+    </a>
+    <time datetime="{{ .Date.Format " 2006-01-02" }}" class="📅">{{.Date.Format "2006-01-02"}}</time>
+    {{ end }}
+  </section>
+  <a class="section-link" href="/photos">Photos →</a>
+  {{ with (index (where site.RegularPages "Type" "in" "photos") 0 )}}
+  <div class="picture">
+    <a href="{{.Permalink}}">
+      <picture>
+        <source srcset="https://photos.dzx.cz/{{ .Params.srcset.webp1024 }}" type="image/webp">
+        <img alt="" src="https://photos.dzx.cz/{{ .Params.srcset.jpg1024 }}" loading="lazy">
+      </picture>
+    </a>
+  </div>
+  {{ end }}
+</div>
 {{ end }}
