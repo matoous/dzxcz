@@ -20,6 +20,8 @@ markup:
     endLevel: 4
     ordered: false
     startLevel: 2
+  highlight:
+    noclasses: false
 outputFormats:
   rss:
     baseName: rss

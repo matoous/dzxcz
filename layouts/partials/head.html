@@ -4,7 +4,7 @@
 <meta content="{{ .Site.Params.Description }}" name="description">
 <meta content="{{ .Site.Params.Description }}" name="twitter:description">
 <meta content="{{ .Site.Params.Description }}" name="og:description">
-<meta content="dzx.codes" property="og:site_name">
+<meta content="dzx.cz" property="og:site_name">
 <meta content="matousdzivjak@gmail.com" property="og:email">
 <meta content="blog" property="og:type">
 <script type="application/ld+json">{
@@ -18,6 +18,10 @@
 <link rel="icon" type="image/x-icon" href="{{ "favicon.png" | relURL }}">
 <style>
   {{ $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
+  {{ $style.Content | safeCSS }}
+</style>
+<style>
+  {{ $style := resources.Get "css/syntax.css" | toCSS | minify | fingerprint }}
   {{ $style.Content | safeCSS }}
 </style>
 <link rel="canonical" href="{{ .Permalink }}">
