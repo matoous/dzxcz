@@ -14,7 +14,9 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 
 ## Career
 
-{{<details "**Senior Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _now_" open>}}
+**Staff Engineer @ [SumUp](https://sumup.com/)**, _5/2025_ - _now_
+
+{{<details "**Senior Software Engineer @ [SumUp](https://sumup.com/)**, _6/2021_ - _5/2025_" open>}}
 
 Working in the Platform Tribe - Identity Squad along with a 10 incredible teammates. The IAM (Identity & Access Management) team had its inception 2 months before I joined SumUp and we scale from 3 people drowning in incidents and work to 10 people in 2022 drowning only in work.
 
