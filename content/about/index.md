@@ -5,12 +5,8 @@ layout: "about"
 
 Hi, I'm Matouš Dzivjak!
 
-I work as a software engineer at [SumUp](https://sumup.com/) and do a lot of sports.
-The rest of my free time is spent on coding, friends, [reading](/books), cooking, and other stuff.
-This blog was started in 2019 to force myself into writing more and to have a place where I could share my
-thoughts and knowledge. Please take this whole site with grain of salt as my english is far from perfect,
-and I feel like creating a coherent piece of writing is still impossible task for me
-([I am working on it though]({{< ref "/books/sense_of_style" >}})).
+I work as a Staff Engineer at [SumUp](https://sumup.com/) and do a lot of sports. The rest of my free time is spent on coding, friends, [reading](/books), cooking, and other stuff. This blog was started in 2019 to force myself into writing more and to have a place where I could share my thoughts and knowledge. Please take this whole site with grain of salt as my english is far from perfect,
+and I feel like creating a coherent piece of writing is still impossible task for me ([I am working on it though]({{< ref "/books/sense_of_style" >}})).
 
 ## Career
 
