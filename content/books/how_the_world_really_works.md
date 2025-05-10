@@ -15,7 +15,6 @@ authors:
   url: https://en.wikipedia.org/wiki/Vaclav_Smi
 ---
 
-
 > A realistic grasp of our past, present, and uncertain future is the best foundation for approaching the unknowable expanse of time before us. While we cannot be specific, we know that the most likely prospect is a mixture of progress and setbacks, of seemingly insurmountable difficulties and near-miraculous advances. The future, as ever, is not predetermied. Its outcome depends on our actions.
 
 [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) deserved second chance after I gave up on [Growth]({{< ref "/books/growth" >}}). _How the World Really Works_ was just as dense as _Growth_ but focused on broader topic and as such, felt more accessible. The first few chapters explain the history and current state of the fundamental things of modern world: energy, food production, materials, and globalization. Next chapters focus on present happenings and future outlooks, specifically in regards to the environment.
