@@ -1,13 +1,13 @@
 ---
-title: "Preventing path traversal in Golang"
+title: "Preventing path traversal in Go"
 date: 2021-04-02
 slug: go_path_traversal
 draft: false
-tags: ["code", "security", "golang", "writing"]
+tags: ["code", "security", "go", "writing"]
 ---
 
 New project surfaced in our company, unoriginally called _IAP GCS proxy_.
-As the name suggests, it is a small golang proxy that provides [IAP](https://cloud.google.com/iap)
+As the name suggests, it is a small Go proxy that provides [IAP](https://cloud.google.com/iap)
 restricted access to [Google Cloud Storage](https://cloud.google.com/storage/)
 buckets.
 
@@ -19,7 +19,7 @@ application security engineer, appeared in the slack thread that caught my atten
 
 talking about this piece of code:
 
-```golang
+```go
 upstreamUrl, err := url.Parse(fmt.Sprintf("https://storage.googleapis.com/%s%s", gp.GCSBucket, req.Path))
 ```
 
@@ -57,7 +57,7 @@ that suggests new `filepath` function `SecureJoin` that would prevent path
 traversal in `filepath.Join`. Sadly, but rightful, the issue was closed as there
 wasn't compelling reason to include this into the standard library.
 Some people suggested using [`securejoin.SecureJoin`](https://github.com/cyphar/filepath-securejoin)
-but as one of the great golang proverbs goes, _A little copying is better than a little dependency._[^1].
+but as one of the great Go proverbs goes, _A little copying is better than a little dependency._[^1].
 For sure, there must be a way to solve this using the tools at hand.
 
 ## Path clean

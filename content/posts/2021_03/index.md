@@ -70,9 +70,9 @@ so maybe another time.
 ### Reading
 
 * [Clean Architecture with GO](https://manakuro.medium.com/clean-architecture-with-go-bce409427d31).
-  Even as my knowledge of Golang ecosystem grows, I am yet to find out, what the best application structure
+  Even as my knowledge of Go ecosystem grows, I am yet to find out, what the best application structure
   is for clean and maintainable APIs. For example the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-  pattern isn't really applicable in Golang, rather structures similar to `api <-> service <-> storage`
+  pattern isn't really applicable in Go, rather structures similar to `api <-> service <-> storage`
   can be often seen, but those sometimes fall short of the needs as well. This article
   provides a nice take on alternative approach with schema `controller -> interactor -> presenter`
   where `controller` encapsulates the request logic, `interactor` handles the internal

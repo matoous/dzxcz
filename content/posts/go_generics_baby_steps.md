@@ -3,7 +3,7 @@ title: "Go generics: Baby steps"
 date: 2022-04-03
 slug: go_generics_baby_steps
 draft: false
-tags: ["code","golang","writing"]
+tags: ["code","go","writing"]
 ---
 
 Generics have come to Go. One of the most radical changes to Go in years

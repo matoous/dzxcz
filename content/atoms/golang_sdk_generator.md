@@ -1,5 +1,5 @@
 ---
-title: Golang SDK generator
+title: Go SDK generator
 date: 2025-01-08
 ---
 

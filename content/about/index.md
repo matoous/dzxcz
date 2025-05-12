@@ -16,15 +16,15 @@ and I feel like creating a coherent piece of writing is still impossible task fo
 
 Working in the Platform Tribe - Identity Squad along with a 10 incredible teammates. The IAM (Identity & Access Management) team had its inception 2 months before I joined SumUp and we scale from 3 people drowning in incidents and work to 10 people in 2022 drowning only in work.
 
-In the 3 years so far I have contributed to building a company-wide SSO (Single Sign-On) based on [OIDC](https://openid.net/connect/) and [OAuth2](https://oauth.net/2/), authored a generic MFA (Multi-Factor Authentication) API that support recovery codes, TOTPs, SMS OTPs, webauthn credentials, and bootstrapped ReBAC-based access control system from RFC, to proof-of-concept, load testing, to adoption and general availability. Apart from the IAM related responsibilities I spend time on our public APIs, running an RFC forum, and Golang and Rust guild.
+In the 3 years so far I have contributed to building a company-wide SSO (Single Sign-On) based on [OIDC](https://openid.net/connect/) and [OAuth2](https://oauth.net/2/), authored a generic MFA (Multi-Factor Authentication) API that support recovery codes, TOTPs, SMS OTPs, webauthn credentials, and bootstrapped ReBAC-based access control system from RFC, to proof-of-concept, load testing, to adoption and general availability. Apart from the IAM related responsibilities I spend time on our public APIs, running an RFC forum, and Go and Rust guild.
 
 {{</details>}}
 
-{{<details "**Golang Backend Developer @ [Kiwi.com](https://www.kiwi.com/)**, _2/2019 - 5/2021_" open>}}
+{{<details "**Backend Developer @ [Kiwi.com](https://www.kiwi.com/)**, _2/2019 - 5/2021_" open>}}
 
 At Kiwi our team's responsibility was developing core infrastructure and services with speed and maintainability as the primary goal. Our services served thousands of requests per second and served as the base for the transportation search engine. During my time at Kiwi I grew my experience and knowledge thanks to awesome team and mentorship from other skilled people in the company.
 
-My contributions included initiating gRPC adoption across the company, helping build internal golang packages
+My contributions included initiating gRPC adoption across the company, helping build internal Go packages
 for cross-team usage, and developing multiple internal core APIs supporting search search functionality serving 100M request every day.
 
 {{</details>}}
@@ -47,9 +47,9 @@ I enjoy programming outside the work as well and have build and still maintain
 a few personal projects:
 
 * [go-nanoid](https://github.com/matoous/go-nanoid) -
-  Tiny golang package for generating URL friendly unique IDs.
+  Tiny Go package for generating URL friendly unique IDs.
 * [Mnemoname](https://github.com/matoous/mnemoname) -
-  tiny golang utility for generating [mnemonic names](https://web.archive.org/web/20090918202746/http://tothink.com/mnemonic/wordlist.html).
+  tiny Go utility for generating [mnemonic names](https://web.archive.org/web/20090918202746/http://tothink.com/mnemonic/wordlist.html).
 * [ezmail](https://github.com/matoous/ezmail) -
   easy CLI utility for sending emails from terminal useful for scripts and people
   that don't want to set up the default `mail` command that saves credentials
@@ -66,7 +66,7 @@ a few personal projects:
   tool to extract specific comments from Go code based on keywords.
   Later integrated into the [Golangci Lint](https://github.com/golangci/golangci-lint). 
 * [gosmtp](https://github.com/matoous/gosmtp) -
-  golang implementation of full-featured, lightweight and RFC compliant SMTP server.
+  Go implementation of full-featured, lightweight and RFC compliant SMTP server.
 
 I also contribute to a few open source projects:
 
