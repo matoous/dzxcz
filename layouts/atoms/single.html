@@ -2,11 +2,16 @@
 <article>
   <div class="atom">
     <header class="title">
-      <time datetime="{{ .Date | time.Format " 2006-01-02" }}" class="📅">{{ .Date | time.Format "2006-01-02"}}</time>
       <a href="{{.Permalink}}">#</a>
       <h1>{{ .Title }}</h1>
     </header>
     {{ .Content }}
+    <div class="meta">
+      Published on
+      <time datetime="{{ .Date | time.Format "2006-01-02" }}">
+        {{ .Date | time.Format "Jan 2, 2006"}}
+      </time>
+    </div>
   </div>
 </article>
 {{ end }}

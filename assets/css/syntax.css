@@ -115,14 +115,6 @@
 /* NameAttribute */
 .chroma .na {}
 
-/* NameBuiltin */
-.chroma .nb {
-  color: #8f0075
-}
-
-/* NameBuiltinPseudo */
-.chroma .bp {}
-
 /* NameClass */
 .chroma .nc {}
 
@@ -137,14 +129,6 @@
 
 /* NameException */
 .chroma .ne {}
-
-/* NameFunction */
-.chroma .nf {
-  color: #721045
-}
-
-/* NameFunctionMagic */
-.chroma .fm {}
 
 /* NameLabel */
 .chroma .nl {}
@@ -161,22 +145,50 @@
 /* NameTag */
 .chroma .nt {}
 
+/* NameBuiltin */
+.chroma .nb {
+  color: #8f0075
+}
+
+/* NameBuiltinPseudo */
+.chroma .bp {
+  color: #8f0075
+}
+
 /* NameVariable */
 .chroma .nv {
   color: #00538b
 }
 
 /* NameVariableClass */
-.chroma .vc {}
+.chroma .vc {
+  color: #00538b
+}
 
 /* NameVariableGlobal */
-.chroma .vg {}
+.chroma .vg {
+  color: #00538b
+}
 
 /* NameVariableInstance */
-.chroma .vi {}
+.chroma .vi {
+  color: #00538b
+}
 
 /* NameVariableMagic */
-.chroma .vm {}
+.chroma .vm {
+  color: #00538b
+}
+
+/* NameFunction */
+.chroma .nf {
+  color: #721045
+}
+
+/* NameFunctionMagic */
+.chroma .fm {
+  color: #721045
+}
 
 /* Literal */
 .chroma .l {
@@ -498,14 +510,6 @@
   /* NameAttribute */
   .chroma .na {}
 
-  /* NameBuiltin */
-  .chroma .nb {
-    color: #f78fe7
-  }
-
-  /* NameBuiltinPseudo */
-  .chroma .bp {}
-
   /* NameClass */
   .chroma .nc {}
 
@@ -520,14 +524,6 @@
 
   /* NameException */
   .chroma .ne {}
-
-  /* NameFunction */
-  .chroma .nf {
-    color: #feacd0
-  }
-
-  /* NameFunctionMagic */
-  .chroma .fm {}
 
   /* NameLabel */
   .chroma .nl {}
@@ -544,22 +540,50 @@
   /* NameTag */
   .chroma .nt {}
 
+  /* NameBuiltin */
+  .chroma .nb {
+    color: #f78fe7
+  }
+
+  /* NameBuiltinPseudo */
+  .chroma .bp {
+    color: #f78fe7
+  }
+
   /* NameVariable */
   .chroma .nv {
     color: #00d3d0
   }
 
   /* NameVariableClass */
-  .chroma .vc {}
+  .chroma .vc {
+    color: #00d3d0
+  }
 
   /* NameVariableGlobal */
-  .chroma .vg {}
+  .chroma .vg {
+    color: #00d3d0
+  }
 
   /* NameVariableInstance */
-  .chroma .vi {}
+  .chroma .vi {
+    color: #00d3d0
+  }
 
   /* NameVariableMagic */
-  .chroma .vm {}
+  .chroma .vm {
+    color: #00d3d0
+  }
+
+  /* NameFunction */
+  .chroma .nf {
+    color: #feacd0
+  }
+
+  /* NameFunctionMagic */
+  .chroma .fm {
+    color: #feacd0
+  }
 
   /* Literal */
   .chroma .l {
