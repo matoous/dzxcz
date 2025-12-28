@@ -7,14 +7,14 @@ isbn10: 0143112724
 isbn13: '9780143112723'
 slug: the_elements_of_style
 tags:
-- writing
-- reading
+  - writing
+  - reading
 title: The Elements of Style
 authors:
-- name: William Strunk Jr.
-  url: https://en.wikipedia.org/wiki/William_Strunk_Jr.
-- name: E. B. White
-  url: https://en.wikipedia.org/wiki/E._B._White
+  - name: William Strunk Jr.
+    url: https://en.wikipedia.org/wiki/William_Strunk_Jr.
+  - name: E. B. White
+    url: https://en.wikipedia.org/wiki/E._B._White
 ---
 
 _The Elements of Style_, a century old at this point, is a handy reference of basic literary and grammar principles for writers. It's references as the main inspiration for William Zinsser's [On Writing Well](({{< ref "/books/on_writing_well" >}})) and  the most popular text assigned in syllabuses.
