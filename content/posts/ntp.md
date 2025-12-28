@@ -8,11 +8,11 @@ tags: ["rust", "software", "learning", "writing"]
 
 Hello! This week I read Tony Finch's [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html) and decided to learn more about [Network Time Protocol (NTP)](https://en.wikipedia.org/wiki/Network_Time_Protocol). This is exploration of NTP from scratch.
 
-## What is NTP?
+## What Is NTP?
 
 NTP (Network Time Protocol) is a protocol used to synchronize the clocks by hundreds of millions of computers and devices. It's the protocol that keeps the time accurate on your computer, mobile phone, smart watch, in telecommunication, financial services, and even by Deutsche Bahn albeit with varying accuracy.
 
-## The protocol
+## The Protocol
 
 On MacOS you can interact with NTP server using the `sntp` tool:
 

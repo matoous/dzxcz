@@ -7,43 +7,41 @@ layout: "etc"
 
 ### Terminal
 
-[Wezterm](https://wezfurlong.org/wezterm/) is my current terminal of choice. I went through [Hyper](https://hyper.is/), [iTerm2](https://iterm2.com/), and [Kitty](https://sw.kovidgoyal.net/kitty/) before. Each time sacrificing bit of the features (that I didn't use anyway) in favor of speed. And when it comes to speed, wezterm is perfect. Instant boot time, GPU-accelerated, and it is written in Rust, so when I feel like learning more about Rust or contributing, I can do so.
+[Ghostty](https://ghostty.org/) is my current terminal of choice. I went through [Hyper](https://hyper.is/), [iTerm2](https://iterm2.com/), [Kitty](https://sw.kovidgoyal.net/kitty/), and [Wezterm](https://wezfurlong.org/wezterm/) before. Each time sacrificing bit of the features (that I didn't use anyway) in favor of speed. Kitty, Wezterm, and Ghostty both seem on par in performance and I don't have strong preference for one versus the others. At the moment, it's Ghostty, in the future, I might go back to one of the others.
 
 One underestimated factor of programming comfort are fonts. Good fonts strike the right balance of legibility, glyphs, and line-height. I have been using [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/) since its release, initially doubting whether paying for a font is a justifiable endeavor but it brings me tiny bit of joy whenever I open my terminal ever since.
 
 ### Shell
 
-I run [Zsh](https://www.zsh.org/) and [Oh My Zsh](https://ohmyz.sh/) for as long as I can remember. Initially I used a lot of the provided plugins, full blown out [Spacship ZSH](https://github.com/spaceship-prompt/spaceship-prompt) prompt, and material theme.
-
-Nowadays I use minimal configuration of [Starship](https://starship.rs/) prompt (directory and git information). 20 or so oh-my-zsh plugins were reduced to 3: `zsh-syntax-highlighting`, `zsh-completions`, and `history-substring-search`. And I have all shell config in single `.zshrc` file.
+I run [Fish](https://fishshell.com/) shell nowadays, it used to be [Zsh](https://www.zsh.org/) and [Oh My Zsh](https://ohmyz.sh/) prior to that. The only plugin that I use is [fzf.fish](https://github.com/PatrickF1/fzf.fish) for history search. For prompt, I use minimal configuration of [Starship](https://starship.rs/) prompt (directory and git information).
 
 ### Editor
 
 {{<picture src="images/terminal.png" alt="Screenshot of my editor - Helix." caption="Screenshot of my editor as of the writing of this page." >}}
 
-[Helix](https://github.com/helix-editor/helix) for almost everything, sometimes I spin up [VS Code](https://code.visualstudio.com/) for a specific task, but last that I remember it was for a multiline search and replace across a whole project (I couldn't wrap my head around [ast-grep](https://github.com/ast-grep/ast-grep)).
+[Helix](https://github.com/helix-editor/helix) for almost everything, sometimes I spin up [VS Code](https://code.visualstudio.com/) for a specific task. Last I remember it was for a multiline search and replace across a whole project (I couldn't wrap my head around [ast-grep](https://github.com/ast-grep/ast-grep) at that time but got better hand of it since).
 
-In University we had free licenses for [JetBrain](https://www.jetbrains.com/) products and I used those since I started programming. For editing in terminal I would use [Nano](https://help.ubuntu.com/community/Nano) and avoid it like the plague. As I needed to edit more and more configuration files and sometimes work remotely I decided to learn working with Vim in February 2021. The learning curve is indeed steep but there's certain level of satisfaction in taming the beast. Around that time [LSP](https://microsoft.github.io/language-server-protocol/) and [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/) were becoming the norm, enabling the full IDE experience in Vim at a cost of 600 lines long configuration file.
+In university we had free licenses for [JetBrain](https://www.jetbrains.com/) products and I used those when I started programming. For editing in terminal I would use [Nano](https://help.ubuntu.com/community/Nano) and avoid it like the plague. As I needed to edit more and more configuration files and sometimes work remotely I decided to learn working with Vim in February 2021. The learning curve is indeed steep but there's certain level of satisfaction in taming the beast. Around that time [LSP](https://microsoft.github.io/language-server-protocol/) and [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/) were becoming the norm, enabling the full IDE experience in Vim at a cost of 600 lines long configuration file.
 
 As with other tools, I started looking into simplifying the setup. I ditched a few plugins, removed all unnecessary configuration, and downsized by Neovim config file to half. That is, until I found Helix.
 
-[Helix](https://github.com/helix-editor/helix) provides similar experience to Vim with one major twist. While in Vim you start with `action` followed by `motion` (e.g. `d3w` to **d**elete 3 **w**ords) Helix follows `selection` -> `action` paradigma inspired by [Kakoune](https://github.com/mawww/kakoune) (if you never header of it, don't worry, I did neither until reading more about Helix). It's striking difference from Vim that takes time to get used to but comes naturally afterwards. Second large difference is first-class support for multi-cursor. Where in Vim you would substitute using the `%s/SEARCH/REPLACE/g` command in Helix you select the text (e.g. `%` for whole file), select the pattern in the selection (e.g. `s` followed by the term you are searching for), by confirming the selection you create multiple individual cursor and you can edit them all at once.
+[Helix](https://github.com/helix-editor/helix) provides similar experience to Vim with one major twist. While in Vim you start with `action` followed by `motion` (e.g. `d3w` to **d**elete 3 **w**ords) Helix follows `selection` -> `action` paradigm inspired by [Kakoune](https://github.com/mawww/kakoune) (if you never header of it, don't worry, I did neither until reading more about Helix). It's striking difference from Vim that takes time to get used to but comes naturally afterward. Second large difference is first-class support for multi-cursor. Where in Vim you would substitute using the `%s/SEARCH/REPLACE/g` command in Helix you select the text (e.g. `%` for whole file), select the pattern in the selection (e.g. `s` followed by the term you are searching for), by confirming the selection you create multiple individual cursor, and you can edit them all at once.
 
-Nothing can be perfect though, development of Helix is moving at a slow pace with features such as plugin support taking months (or even years) to make it into upstream. On the other hand, the  slowness reduces feature creep and contributes to a clean codebase.
+Nothing can be perfect though, development of Helix is moving at a slow pace with features such as plugin support taking years to make it into upstream. On the other hand, the slowness reduces feature creep and contributes to a clean codebase.
 
 At the moment I am using the [Modus Vivendi](https://protesilaos.com/emacs/modus-themes). A accessible theme, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA) theme by [Protesilaos Stavrou](https://protesilaos.com/) originally built for GNU Emacs.
 
 ### Browser
 
-After full circle, going from [Firefox](https://www.mozilla.org/en-US/firefox/new/) to [Safari](https://www.apple.com/safari/) and later to [Arc](https://arc.net/) I am back at the beginning using Firefox as my primary desktop browser. There's not much to it other then _it works_ and it doesn't get into my way.
+After full circle, going from [Firefox](https://www.mozilla.org/en-US/firefox/new/) to [Safari](https://www.apple.com/safari/) and later to [Arc](https://arc.net/) I am back at the beginning using Firefox as my primary desktop browser. There's not much to it other than _it works_ and it doesn't get into my way.
 
 ### Raycast
 
-[Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like it's UI and way of writing extensions. Raycast is leaner, nicer, has plenty of up-to-date and maintained extensions for all that I need (1password, GitHub, Todoist, app switching, clipboard management, and more). It replaced a lot of other apps I previously depended on. Right now it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. May only hope is that their model won't be subscription based.
+[Raycast](https://www.raycast.com/) launcher is one of my essentials. I started with [Alfred](https://www.alfredapp.com/) but didn't like its UI and the way of writing extensions. It replaced a lot of other apps I previously depended on. Right now, it's free for personal use which I expect to change at one point in the future but I am willing to pay for it. My only hope is that their model won't be subscription based.
 
 ### iA Writer
 
-For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) I use [iA Writer](https://ia.net/writer). It's an exceptionally well built writing software that doesn't get in your way when writing. Built-in syntax highlight and style checking means one can focus on the content and iA Writer takes care of typos, common clichés, or redundancies. 
+For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) I use [iA Writer](https://ia.net/writer). It's an exceptionally well built writing software that helps me write. Built-in syntax highlight and style checking means one can focus on the content and iA Writer takes care of typos, common clichés, or redundancies. 
 
 ### Tools
 
@@ -90,7 +88,7 @@ For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) for preventing the MacOS from sleeping
 - [Ice](https://github.com/jordanbaird/Ice) - a menu bar manager for MacOS to keep it nice and tidy.
 
-## Mac setup
+## Mac Setup
 
 - [configure TouchID for sudo](https://apple.stackexchange.com/a/306324)
 - [optimize for speed](https://github.com/koding88/MacBook-Optimization-Script)
