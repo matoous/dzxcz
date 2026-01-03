@@ -1,13 +1,13 @@
 {{ define "main" }}
-  <header>
-    <h1>
-        {{ .Title | title }}
-    </h1>
-  </header>
-  {{ range .Data.Terms.ByCount }}
-    <div>
-      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-      <sup>{{ .Count }}</sup>
-    </div>
-  {{ end }}
+<header>
+  <h1>
+    {{ .Title | title }}
+  </h1>
+</header>
+{{ range .Data.Terms.ByCount }}
+<div>
+  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+  <sup>{{ .Count }}</sup>
+</div>
+{{ end }}
 {{ end }}

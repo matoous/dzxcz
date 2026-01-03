@@ -1,9 +1,9 @@
 {{ define "main" }}
-  <header>
-    <h1 style="margin-bottom:.4rem;">
-        {{ .Title | title }}
-    </h1>
-    {{ partial "tags.html" . }}
-  </header>
-  {{ partial "listing.html" (sort .Pages) }}
+<header>
+  <h1 style="margin-bottom:.4rem;">
+    {{ .Title | title }}
+  </h1>
+  {{ partial "tags.html" . }}
+</header>
+{{ partial "listing.html" (sort .Pages) }}
 {{ end }}

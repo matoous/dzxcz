@@ -2,15 +2,13 @@
 title: "The flow of pay"
 date: 2026-01-01
 slug: the-flow-of-pay
-draft: false
+draft: true
 tags: ["payments", "finance", "infrastructure"]
 ---
 
 The diagram below lays out the moving parts of a “card present” transaction after you tap a card or wallet. It is intentionally high-level so we can reason about responsibilities, the standards they rely on, and where risk/compliance decisions are made.
 
----
-
-## Entities in a contactless payment
+## Entities in a Contactless Payment
 
 | Entity | Role | Primary specs / interfaces |
 | --- | --- | --- |
@@ -23,9 +21,7 @@ The diagram below lays out the moving parts of a “card present” transaction 
 | Issuer (cardholder’s bank/fintech) | Decides approve/decline, sets spending limits, posts to cardholder account | Core banking systems, real-time risk models, ISO 8583 responses |
 | Regulators & compliance services | Mandate data retention, AML reporting, consumer disclosures | PSD2/SCA (EU), Durbin (US), PCI DSS, AML directives |
 
----
-
-## 1) Initiation (tap to first hop)
+## Initiation (Tap to First Hop)
 
 1. **NFC field + EMV cryptogram**  
    The terminal energizes the card/mobile SE. The credential sends an Application Cryptogram (ARQC) that proves card authenticity and embeds a transaction-specific nonce (UN). Mobile wallets add tokenized PANs plus dynamic CVV3 values.
@@ -34,9 +30,7 @@ The diagram below lays out the moving parts of a “card present” transaction 
 3. **Encryption & routing setup**  
    PAN/PAN tokens are encrypted using P2PE or DUKPT keys. The terminal wraps everything into a ISO 8583-like payload or proprietary JSON and sends it through the merchant’s network (MPLS, VPN, or TLS over commodity internet) to the gateway or directly to the acquirer.
 
----
-
-## 2) Authorization hop-by-hop
+## Authorization Hop-by-Hop
 
 1. **Gateway normalization**  
    Gateways map a zoo of terminal message formats to the acquirer’s canonical ISO 8583 field layout, add merchant IDs (MID), terminal IDs (TID), MCC, and unique transaction identifiers (STAN/RRN). They also attach telemetry for retries and idempotency.
@@ -51,9 +45,7 @@ The diagram below lays out the moving parts of a “card present” transaction 
 
 Latency goal for the entire authorization loop is sub-1.5 seconds in most markets; terminals usually timeout around 30 seconds with automatic retries or failover to offline fallback if configured.
 
----
-
-## 3) Clearing & settlement (after the tap)
+## Clearing & Settlement (After the Tap)
 
 1. **Batch capture**  
    The merchant’s system batches approved authorizations (tickets) and submits a capture file or API call to the acquirer. Some verticals (ride share, hotels) adjust the final amount before capture.
@@ -64,18 +56,14 @@ Latency goal for the entire authorization loop is sub-1.5 seconds in most market
 4. **Posting to cardholder**  
    Issuers move the authorization from “pending” to “posted,” assess interest/fees, and expose the transaction in statements or push notifications.
 
----
-
-## Standards & governance snapshot
+## Standards & Governance Snapshot
 
 * **Messaging:** ISO 8583 still dominates real-time auth, while ISO 20022 is the strategic direction for clearing/settlement. Networks maintain their own flavor (e.g., Mastercard MDS, VisaNet).  
 * **Cryptography:** EMV SDA/DDA/CDA for chip, EMV Contactless for NFC, tokenization specs for wallets, DUKPT for terminal key management, TLS mutual auth between institutions.  
 * **Risk & compliance:** PCI DSS for data handling, PSD2/RTS for strong customer authentication in Europe, network operating regulations for dispute windows (chargebacks), FTF/AML reporting obligations.  
 * **Service levels:** Schemes define uptime, message turnaround, and incident reporting SLAs; merchants/acquirers cascade those requirements to terminal vendors and processors.
 
----
-
-## Why the structure matters
+## Why the Structure Matters
 
 * **Operational clarity:** Knowing which hop owns a control (fraud, tokenization, AML) keeps integrations lean and surfaces which contracts govern a particular failure.  
 * **Standards alignment:** Even when APIs look “modern,” the payload still maps back to ISO 8583/20022 core fields; ignoring them creates reconciliation blind spots.  

@@ -2,7 +2,7 @@
 title: "GPS"
 date: 2026-01-01
 slug: gps
-draft: false
+draft: true
 tags: ["rust", "software", "learning", "writing"]
 params:
   math: true

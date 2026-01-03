@@ -7,6 +7,18 @@
   --font-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   --page-width: 840px;
   --font-mono: "Berkeley Mono", ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  --font-body-m: 1em;
+  --font-body-s: 0.9em;
+  --font-body-xs: 0.75em;
+  --font-weight-black: 800;
+  --font-weight-bold: 700;
+  --font-weight-semibold: 600;
+  --font-weight-normal: 400;
+  --font-weight-light: 200;
+  --font-weight-thin: 100;
+  --font-mono-weight-black: 150;
+  --font-mono-weight-code: 120;
+  --font-mono-weight-thin: 100;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -45,6 +57,8 @@ html {
 body {
   margin: 0;
   font-family: var(--font-sans);
+  font-size: var(--font-body-m);
+  font-weight: var(--font-weight-normal);
   color: var(--foreground);
   background-color: var(--background);
   word-break: break-word;
@@ -110,18 +124,18 @@ h2,
 h3,
 h4,
 h5 {
-  font-weight: 700;
+  font-weight: var(--font-weight-bold);
   letter-spacing: -0.0425em;
 }
 
 h1 {
   font-size: 2.4em;
-  font-weight: 800;
+  font-weight: var(--font-weight-black);
 }
 
 .tags {
   color: var(--light);
-  font-size: 0.9em;
+  font-size: var(--font-body-s);
 }
 
 hr {
@@ -142,13 +156,13 @@ pre {
 
 code {
   font-family: var(--font-mono);
-  font-weight: 120;
+  font-weight: var(--font-mono-weight-code);
   font-size: 14px;
 }
 
 footer {
   margin-top: 4em;
-  font-size: 0.750rem;
+  font-size: var(--font-body-xs);
   color: var(--light);
   grid-area: footer;
   padding: 1.6em;
@@ -194,15 +208,15 @@ nav {
   align-items: center;
   padding: 1.6em;
   font-family: var(--font-mono);
-  font-weight: 100;
+  font-weight: var(--font-mono-weight-thin);
   flex-wrap: wrap;
   flex-direction: column;
 
   h1 {
     margin: 0 1.4rem 0 0;
-    font-size: 1em;
+    font-size: var(--font-body-m);
     white-space: nowrap;
-    font-weight: 150;
+    font-weight: var(--font-mono-weight-black);
   }
 
   a {
@@ -228,11 +242,11 @@ nav {
 
     a {
       text-transform: uppercase;
-      font-size: 0.875em;
+      font-size: var(--font-body-s);
       letter-spacing: 0.1em;
 
       &.active {
-        font-weight: 150;
+        font-weight: var(--font-mono-weight-black);
 
         &::after {
           content: '←';
@@ -311,7 +325,7 @@ article {
 
   .meta {
     color: var(--light);
-    font-size: 0.9em;
+    font-size: var(--font-body-s);
     margin-top: .875em;
     display: flex;
     flex-direction: row;
@@ -383,7 +397,7 @@ figure {
   }
 
   figcaption {
-    font-size: 0.9em;
+    font-size: var(--font-body-s);
     padding: 0.2rem 0 0.4em;
     color: var(--light);
   }
@@ -396,7 +410,7 @@ figure {
 
 .📅 {
   display: block;
-  font-weight: 100;
+  font-weight: var(--font-weight-thin);
   color: var(--light);
   font-variant-numeric: tabular-nums;
   letter-spacing: -.012em;
@@ -411,7 +425,7 @@ figure {
 
   a {
     letter-spacing: -0.014em;
-    font-weight: 600;
+    font-weight: var(--font-weight-semibold);
     text-decoration: none;
 
     &:visited {
@@ -424,13 +438,13 @@ figure {
   }
 
   span {
-    font-weight: 200;
+    font-weight: var(--font-weight-light);
   }
 
   .year {
     grid-column-start: span 2;
     margin-top: 1.5em;
-    font-weight: 100;
+    font-weight: var(--font-weight-thin);
     color: var(--light);
   }
 
@@ -467,7 +481,7 @@ sup a {
 
 .footnotes {
   margin-top: 3em;
-  font-size: .9em;
+  font-size: var(--font-body-s);
   color: var(--light);
 
   hr {
@@ -493,7 +507,7 @@ sup a {
 
   h1 {
     font-family: var(--font-mono);
-    font-weight: 150;
+    font-weight: var(--font-mono-weight-black);
   }
 }
 
@@ -515,8 +529,8 @@ sup a {
     h2 {
       margin: 0;
       padding: 0;
-      font-size: 1rem;
-      font-weight: bold;
+      font-size: var(--font-body-m);
+      font-weight: var(--font-weight-bold);
     }
   }
 
@@ -527,7 +541,7 @@ sup a {
   .meta {
     display: block;
     margin-top: 1rem;
-    font-size: .8rem;
+    font-size: var(--font-body-s);
     color: var(--light);
   }
 }
@@ -563,7 +577,7 @@ sup a {
 
 .book-info {
   margin-top: 4em;
-  font-size: .75rem;
+  font-size: var(--font-body-s);
   row-gap: 1rem;
   column-gap: 3rem;
   display: flex;
@@ -572,14 +586,14 @@ sup a {
 }
 
 .field-name {
-  font-weight: bold;
+  font-weight: var(--font-weight-bold);
 }
 
 .index {
   .section-link {
     display: block;
     text-decoration: none;
-    font-weight: 100;
+    font-weight: var(--font-weight-thin);
     margin: 2rem 0 1rem;
 
     &:hover {
