@@ -1,7 +1,7 @@
 ---
 title: "Debug Adapter Protocol"
 date: 2025-07-12
-slug: consistent_semconv
+slug: helix_dap
 draft: true
 tags: ["engineering", "debugging", "writing"]
 ---

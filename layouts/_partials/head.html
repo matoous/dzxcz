@@ -1,0 +1,28 @@
+<meta charset="utf-8">
+<meta content="width=device-width,minimum-scale=1" name="viewport">
+{{ $description := or .Description .Summary site.Params.description }}
+{{ with $description }}
+  {{ $cleanDescription := . | plainify | htmlUnescape | trim " \n\r\t" }}
+<meta name="description" content="{{ $cleanDescription }}">
+{{ end }}
+{{ partial "opengraph.html" . }}
+{{ partial "twitter_cards.html" . }}
+{{ partial "schema.html" . }}
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+<link rel="icon" type="image/x-icon" href="{{ "favicon.png" | relURL }}">
+<style>
+  {{ $style := resources.Get "css/main.scss" | toCSS | minify }}
+  {{ $style.Content | safeCSS }}
+</style>
+<style>
+  {{ $style := resources.Get "css/syntax.css" | minify }}
+  {{ $style.Content | safeCSS }}
+</style>
+<link rel="canonical" href="{{ .Permalink }}">
+<title>{{ if .Title }}{{ .Title }}  - {{ end }}{{ .Site.Title }}</title>
+<link href="mailto:matousdzivjak@gmail.com" rel="me">
+<link href="https://github.com/matoous" rel="me">
+<link href="https://www.linkedin.com/in/matous-dzivjak/" rel="me">
+<link href="https://www.instagram.com/matousdz/" rel="me">

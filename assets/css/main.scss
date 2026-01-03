@@ -287,20 +287,17 @@ body.gallery {
 }
 
 header {
-  margin: 2rem 0;
+  margin-bottom: 2rem;
 
   h1 {
     font-size: 3.0rem;
     margin: 0;
+    line-height: 1em;
   }
 }
 
 
 article {
-  header h1 {
-    line-height: 1em;
-  }
-
   iframe {
     max-width: 100%;
   }
@@ -309,6 +306,7 @@ article {
     display: block;
     font-style: italic;
     color: var(--light);
+    font-size: 2rem;
   }
 
   .meta {

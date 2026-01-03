@@ -1,5 +1,5 @@
 baseURL: "https://dzx.cz/"
-languageCode: "en-us"
+languageCode: "en-US"
 title: "Matouš Dzivjak"
 author:
   name: "Matouš Dzivjak"
@@ -12,16 +12,38 @@ permalinks:
   books: /:year-:month-:day/:slug
   atoms: /:year-:month-:day/:slug
   photos: /photos/:slug
+params:
+  description: "Personal website with articles, projects and other work of Matous Dzivjak"
+  mainSections: ["books", "posts"]
+  math: true
+  author:
+    name: "Matouš Dzivjak"
+    email: "matousdzivjak@gmail.com"
 markup:
+  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - '\['
+            - '\]'
+          - - $$
+            - $$
+          inline:
+          - - '\('
+            - '\)'
+        enable: true
+  highlight:
+    noClasses: false
+    style: "modus-operandi"
+    codeFences: true
   tableOfContents:
     endLevel: 4
     ordered: false
     startLevel: 2
-  highlight:
-    noclasses: false
 outputFormats:
   rss:
     baseName: rss
@@ -84,10 +106,3 @@ menu:
     name: Wiki
     url: https://wiki.dzx.cz
     weight: 9
-
-params:
-  description: "Personal website with articles, projects and other work of Matous Dzivjak"
-  mainSections: ["books", "posts"]
-  author:
-    name: "Matouš Dzivjak"
-    email: "matousdzivjak@gmail.com"

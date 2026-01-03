@@ -3,7 +3,7 @@
   {{ range ($pages.GroupByDate "2006") }}
   <div class="year">{{ .Key }}</div>
   {{ range .Pages }}
-  <a href="{{.Permalink}}">
+  <a href="{{ .RelPermalink }}">
     {{.Title}}
     {{ with .Params.authors }}
     <span>
