@@ -6,7 +6,7 @@ draft: false
 isbn10: '1444723251'
 isbn13: '9781444723250'
 slug: on_writing
-tags: []
+tags: [reading, writing, biography, memoir]
 title: 'On Writing: A Memoir of the Craft'
 authors:
 - name: Stephen King

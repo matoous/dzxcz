@@ -6,9 +6,7 @@ draft: false
 isbn10: 0399590501
 isbn13: '9780399590504'
 slug: educated
-tags:
-- memoir
-- reading
+tags: [reading, memoir, biography]
 title: Educated
 authors:
 - name: Tara Westover

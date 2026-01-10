@@ -15,7 +15,7 @@ authors:
   url: https://en.wikipedia.org/wiki/Simon_Singh
 ---
 
-The Code Book is a short and approachable introduction to cryptography. On 200 pages it goes through Caesar and Vigenere cipher through enigma all the way to Diffie-Hellman key exchange and RSA public key cryptography. It's a good book if these topics are new to you, but even with basic knowledge of cryptography and mathematics it falls short and the stories from the history on their own doesn't make it worthwhile read. For a summary of this book, see:
+The Code Book is a short and approachable introduction to cryptography. On 200 pages it goes through Caesar and Vigenere cipher through enigma all the way to Diffie-Hellman key exchange and RSA public key cryptography. It's a good book if these topics are new to you, but even with basic knowledge of cryptography and mathematics it falls short and the stories from the history on their own don't make it worthwhile read. For a summary of this book, see:
 
 - [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) (2014 movie)
 - [RSA](https://en.wikipedia.org/wiki/RSA_cryptosystem)
