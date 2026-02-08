@@ -41,52 +41,47 @@ After full circle, going from [Firefox](https://www.mozilla.org/en-US/firefox/ne
 
 ### iA Writer
 
-For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) I use [iA Writer](https://ia.net/writer). It's an exceptionally well built writing software that helps me write. Built-in syntax highlight and style checking means one can focus on the content and iA Writer takes care of typos, common clichés, or redundancies. 
+For writing posts for this blog and managing [wiki.dzx.cz](https://wiki.dzx.cz) I use [iA Writer](https://ia.net/writer). It's an exceptionally well built writing software that helps me write. Built-in syntax highlight and style checking means one can focus on the content and iA Writer takes care of typos, common clichés, or redundancies.
 
 ### Tools
 
-- [ag](https://github.com/ggreer/the_silver_searcher) for code search
-- [amber](https://github.com/dalance/amber) for search and replace
-- [jq](https://stedolan.github.io/jq/) for JSON
-- [yq](https://github.com/mikefarah/yq) for YAML
-- [fd](https://github.com/sharkdp/fd) for finding files
-- [git](https://github.com/git/git) for version control obviously.
 - [HTTPie](https://httpie.org/) for HTTP
-- [fzf](https://github.com/junegunn/fzf) 
-- [exa](https://github.com/ogham/exa) modern alternative to `ls`
-- [htop](https://htop.dev/) - interactive process viewer
-- [pandoc](https://github.com/jgm/pandoc) for documents and markdown, convert anything to anything
-- [Mackup](https://github.com/lra/mackup) for dotfiles backup
-- [ffsend](https://github.com/timvisee/ffsend) to share files from terminal
-- [hugo](https://github.com/gohugoio/hugo) for static websites
-- [dive](https://github.com/wagoodman/dive) for exploring docker images
-- [gist](https://github.com/defunkt/gist) for uploading stuff to gist
-- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) for downloading my favorite DJ sets from youtube
+- [amber](https://github.com/dalance/amber) for search and replace
 - [bat](https://github.com/sharkdp/bat) - `cat` alternative with colors and more
-- [trash](https://github.com/ali-rantakari/trash) to not shoot myself in the leg when running `rm`
+- [biff](https://github.com/BurntSushi/biff) for date-time handling on command line
+- [codex](github.com/openai/codex) for running coding agents in terminal
+- [dive](https://github.com/wagoodman/dive) for exploring docker images
+- [doggo](https://github.com/mr-karan/doggo) as a DNS client
+- [dua](https://github.com/Byron/dua-cli) to view disk space usage and delete unwanted data
+- [eza](https://github.com/eza-community/eza) modern alternative to `ls`
+- [fd](https://github.com/sharkdp/fd) for finding files
+- [fzf](https://github.com/junegunn/fzf)
+- [git](https://github.com/git/git) for version control obviously.
+- [htop](https://htop.dev/) - interactive process viewer
+- [hugo](https://github.com/gohugoio/hugo) for static websites
+- [imagemagick](https://github.com/ImageMagick/ImageMagick) to manipulate, resize, and convert images
+- [jq](https://stedolan.github.io/jq/) for JSON
 - [k9s](https://github.com/derailed/k9s) for managing kubernetes stuff
 - [kubectx](https://github.com/ahmetb/kubectx) to switch between kube contexts
-- [imagemagick](https://github.com/ImageMagick/ImageMagick) to manipulate, resize, and convert images
-- [glow](https://github.com/charmbracelet/glow) for markdown files
-- [loc](https://github.com/cgag/loc) to count lines of code in a codebase
 - [neofetch](https://github.com/dylanaraps/neofetch) for fun
-- [pgcli](https://www.pgcli.com/) as a better alternative to the default `psql`
-- [q](https://github.com/harelba/q) to run SQL over csv files
-- [rsync](https://linux.die.net/man/1/rsync) for synchronization between machines
-- [teleport](https://goteleport.com/) for access to clusters and machines
 - [ouch](https://github.com/ouch-org/ouch) for painless compression and decompression in the terminal
+- [pandoc](https://github.com/jgm/pandoc) for documents and markdown, convert anything to anything
+- [pgcli](https://www.pgcli.com/) as a better alternative to the default `psql`
+- [rg](https://github.com/burntSushi/ripgrep) for code search
+- [rsync](https://linux.die.net/man/1/rsync) for synchronization between machines
+- [trash](https://github.com/ali-rantakari/trash) to not shoot myself in the leg when running `rm`
+- [worktrunk](https://worktrunk.dev/) for Git worktree management for parallel AI agent workflows
+- [zoxide](https://github.com/ajeetdsouza/zoxide) as a faster `cd`
 
 ### Apps
 
 - [1Password](https://1password.com/) for passwords management
-- [balenaEtcher](https://www.balena.io/etcher/) for flashing OS images to SD crds & USB driver
-- [boop](https://github.com/IvanMathy/Boop) tool for text wrangling and small utilities
-- [devtoys](https://devtoys.app/) various developer tools for converting formats, images, and much more. Currently testing as a replacement for `boop`.
 - [IINA](https://github.com/iina/iina) for videos
-- [Insomnia](https://github.com/Kong/insomnia) - API client
-- [Itsycal](https://github.com/sfsam/Itsycal) - tiny calendar for menu bar
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) for preventing the MacOS from sleeping
 - [Ice](https://github.com/jordanbaird/Ice) - a menu bar manager for MacOS to keep it nice and tidy.
+- [Itsycal](https://github.com/sfsam/Itsycal) - tiny calendar for menu bar
+- [Maccy](https://maccy.app/) - clipboard manager
+- [balenaEtcher](https://www.balena.io/etcher/) for flashing OS images to SD crds & USB driver
+- [devtoys](https://devtoys.app/) various developer tools for converting formats, images, and much more. Currently testing as a replacement for `boop`.
 
 ## Mac Setup
 
