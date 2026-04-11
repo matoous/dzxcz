@@ -1,6 +1,6 @@
-use books::{add_book, BooksArgs, BooksCommands};
-use clap::{command, Parser, Subcommand};
-use photos::{add_photos, PhotosArgs, PhotosCommands};
+use books::{BooksArgs, BooksCommands, add_book};
+use clap::{Parser, Subcommand};
+use photos::{PhotosArgs, PhotosCommands, add_photos};
 
 mod books;
 mod photos;

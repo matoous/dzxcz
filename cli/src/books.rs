@@ -1,6 +1,7 @@
 use std::{fs::File, io::Write, process::exit};
 
-use clap::{command, Args, Subcommand};
+use clap::{Args, Subcommand};
+use jiff::Zoned;
 use serde::{Deserialize, Serialize};
 
 #[derive(Args, Debug, Clone)]
@@ -24,7 +25,6 @@ pub struct BooksAddArgs {
 struct OpenLibraryData {
     title: String,
     authors: Option<Vec<Author>>,
-    publish_date: Option<String>,
     identifiers: Identifiers,
 }
 
@@ -36,6 +36,7 @@ struct Author {
 
 #[derive(Serialize, Deserialize, Debug)]
 struct Identifiers {
+    isbn_10: Option<Vec<String>>,
     isbn_13: Option<Vec<String>>,
 }
 
@@ -73,7 +74,7 @@ pub fn add_book(args: BooksAddArgs) {
         }
     };
 
-    let book_data = response.get(&format!("ISBN:{}", isbn));
+    let book_data = response.get(format!("ISBN:{}", isbn));
     if book_data.is_none() {
         eprintln!("No book found for ISBN: {}", isbn);
         exit(1);
@@ -86,8 +87,16 @@ pub fn add_book(args: BooksAddArgs) {
     // Extract data
     let title = book_data.title.clone();
     let authors = book_data.authors.unwrap_or_default();
-    let date = book_data.publish_date.unwrap_or_default();
+    let date = Zoned::now().date().to_string();
     let slug = slugify(&title);
+
+    let isbn10 = book_data
+        .identifiers
+        .isbn_10
+        .unwrap_or_default()
+        .first()
+        .cloned()
+        .unwrap_or_default();
 
     let isbn13 = book_data
         .identifiers
@@ -107,7 +116,7 @@ pub fn add_book(args: BooksAddArgs) {
             book_title: title.clone(),
             date,
             draft: true,
-            isbn10: "TODO".into(),
+            isbn10,
             isbn13,
             slug,
             tags: vec!["reading".into()],

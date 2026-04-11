@@ -95,10 +95,10 @@ pub fn add_photos(args: PhotosAddArgs) {
     if args.dir.is_dir() {
         if let Ok(entries) = fs::read_dir(args.dir) {
             for entry in entries.flatten() {
-                if let Some(extension) = entry.path().extension() {
-                    if let Some("jpg") | Some("jpeg") = extension.to_str() {
-                        files.push(entry.path());
-                    }
+                if let Some(extension) = entry.path().extension()
+                    && let Some("jpg") | Some("jpeg") = extension.to_str()
+                {
+                    files.push(entry.path());
                 }
             }
         }
